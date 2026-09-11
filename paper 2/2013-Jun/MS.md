@@ -94,8 +94,3 @@ For more information on Edexcel qualifications, please visit our website www.ede
 
 Pearson Education Limited. Registered company number 872828 with its registered office at Edinburgh Gate, Harlow, Essex CM20 2JE
 
-<div style='text-align: center;'><img src='assets/crop_1_1789069335015.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789069335021.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_3_1789069335026.png' alt='OCR图片'/></div>

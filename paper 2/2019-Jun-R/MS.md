@@ -1,49 +1,25 @@
-<div style='text-align: center;'><img src='assets/crop_1_1789069564836.png' alt='OCR图片'/></div>
-
 PMT
-
 Pearson Edexcel
-
 <div align="center">
-
 # Mark Scheme (Results)
-
 </div>
-
 Summer 2019
-
 Pearson Edexcel International GCSE in Chemistry (4CH1) Paper 2CR
-
 ## Edexcel and BTEC Qualifications
-
 Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.Edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.Edexcel.com/contactus.
-
 ## Pearson: helping people progress, everywhere
-
 Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
-
 Summer 2019 Publications Code 4CH1_2CR_msc_20190822 All the material in this publication is copyright $ \textcircled{c} $ Pearson Education Ltd 2019
-
 ## General Marking Guidance
-
 - All candidates must receive the same treatment. Examiners must mark the first candidate in actly the same way as they mark the last.
-
 - Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
-
 - Examiners should mark according to the mark scheme not according to their perception of where the e boundaries may lie.
-
 - There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
-
 - All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
-
 - Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
-
 - When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
-
 - Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">1</td><td>(a)(i)</td><td>argon and helium</td><td>ALLOW Ar and He</td><td>1</td></tr><tr><td>(ii)</td><td>carbon dioxide</td><td>ALLOW CO2If both name and formula given both must be correct</td><td>1</td></tr><tr><td>(iii)</td><td>nitrogen</td><td>ALLOW N2IGNORE N</td><td>1</td></tr><tr><td>(iv)</td><td>carbon dioxide</td><td>ALLOW CO2If both name and formula given both must be correct</td><td>1</td></tr><tr><td colspan="2">(b)</td><td>relights a glowing spill/splint</td><td></td><td>1Total 5</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>2(a)</td><td>atomic number5
 mass number11
 number of neutrons6
@@ -58,21 +34,17 @@ ACCEPT10.81and10.813
 Correct answer without working scores2
 11 without working scores0
 11 with correct working scores1</td><td>2</td></tr><tr><td></td><td></td><td></td><td>Total7</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="8">3</td><td>(a)(i)</td><td>fractional distillation</td><td>ALLOW fractionating/fractionation</td><td>1</td></tr><tr><td>(ii)</td><td>crude oil/it is heated/vapourised</td><td>ALLOW boiled
 IGNORE evaporates</td><td>1</td></tr><tr><td>(iii)</td><td>A description which refers to the following four points</td><td>ACCEPT reverse arguments for E</td><td>4</td></tr><tr><td></td><td>M1 B contains larger/longer molecules</td><td></td><td></td></tr><tr><td></td><td>M2 B has a higher boiling point</td><td>ALLOW E is more volatile
 IGNORE melting point</td><td></td></tr><tr><td></td><td>M3 B has a darker colour</td><td>ALLOW arison giving specific colours e.g B is orange and E is pale yellow</td><td></td></tr><tr><td></td><td>M4 B is more viscous/has greater viscosity</td><td>ALLOW E is more runny
 MAX 2 marks if no reference to fractions E or B in the answer?</td><td></td></tr><tr><td rowspan="5">(b)</td><td></td><td>An planation which links the following two points</td><td></td><td>2</td></tr><tr><td></td><td>M1 (when sulfur burns) sulfur dioxide/SO2 is formed</td><td>ALLOW sulfur trioxide/SO3
 IGNORE sulfur oxides</td><td></td></tr><tr><td></td><td>M2 causes acid rain</td><td>ALLOW a specified harmful effect of acid rain
 ACCEPT references to causing/acerbating respiratory problems</td><td></td></tr><tr><td></td><td></td><td>ALLOW greenhouse gas/causes global warming/imate change</td><td></td></tr><tr><td></td><td></td><td></td><td>Total 8</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>4(a)</td><td>M1fluorine- gasM2astatine- black</td><td>ACCEPTvery dark grey</td><td>2</td></tr><tr><td>(b)</td><td>An planation linking the following two pointsM1bromine/Br2is formed/displaced/producedM2as chlorine is more reactive(than bromine)</td><td>REJECTbromide for bromineACCEPTbromine/Br2shown as the productin an equationIGNOREstate of bromineREJECTbromide/chloride</td><td>2</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>4(c)</td><td>M1 correct structure of potassium ion
 K+</td><td>ACCEPT any combination of dots and crosses.
 IGNORE inner shells even if incorrect</td><td>3</td></tr><tr><td></td><td>M2 correct structure of bromide ion
 Br-</td><td></td><td></td></tr><tr><td></td><td>M3 charges on both ions correct (with or without square brackets).</td><td></td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>4(d)</td><td>An planation linking the following five points
 M1water is covalently bonded/has a simple molecular structure
 M2water does not contain any free (moving) charged parti es(so does not conduct electricity)
@@ -92,16 +64,13 @@ ACCEPToxidation number of chlorine increases(by1)/changes from-1to0
 REJECTchlorine loses electrons
 IGNOREreferences to gain of oxygen</td><td>1
 1</td></tr></table>
-
 <table border="1"><tr><td>(iii)</td><td>A hydrogen
 B is incorrect as oxygen is not formed at the cathode
 C is incorrect as sodium is not formed when graphite electrodes are used
 D is incorrect as water is not formed at the cathode</td><td></td><td>1
 Total 15</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="5">5</td><td rowspan="4">(a)(i)</td><td>$2\text{CH}_{3}\text{COOH}+\text{K}_{2}\text{CO}_{3}\rightarrow 2\text{CH}_{3}\text{COOK}+\text{CO}_{2}+\text{H}_{2}\text{O}$</td><td>ALLOW multiples</td><td>2</td></tr><tr><td>M1 2CH_{3}\text{COOK}$</td><td>ACCEPT 2CH_{3}\text{COO}^{-}\text{K}^{+}$</td><td></td></tr><tr><td>M2 CO_{2}+\text{H}_{2}\text{O}$</td><td>ALLOW 2KCH_{3}\text{COO}$</td><td></td></tr><tr><td>(ii) effervescence / fizzing / bubbles</td><td>If M1 not awarded any numbers before CO_{2}+\text{H}_{2}\text{O} can be ignored and M2 can be awarded.
 For both marks to be awarded the equation must be correctly balanced</td><td></td></tr><tr><td rowspan="3">(b)(i)</td><td>(acts as a) catalyst</td><td>IGNORE carbon dioxide/gas given off/evolved/formed /produced</td><td>1</td></tr><tr><td>(ii) ethanol is flammable / might catch fire / might ignite</td><td>ACCEPT ethyl ethanoate /the mixture /it is flammable /might catch fire /might ignite</td><td>1</td></tr><tr><td>(iii) ester has) sweet / fruity / distinctive smell</td><td>ALLOW liquid (ester) floats on top of mixture OWTTE</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(c)(i)</td><td>H
 H-C-O-H
 H
@@ -112,13 +81,11 @@ If incorrect number of carbon atoms in alcohol and or acid allow ECF for structu
 ACCEPT H2O</td><td>3</td></tr><tr><td>(ii)</td><td></td><td></td><td>1</td></tr><tr><td>(d)</td><td>food flavourings/perfumes</td><td>ACCEPT any correct use
 e.g. in cosmetics/making soaps/making detergents/solvents
 (for paints/varnishes)</td><td>1</td></tr><tr><td></td><td></td><td></td><td>Total 11</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td colspan="3">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6</td><td>(a)</td><td colspan="3">pipette</td><td></td><td>1</td></tr><tr><td></td><td>(ii)</td><td colspan="3">red wine would mask the colour of the indicator / difficult to see colour change (at end point)</td><td>ACCEPT indicator and red wine are a similar colour OWTTE</td><td>1</td></tr><tr><td></td><td>(iii)</td><td colspan="3">to mix the contents (of the flask so that they can react) OWTTE</td><td>ACCEPT to ensure the colour change is permanent OWTTE
 ALLOW to speed up the reaction/ to ensure late reaction</td><td>1</td></tr><tr><td></td><td>(iv)</td><td colspan="3">so as not to add more wine than is needed (for late reaction)/ so as not to overshoot the end point OWTTE</td><td>ACCEPT to find the act/precise point of neutralisation
 IGNORE to obtain an accurate reading</td><td>1</td></tr><tr><td colspan="2">(b)</td><td></td><td></td><td></td><td>MAX2 if final and initial burette readings are reversed.
 MAX2 if readings not given to 2 decimal places.
 ALLOW ECF for M3 on correct subtraction of M1-M2</td><td>3</td></tr><tr><td></td><td></td><td>M1</td><td>final burette reading in cm3</td><td>22.70</td><td></td><td></td></tr><tr><td></td><td></td><td>M2</td><td>initial burette reading in cm3</td><td>2.15</td><td></td><td></td></tr><tr><td></td><td></td><td>M3</td><td>volume of wine added in cm3</td><td>20.55</td><td></td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(c)(i) ip(ii) ip</td><td>Ticks in boxes 1,3 and 4
 • setting out of calculation
 • answer
@@ -130,7 +97,6 @@ If only one result ticked thenM2can be scored for averaging two or more titre va
 M1CQ on results ticked
 M2CQ on correct calculation fromM1
 Answer toM2must be correct to2dp</td><td></td></tr></table>
-
 <table border="1"><tr><td>(d)(i)</td><td> setting out of calculation
 final answer
 M1 25.0 x 0.05(00)
@@ -155,9 +121,7 @@ answer to (ii)
 correctly evaluated to 2 or more sig figs. scores 1
 Do not penalise not multiplying by 1000 in (iii) if they have not divided by 1000 in (i)
 Total 15</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">7</td><td rowspan="3">(a)</td><td rowspan="3">reversible reaction</td><td>IGNORE references to equilibrium</td><td rowspan="3">1</td></tr><tr><td>ALLOW the reaction goes both ways</td></tr><tr><td>ALLOW the reaction can go forwards and backwards</td></tr><tr><td rowspan="3">(b)</td><td rowspan="3">(i)</td><td>M1 yield increases</td><td>ACCEPT more hydrogen produced</td><td rowspan="3">2</td></tr><tr><td>M2(equilibrium shifts to the right as the forward) reaction is endothermic</td><td>IGNORE references to Le Chatelier e.g. an increase in temperature favours the forward reaction</td></tr><tr><td>M2 dep on M1 correct or missing</td></tr><tr><td rowspan="4">(ii)</td><td rowspan="4">(ii)</td><td>M1 yield decreases</td><td>ACCEPT less hydrogen produced</td><td rowspan="4">2</td></tr><tr><td>M2(equilibrium shifts to the left as) fewer moles/molecules(of gas) on lhs/more moles/molecules(of gas) on rhs OWTTE</td><td>ALLOW parti es</td></tr><tr><td rowspan="2">IGNORE references to Le Chatelier e.g. an increase in pressure favours the side with fewer moles</td><td>REJECT atoms</td></tr><tr><td>M2 dep on M1 correct or missing</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>7(c)</td><td>calculate the amount, in moles, of methane
 use the equation to calculate the amount of hydrogen
 multiply amount by 24 to find the volume of hydrogen
@@ -172,5 +136,4 @@ Common answers4.5 x 104(3)45,000(2)
 4.5 x 101(3)45(2)
 1.5 x 107(3)15,000,000(2)
 NOTE even if working is incorrect e.g. division by 24 instead of multiplicationM4can still be awarded for correct conversion to standard form</td><td>4</td></tr><tr><td></td><td></td><td></td><td>Total 9</td></tr></table>
-
 TOTAL MARKS 70

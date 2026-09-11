@@ -158,8 +158,3 @@ Order Code xxxxxxxx Summer 2013
 
 For more information on Edexcel qualifications, please visit our website www.edexcel.com
 
-<div style='text-align: center;'><img src='assets/crop_1_1789047059052.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789047059109.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_3_1789047059113.png' alt='OCR图片'/></div>

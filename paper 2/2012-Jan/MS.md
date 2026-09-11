@@ -85,8 +85,4 @@ Order Code xxxxxxxx January 2012
 
 For more information on Edexcel qualifications, please visit www.edexcel.com/quals
 
-<div style='text-align: center;'><img src='assets/crop_1_1789063836300.png' alt='OCR图片'/></div>
-
 <div style='text-align: center;'><img src='assets/crop_2_1789063836353.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_3_1789063836372.png' alt='OCR图片'/></div>
