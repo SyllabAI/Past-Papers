@@ -66,6 +66,7 @@ Complete the table to show the state symbol before and after the change.
 Complete the equation for the reaction that occurs by writing the appropriate state symbol after each formula.
 $$
 \mathrm {C a C O} _ {3} (\dots \dots 
+$$
 (c) Which state symbol is used most often for the elements of the Periodic Table at room temperature?
 <div align="center">
 (Total for Question 2 = 6 marks)
@@ -220,6 +221,7 @@ Temperature in $ ^{\circ} \mathrm{C} $
 (ii) For the point where the lines cross, write down
 $$
 \mathrm {t h e t a m e r a t u r e o f t h e m i x t u r e} = \dots \dots
+$$
 (d) In a similar experiment, using a different acid and alkali, the student records these results.
 volume of dilute sulfuric acid = 25.0 $ cm^{3} $
 volume of aqueous potassium hydroxide = 22.7 $ cm^{3} $

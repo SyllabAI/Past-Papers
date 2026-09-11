@@ -143,6 +143,7 @@ State the name of the catalyst used in this reaction.
 (ii) Complete the equation for reaction 1.
 $$
 \mathrm {C} _ {6} \mathrm {H} _ {1 2} \mathrm {O} _ {6} \rightarrow 2 \mathrm {C} _ {2} \mathrm {H} _ {5} \mathrm {O H} + \dots \dots
+$$
 (b) Ethanol can also be manufactured by reaction 3, which uses steam, a catalyst of phosphoric acid and a pressure of about 65 atm.
 State the temperature used in reaction 3.
 (c) State the type of reaction that occurs in

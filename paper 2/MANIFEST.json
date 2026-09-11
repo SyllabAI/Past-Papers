@@ -7,7 +7,8 @@
   "Barcode / page-furniture / logo crops were deliberately excluded by the OCR conversion; the md reference set is the wanted set.",
   "Qualification codes: sessions before 2019 are expected 4CH0 (A*-G), 2019+ expected 4CH1 (9-1) - confirm against paper covers before tagging curriculum codes.",
   "Near-duplicate conversions (differing only in OCR table-structure variance) were reduced to one primary conversion per document; the alternates remain recoverable from git history and are listed under sessions[slug].superseded_duplicates with their unique images preserved.",
-  "Batch 2026-09-11 05:57 UTC: 46 additional root conversions ingested (0 identical duplicates skipped); 657 new image URLs downloaded (0 failures)."
+  "Batch 2026-09-11 05:57 UTC: 46 additional root conversions ingested (0 identical duplicates skipped); 657 new image URLs downloaded (0 failures).",
+  "Structural repair pass (deterministic, scripted): GLM-OCR emitted a small number of truncated HTML <table> blocks and unbalanced $$ display-math fences; the canonical parser's greedy consumption swallowed question content following them. Missing closers (</table> / $$) were inserted at deterministic structural boundaries (11 files, 13 insertions: paper 1 - 2013-Jan/QP, 2013-Jun/QP x2, 2014-Jun/MS, 2016-Jun-R/QP x2, 2017-Jan/QP, 2020-Jun/QP, 2022-Jun/QP; paper 2 - 2011-Jun/QP, 2014-Jan/QP, 2015-Jun/QP, 2020-Jan-R/QP). Affected QP/MS sha256 recomputed."
  ],
  "dropped_duplicates": [],
  "download_failures": [],
@@ -102,7 +103,7 @@
     "QP": {
      "original_name": "June 2011 QP - Paper 2C Edexcel Chemistry IGCSE-2026-09-10_18-18-57.md",
      "path": "QP.md",
-     "sha256": "644a9c2210eb3a4eb66ae1d23e78bb17af145aee0e5f7f1cd4b4efde61996ad5"
+     "sha256": "c93052f4e193d8e475eb1b4c7328e024555ed5ab9318e6a88b140590bc210057"
     }
    },
    "image_count": 6,
@@ -546,7 +547,7 @@
     "QP": {
      "original_name": "January 2014 QP - Paper 2C Edexcel Chemistry IGCSE-2026-09-10_18-12-40.md",
      "path": "QP.md",
-     "sha256": "17365c0211ab660473410b5fa85726c90e06aeff9767f070513becda2b12962c"
+     "sha256": "79bd80919c262be1a7698ce41dfdb06a796c207ab5729f027dd2470c282d4e2d"
     }
    },
    "image_count": 6,
@@ -848,7 +849,7 @@
     "QP": {
      "original_name": "June 2015 QP - Paper 2C Edexcel Chemistry IGCSE-2026-09-10_19-44-10.md",
      "path": "QP.md",
-     "sha256": "f95760307612ff58cfb18ce0c3ebd8fcfa1bdc16d7169fe09af5dd9b9d51cbc5"
+     "sha256": "face72f4a8764f5f66c2bfd57e38e7887ec4a46c9b67672d54827404a5bc39fe"
     }
    },
    "image_count": 9,
@@ -2212,7 +2213,7 @@
     "QP": {
      "original_name": "January 2020 (R) QP-2026-09-10_18-15-20.md",
      "path": "QP.md",
-     "sha256": "aa43ba57924e75583a385f2911229bb8458b10d0b246c5e795a3e11d888eff01"
+     "sha256": "960bce5cd160919487dd76582040f9957efc99d9e0211c97fb6cf02a41161d62"
     }
    },
    "image_count": 12,
@@ -4628,5 +4629,15 @@
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F202609111330010aaf5e21cf6945e3%2Fcrop_1_1789104627895.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=CF8ZxrBwlEEopFAOEedZHk6dU2o%3D&Expires=1789709427"
    ]
   }
+ },
+ "structural_repair": {
+  "date_utc": "2026-09-11 12:01:13 UTC",
+  "files_updated": 4,
+  "updated": [
+   "2011-Jun/QP.md",
+   "2014-Jan/QP.md",
+   "2015-Jun/QP.md",
+   "2020-Jan-R/QP.md"
+  ]
  }
 }

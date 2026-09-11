@@ -102,6 +102,7 @@ The table shows her results.
 (ii) Balance the equation for the reaction between $ \mathrm{W O}_{3} $ and hydrogen.
 $$
 \mathrm {W O} _ {3} + \dots \dots
+$$
 (iii) Why is this reaction described as reduction?
 (b) Scheelite is an ore of tungsten.
 The main compound in scheelite has the percentage composition by mass $ \mathrm{C a}=1 3. 9 \% $ $ \mathrm{W}=6 3. 9 \% $ $ \mathrm{O}=2 2. 2 \% $

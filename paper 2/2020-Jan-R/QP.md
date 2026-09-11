@@ -134,6 +134,7 @@ One of the products of this electrolysis is lead.
 Complete the ionic half-equation for the oxidation of bromide ions.
 $$
 2 \mathrm {B r} ^ {-} \rightarrow + \dots \dots
+$$
 (iii) Explain why lead metal forms at the negative electrode.
 (iv) The teacher stops heating the mixture and allows it to solidify. Suggest why the lamp stays alight.
 (Total for Question 4 = 7 marks)

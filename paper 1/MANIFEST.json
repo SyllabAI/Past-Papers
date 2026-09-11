@@ -5,7 +5,8 @@
  "notes": [
   "Images are local copies of GLM-OCR signed-URL crops that expire (paper 1 ~2026-09-17, paper 2 ~2026-09-18); original URLs preserved per-image for provenance.",
   "Barcode / page-furniture / logo crops were deliberately excluded by the OCR conversion; the md reference set is the wanted set.",
-  "Qualification codes: sessions before 2019 are expected 4CH0 (A*-G), 2019+ expected 4CH1 (9-1) - confirm against paper covers before tagging curriculum codes."
+  "Qualification codes: sessions before 2019 are expected 4CH0 (A*-G), 2019+ expected 4CH1 (9-1) - confirm against paper covers before tagging curriculum codes.",
+  "Structural repair pass (deterministic, scripted): GLM-OCR emitted a small number of truncated HTML <table> blocks and unbalanced $$ display-math fences; the canonical parser's greedy consumption swallowed question content following them. Missing closers (</table> / $$) were inserted at deterministic structural boundaries (11 files, 13 insertions: paper 1 - 2013-Jan/QP, 2013-Jun/QP x2, 2014-Jun/MS, 2016-Jun-R/QP x2, 2017-Jan/QP, 2020-Jun/QP, 2022-Jun/QP; paper 2 - 2011-Jun/QP, 2014-Jan/QP, 2015-Jun/QP, 2020-Jan-R/QP). Affected QP/MS sha256 recomputed."
  ],
  "dropped_duplicates": [
   "January 2012 MS - Paper 1C Edexcel Chemistry IGCSE-2026-09-10_12-04-53.md"
@@ -648,7 +649,7 @@
     "QP": {
      "original_name": "January 2013 QP - Paper 1C Edexcel Chemistry IGCSE-2026-09-10_12-07-59.md",
      "path": "QP.md",
-     "sha256": "dd5753eba173aab13c477eff0ae03c22d39739796508c4cdab56e120274f8eb8"
+     "sha256": "e5285c8628e38432f2ad04809cf2a236eb17754bf241eeb7d5360f534d44fd45"
     }
    },
    "image_count": 6,
@@ -719,7 +720,7 @@
     "QP": {
      "original_name": "June 2013 QP - Paper 1C Edexcel Chemistry IGCSE-2026-09-10_13-37-24.md",
      "path": "QP.md",
-     "sha256": "1dc051d9c0ae7f14399b59bc6fe64d8e818caffa236da2b4ce85daea4c015137"
+     "sha256": "d59ce7ec2cbb30c80bdae34e3912138a2bec7f90c58d1509bd01bc3788b026fc"
     }
    },
    "image_count": 10,
@@ -1206,7 +1207,7 @@
     "MS": {
      "original_name": "June 2014 MS - Paper 1C Edexcel Chemistry IGCSE-2026-09-10_13-44-44.md",
      "path": "MS.md",
-     "sha256": "b01e788b64b1cc6c882963c9dd304649e67bc9d0142772fd4a18463357d3d375"
+     "sha256": "27ad5f8b8001baca8ee9329ac6a00a2b01cd341b48427c06e9894268a6c26adf"
     },
     "QP": {
      "original_name": "June 2014 QP - Paper 1C Edexcel Chemistry IGCSE-2026-09-10_13-45-30.md",
@@ -2555,7 +2556,7 @@
     "QP": {
      "original_name": "June 2016 (R) QP - Paper 1C Edexcel Chemistry IGCSE-2026-09-10_13-57-55.md",
      "path": "QP.md",
-     "sha256": "10ba63b186bddcb2bccc2e328d299a55740ee93d85ae94ea57136b116d8e20f3"
+     "sha256": "f6ca23616eaff8c8612c7544f526df3fe3420fdd65f04b1a66209d23655fcc74"
     }
    },
    "image_count": 18,
@@ -2734,7 +2735,7 @@
     "QP": {
      "original_name": "January 2017 QP - Paper 1C Edexcel Chemistry IGCSE-2026-09-10_12-35-47.md",
      "path": "QP.md",
-     "sha256": "2f2fe0f2223b8a1f69e1fadb25ad89a417e472730e6827809f1ffb6165254ccd"
+     "sha256": "34dd2dabcff6de62ae9169a6d4a0bd1c4988af3cba6993a75603ea9390c1f397"
     }
    },
    "image_count": 16,
@@ -4317,7 +4318,7 @@
     "QP": {
      "original_name": "June 2020 QP -2026-09-10_15-49-54.md",
      "path": "QP.md",
-     "sha256": "f8161be32721aa583509a12ca0b94efa35e389b0dad562057afad1c6f0690ada"
+     "sha256": "5a0d064fb5370b1df2e9eb0e7b649aace6acae57f49bb649ed7eacc8447f87ef"
     }
    },
    "image_count": 12,
@@ -5290,7 +5291,7 @@
     "QP": {
      "original_name": "June 2022 QP-2026-09-10_15-59-53.md",
      "path": "QP.md",
-     "sha256": "33a9b16134cb4390e0908e002acc89430bf613b03583d30d0d249e495ca951ab"
+     "sha256": "08e880c6d5fba8ce2d9922972f05aa9e3ed7beb159088cd9642ee85b7bd870b3"
     }
    },
    "image_count": 11,
@@ -7920,5 +7921,18 @@
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911002031bdde2456fc8f4141%2Fcrop_1_1789057261817.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=B5I0esq9tF09AIdHpJvlMOWU3qs%3D&Expires=1789662061"
    ]
   }
+ },
+ "structural_repair": {
+  "date_utc": "2026-09-11 12:01:13 UTC",
+  "files_updated": 7,
+  "updated": [
+   "2013-Jan/QP.md",
+   "2013-Jun/QP.md",
+   "2014-Jun/MS.md",
+   "2016-Jun-R/QP.md",
+   "2017-Jan/QP.md",
+   "2020-Jun/QP.md",
+   "2022-Jun/QP.md"
+  ]
  }
 }

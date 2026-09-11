@@ -210,6 +210,7 @@ Explain why $ C_{60} $ fullerene has a much lower melting point than diamond and
 (i) Complete the equation for the reaction by adding the missing state symbols.
 $$
 \mathrm {P b O (s)} + \mathrm {H} _ {2} (\dots \dots 
+$$
 (ii) What is the charge on the lead ion in PbO?
 A 1-
 B 1+

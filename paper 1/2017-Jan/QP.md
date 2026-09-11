@@ -90,6 +90,7 @@ $$
 Complete the chemical equation for this reaction.
 $$
 \mathrm {N H} _ {3} + \mathrm {H C l} \rightarrow \dots \dots
+$$
 (ii) Draw a circle around each of the two state symbols that could be included in the chemical equation in part (e)(i).
 <div style='text-align: center;'><img src='assets/crop_2_1789043624979.png' alt='OCR图片'/></div>
 (Total for Question 1 = 11 marks)

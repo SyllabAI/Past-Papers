@@ -255,6 +255,7 @@ red lead oxide $ \rightarrow $
 (i) Complete the chemical equation for the reaction.
 $$
 \mathrm {P b} _ {3} \mathrm {O} _ {4} (\dots \dots 
+$$
 (ii) A student is given a sample of solid red lead oxide and some dilute nitric acid.
 Describe how the student could obtain a pure dry sample of lead(II) nitrate crystals.
 (Total for Question 10 = 13 marks)
