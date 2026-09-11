@@ -1,0 +1,503 @@
+<table><tr><td colspan="3">Please check the examination details below before entering your candidate information</td></tr><tr><td colspan="2">Candidate surname</td><td>Other names</td></tr><tr><td>Centre Number</td><td colspan="2">Candidate Number</td></tr><tr><td colspan="3">Pearson Edexcel International GCSE (9-1)</td></tr><tr><td>Time</td><td>2 hours</td><td>Paper reference 4CH1/1CR 4SD0/1CR</td></tr><tr><td colspan="3">Chemistry
+UNIT: 4CH1
+Science (Double Award) 4SD0
+PAPER: 1CR</td></tr><tr><td colspan="2">You must have:
+Calculator, ruler</td><td>Total Marks</td></tr></table>
+
+## Instructions
+
+- Use black ink or ball-point pen.
+
+- Fill in the boxes at the top of this page with your name, centre number and candidate number.
+
+- Answer all questions.
+
+- Answer the questions in the spaces provided
+
+- there may be more space than you need.
+
+- Show all the steps in any calculations and state the units.
+
+## Information
+
+- The total mark for this paper is 110.
+
+- The marks for each question are shown in brackets
+
+- use this as a guide as to how much time to spend on each question.
+
+## Advice
+
+- Read each question carefully before you start to answer it.
+
+- Write your answers neatly and in good English.
+
+- Try to answer every question.
+
+- Check your answers if you have time at the end.
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712748.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789045712801.png' alt='OCR图片'/></div>
+
+<table border="1"><tr><td>7Li lithium3</td><td>9Be beryllium4</td><td colspan="12">Key</td><td>4He helium2</td></tr><tr><td>23Na sodium11</td><td>24Mg magnesium12</td><td colspan="12">relative atomic mass atomic symbol atomic (proton) number</td><td>20Ne neon10</td></tr><tr><td>39K potassium19</td><td>40Ca calcium20</td><td>45Sc scandium21</td><td>48Ti titanium22</td><td>51V vanadium23</td><td>52Cr chromium24</td><td>55Mn manganese25</td><td>56Fe iron26</td><td>59Co cobalt27</td><td>59Ni nickel28</td><td>63.5Cu copper29</td><td>65Zn zinc30</td><td>70Ga gallium31</td><td>73Ge germanium32</td><td>75As arsenic33</td><td>79Se selenium34</td><td>80Br bromine35</td><td>84Kr krypton36</td></tr><tr><td>85Rb rubidium37</td><td>88Sr strontium38</td><td>89Y yttrium39</td><td>91Zr zirconium40</td><td>93Nb niobium41</td><td>96Mo molybdenum42</td><td>[98]Tc technetium43</td><td>101Ru ruthenium44</td><td>103Rh rhodium45</td><td>106Pd palladium46</td><td>108Ag silver47</td><td>112Cd cadmium48</td><td>115In indium49</td><td>119Sn tin50</td><td>122Sb antimony51</td><td>128Te tellurium52</td><td>127I iodine53</td><td>131Xe xenon54</td></tr><tr><td>133Cs caesium55</td><td>137Ba barium56</td><td>139La* lanthanum57</td><td>178Hf hafnium72</td><td>181Ta tantalum73</td><td>184W tungsten74</td><td>186Re rhenium75</td><td>190Os osmium76</td><td>192Ir iridium77</td><td>195Pt platinum78</td><td>197Au gold79</td><td>201Hg mercury80</td><td>204Tl thallium81</td><td>207Pb lead82</td><td>209Bi bismuth83</td><td>[209Po polonium84</td><td>[210At astatine85</td><td>[222Rn radon86</td></tr><tr><td>[223]Fr francium87</td><td>[226]Ra radium88</td><td>[227]Ac* actinium89</td><td>[261]Rf rutherfordium104</td><td>[262]Db dubnium105</td><td>[266]Sg seaborgium106</td><td>[264]Bh bohrium107</td><td>[277]Hs hassium108</td><td>[268]Mt meitnerium109</td><td>[271]Ds darmstadium110</td><td>[272]Rg roentgenium111</td><td colspan="6">Elements with atomic numbers 112-116 have been reported but not fully authenticated</td></tr></table>
+
+* The lanthanoids (atomic numbers 58-71) and the actinoids (atomic numbers 90-103) have been omitted.
+
+The relative atomic masses of copper and chlorine have not been rounded to the nearest whole number.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712808.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712819.png' alt='OCR图片'/></div>
+
+## Answer ALL questions.
+
+Some questions must be answered with a cross in a box. If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
+
+1 This question is about acids, alkalis and indicators.
+
+(a) Which of these is the colour of litmus indicator in an acidic solution?
+
+A blue
+
+B orange
+
+C red
+
+D yellow
+
+b) Which of these is the pH value of a neutral solution?
+
+A 0
+
+B 4
+
+C 7
+
+D 14
+
+(c) Which of these describes a solution with a pH value of 9?
+
+A strongly acidic
+
+B strongly alkaline
+
+C weakly acidic
+
+D weakly alkaline
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712824.png' alt='OCR图片'/></div>
+
+(d) Which of these is the chemical formula of an acid?
+
+A $ \mathrm{H N O_{3}} $
+
+B $ \mathrm{H_{2}O} $
+
+C $ \mathrm{N a C l} $
+
+D $ \mathrm{N a O H} $
+
+(e) Name the type of reaction that occurs when an acid reacts with an alkali.
+
+(f) Name the two products of the reaction between hydrochloric acid and potassium hydroxide.
+
+(Total for Question 1 = 7 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712834.png' alt='OCR图片'/></div>
+
+2 (a) (i) State the meaning of the term solute.
+
+(ii) State the meaning of the term solvent.
+
+(b) Explain what is meant by a saturated solution.
+
+(c) A dark purple liquid is diluted by adding water. The diluted liquid becomes a pale purple colour. Explain the process that causes this change. Refer to particles in your answer.
+
+(Total for Question 2 = 6 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712880.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712885.png' alt='OCR图片'/></div>
+
+3 This question is about chromatography.
+
+Two students carry out separate chromatography experiments to find the $ R_{f} $ values for five different food dyes, A, B, C, D and E.
+
+(a) State two things that should be the same in both experiments so that the students can compare their results fairly.
+
+(b) After doing the experiments the students calculate the $ R_{f} $ value for each food dye. The table shows their results.
+
+<table border="1"><tr><td>Dye</td><td>Student1Rfvalue</td><td>Student2Rfvalue</td></tr><tr><td>A</td><td>0.45</td><td>0.45</td></tr><tr><td>B</td><td>0.63</td><td>0.64</td></tr><tr><td>C</td><td>0.00</td><td>0.00</td></tr><tr><td>D</td><td>0.83</td><td>1.20</td></tr><tr><td>E</td><td>0.30</td><td>0.30</td></tr></table>
+
+(i) State what can be concluded about dye C.
+
+(ii) Explain which $ R_{\mathrm{f}} $ value cannot be correct.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712889.png' alt='OCR图片'/></div>
+
+(c) The diagram shows a chromatogram for a different food dye.
+
+Some distances are shown on the diagram.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712893.png' alt='OCR图片'/></div>
+
+Calculate the $ R_{\mathrm{f}} $ value for this food dye.
+
+Give your answer to two significant figures.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789045712897.png' alt='OCR图片'/></div>
+
+4 (a) State the meaning of the term atomic number.
+
+(b) An atom of element X contains 14 protons, 14 electrons and 15 neutrons.
+
+(i) Which of these is the mass number of this atom?
+
+(1)
+
+A 14
+
+B 15
+
+C 28
+
+D 29
+
+(ii) Explain which group of the Periodic Table element X belongs to.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712901.png' alt='OCR图片'/></div>
+
+(c) The table shows the composition of a sample of a different element, Y, containing three isotopes.
+
+<table border="1"><tr><td>Mass number of isotope</td><td>Percentage of isotope in sample</td></tr><tr><td>32</td><td>95.0</td></tr><tr><td>33</td><td>0.75</td></tr><tr><td>34</td><td>4.25</td></tr></table>
+
+Using information from the table, calculate the relative atomic mass $ ( A_{r} ) $ of this sample of element Y.
+
+Give your answer to one decimal place.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712909.png' alt='OCR图片'/></div>
+
+5 This is a question about metals and their compounds.
+
+(a) State one property of metals.
+
+(b) Mercury is the only metal that is liquid at room temperature.
+
+Describe the difference in the movement of particles in liquid mercury and in a solid metal.
+
+(c) Magnesium is a metal that burns in air.
+
+(i) State one observation made during the combustion of magnesium metal.
+
+(ii) State one chemical property of the product of combustion that can be used to classify magnesium as a metal.
+
+(d) In the absence of air, magnesium reacts with sulfur to form the ionic compound magnesium sulfide, MgS
+
+(i) Give a reason why the reaction needs to be done in the absence of air.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712913.png' alt='OCR图片'/></div>
+
+(ii) Describe, in terms of electrons, the formation of the ions in magnesium sulfide.
+
+Give the charges on the ions.
+
+(iii) Explain why magnesium sulfide has a very high melting point.
+
+(iv) Magnesium sulfide reacts with hydrochloric acid to form magnesium chloride and hydrogen sulfide gas, $ \mathrm{H_{2} S} $
+
+Give the chemical equation for this reaction.
+
+<div align="center">
+
+(Total for Question 5 = 14 marks)
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712928.png' alt='OCR图片'/></div>
+
+6 Ocimene is an organic compound that gives some plants their particular smell. The molecular formula of ocimene is $ C_{1 0} H_{1 6} $
+
+(a) Calculate the relative formula mass $ ( M_{\mathrm{r}} ) $ of ocimene.
+
+$$
+M _ {\mathrm {r}} =
+$$
+
+(b) Using ocimene as an example, explain what is meant by the term empirical formula.
+
+(c) The displayed formula of ocimene is
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712932.png' alt='OCR图片'/></div>
+
+Explain why ocimene is described as an unsaturated hydrocarbon.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789045712937.png' alt='OCR图片'/></div>
+
+(d) Ocimene is an alkene.
+
+(i) Which of these types of reaction occurs between ocimene and bromine?
+
+A addition
+
+B polymerisation
+
+precipitation
+
+substitution
+
+(ii) Many alkenes have the general formula $ C_{n}H_{2n} $ Suggest why ocimene does not have this general formula.
+
+(e) Ocimene can take part in combustion reactions.
+
+Complete the equation for the complete combustion of ocimene.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712941.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789045712945.png' alt='OCR图片'/></div>
+
+(f) Two different products can form during the incomplete combustion of ocimene. One product is a solid and the other is a poisonous gas.
+
+(i) Identify these two products.
+
+(ii) State why the gas produced is poisonous.
+
+(Total for Question 6 = 13 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712949.png' alt='OCR图片'/></div>
+
+7 (a) Explain the meaning of the term thermal decomposition.
+
+(b) The equation for the thermal decomposition of potassium hydrogencarbonate is
+
+$$
+2 \mathrm {K H C O} _ {3} \rightarrow \mathrm {K} _ {2} \mathrm {C O} _ {3} + \mathrm {H} _ {2} \mathrm {O} + \mathrm {C O} _ {2}
+$$
+
+Calculate the maximum mass of $ \mathrm{K_{2} C O_{3}} $ that could be produced from the thermal decomposition of 2.50 g of $ \mathrm{K H C O_{3}} $
+
+$$
+\mathrm {K} _ {2} \mathrm {C O} _ {3} =
+$$
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712959.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712962.png' alt='OCR图片'/></div>
+
+8 A student uses this apparatus in an experiment to study the rate of the reaction between zinc and dilute sulfuric acid.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712966.png' alt='OCR图片'/></div>
+
+This is the student's method.
+
+- add a few zinc granules to a conical flask on a balance
+
+- add $ 1 0 0 \mathrm{c m}^{3} $ of dilute sulfuric acid to the flask, start a timer and immediately record the mass of the flask and contents
+
+- record the mass of the flask and contents every minute until the mass remains constant
+
+The mass of the flask and contents decreases because hydrogen gas is produced and leaves the flask.
+
+The student uses the mass readings to calculate the total mass of hydrogen produced.
+
+(a) Complete the equation for the reaction by adding the state symbols.
+
+$$
+\mathrm {Z n} (\dots \dots \dots \dots) + \mathrm {H} _ {2} \mathrm {S O} _ {4} (\dots \dots \dots \dots) \rightarrow \mathrm {Z n S O} _ {4} (\dots \dots \dots \dots) + \mathrm {H} _ {2} (\dots \dots \dots \dots)
+$$
+
+<div style='text-align: center;'><img src='assets/crop_2_1789045712974.png' alt='OCR图片'/></div>
+
+(b) The table shows the student's results.
+
+<table border="1"><tr><td>Time in minutes</td><td>Total mass of hydrogen produced in mg</td></tr><tr><td>0</td><td>0</td></tr><tr><td>1</td><td>80</td></tr><tr><td>2</td><td>110</td></tr><tr><td>3</td><td>130</td></tr><tr><td>4</td><td>148</td></tr><tr><td>5</td><td>162</td></tr><tr><td>6</td><td>165</td></tr><tr><td>7</td><td>184</td></tr><tr><td>8</td><td>192</td></tr><tr><td>9</td><td>198</td></tr><tr><td>10</td><td>204</td></tr><tr><td>11</td><td>209</td></tr><tr><td>12</td><td>214</td></tr><tr><td>13</td><td>218</td></tr><tr><td>14</td><td>220</td></tr><tr><td>15</td><td>220</td></tr></table>
+
+(i) Plot the student's results. The first three have been done for you.
+
+(ii) Draw a circle around the anomalous result.
+
+(iii) Draw a curve of best fit.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712984.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045712988.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789045713000.png' alt='OCR图片'/></div>
+
+(iv) Give a possible reason for the anomalous result.
+
+(v) Determine a more likely value for this result.
+
+(c) (i) Explain how the shape of the curve shows how the rate of the reaction changes as time increases.
+
+(ii) At the end of the experiment there is no zinc left in the flask. Give a conclusion the student could make from this observation.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713005.png' alt='OCR图片'/></div>
+
+(d) The student does another experiment using
+
+- the same amount of similarly sized magnesium granules instead of zinc
+
+- the same volume of sulfuric acid, but of a lower concentration
+
+Explain why it is difficult to predict how the rate of reaction in this experiment compares with the rate of reaction in the first experiment.
+
+(e) Explain, in terms of particle collision theory, how increasing the temperature affects the rate of a reaction.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713019.png' alt='OCR图片'/></div>
+
+9 A student is given a mixture of two white solid compounds, and a colourless solution containing the same two compounds.
+
+The student is told that one of the compounds is a halide and that the other compound is a carbonate.
+
+(a) Give two reasons why the student should know, without doing any tests, that one of the compounds cannot be copper(II) carbonate.
+
+(b) Describe tests the student could do to show that the mixture contains potassium carbonate and potassium iodide.
+
+(Total for Question 9 = 8 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713023.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713045.png' alt='OCR图片'/></div>
+
+10 (a) A student is given a pure sample of sodium carbonate crystals and is told that the formula of the crystals is $ \mathrm{N a_{2} C O_{3}. x H_{2} O} $
+
+State what $ x\mathrm{H}_{2}\mathrm{O} $ in the formula shows about the sodium carbonate crystals.
+
+(b) The student uses this apparatus to find the value of x in $ \mathrm{N a_{2} C O_{3}. x H_{2} O} $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713049.png' alt='OCR图片'/></div>
+
+This is the student's method.
+
+- find the mass of an empty crucible without a lid
+
+- add some sodium carbonate crystals $ \mathrm{N a_{2} C O_{3}. x H_{2} O} $ to the crucible
+
+- find the total mass of the crucible and sodium carbonate crystals
+
+- heat the crucible to remove water from the crystals
+
+- allow the crucible and contents to cool down
+
+- find the mass of the cold crucible and contents
+
+These are the student's results.
+
+<table border="1"><tr><td></td><td>Mass in grams</td></tr><tr><td>empty crucible</td><td>22.75</td></tr><tr><td>crucible and sodium carbonate crystals Na2CO3.xH2O</td><td>29.71</td></tr><tr><td>cold crucible and contents</td><td>25.93</td></tr></table>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789045713056.png' alt='OCR图片'/></div>
+
+(i) Calculate the mass of sodium carbonate left after heating and cooling.
+
+(ii) Calculate the mass of $ \mathrm{H_{2}O} $ lost from the sodium carbonate crystals during heating.
+
+$$
+\mathrm {m a s s o f H _ {2} O} =
+$$
+
+(iii) Show that the student's results suggest that the formula of the sodium carbonate crystals is $ \mathrm{N a_{2} C O_{3}. 7 H_{2} O} $
+
+$$
+[ M _ {\mathrm {r}} \mathrm {o f} \mathrm {N a} _ {2} \mathrm {C O} _ {3} = 1 0 6 M _ {\mathrm {r}} \mathrm {o f} \mathrm {H} _ {2} \mathrm {O} = 1 8 ]
+$$
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713063.png' alt='OCR图片'/></div>
+
+(c) The student's teacher says that the correct formula of the sodium carbonate crystals is $ \mathrm{N a_{2} C O_{3}. 1 0 H_{2} O} $
+
+(i) The student did not make any mistakes in their measurements.
+
+Explain what could have caused the student's value for x to be too low.
+
+(ii) Describe how the student could improve the method to obtain a more accurate value for x.
+
+(Total for Question 10 = 10 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713067.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713071.png' alt='OCR图片'/></div>
+
+11 A student investigates the temperature change during the reaction between zinc metal and copper(II) sulfate solution.
+
+The student considers two different methods.
+
+<div align="center">
+
+Method 1
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713075.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789045713081.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789045713087.png' alt='OCR图片'/></div>
+
+(a) Discuss the advantages and disadvantages of each method.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713091.png' alt='OCR图片'/></div>
+
+(b) The equation for the reaction is
+
+$$
+\mathrm {Z n} (\mathrm {s}) + \mathrm {C u S O} _ {4} (\mathrm {a q}) \rightarrow \mathrm {Z n S O} _ {4} (\mathrm {a q}) + \mathrm {C u} (\mathrm {s})
+$$
+
+$ 5 0 \mathrm{c m}^{3} $ of copper(II) sulfate solution contains 0.025 mol $ \mathrm{C u S O_{4}} $
+
+A mass of 3 g of zinc is used.
+
+Show that the zinc is in excess.
+
+$ [ A_{r} $ of zinc=65]
+
+(c) The student reacts a solution containing 0.025 mol $ \mathrm{C u S O_{4}} $ with an excess of zinc. These are the student's results.
+
+temperature of $ 5 0 \mathrm{c m}^{3} $ of copper(II) sulfate solution $ = 2 1. 1^{\circ} \mathrm{C} $ highest temperature reached $ = 4 0. 6^{\circ} \mathrm{C} $
+
+(i) Show that the energy change Q for this reaction is about 4000 J $ [\mathrm{mass~of~1~cm}^{3}\mathrm{of~solution}=1.0\mathrm{g}] $ [for the solution, $ c=4. 2 \mathrm{J} / \mathrm{g} /^{\circ} \mathrm{C} ] $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713100.png' alt='OCR图片'/></div>
+
+(ii) Calculate the molar enthalpy change $ (\Delta H) $ , in kJ/mol, for the reaction.
+
+$$
+\Delta H =
+$$
+
+(d) The ionic equation for the reaction is
+
+$$
+\mathrm {Z n} (\mathrm {s}) + \mathrm {C u} ^ {2 +} (\mathrm {a q}) \rightarrow \mathrm {Z n} ^ {2 +} (\mathrm {a q}) + \mathrm {C u} (\mathrm {s})
+$$
+
+Explain what is oxidised and what is reduced in this reaction.
+
+(Total for Question 11 = 16 marks)
+
+TOTAL FOR PAPER=110 MARKS
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713105.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713108.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713112.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789045713116.png' alt='OCR图片'/></div>

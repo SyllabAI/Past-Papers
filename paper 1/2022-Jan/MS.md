@@ -1,0 +1,121 @@
+<div style='text-align: center;'><img src='assets/crop_1_1789045848555.png' alt='OCR图片'/></div>
+
+PMT
+
+Pearson Edexcel
+
+Mark Scheme (Results)
+
+January 2022
+
+Pearson Edexcel International GCSE
+
+In Chemistry (4CH1) Paper 1C and Science
+
+(Double Award) (4SD0) Paper 1C
+
+## Edexcel and BTEC Qualifications
+
+Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
+
+## Pearson: helping people progress, everywhere
+
+Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
+
+January 2022
+
+Question Paper Log Number P70701A
+
+Publications Code 4CH1_1C_2201_MS
+
+All the material in this publication is copyright
+
+$ \textcircled{c} $ Pearson Education Ltd 2022
+
+## General Marking Guidance
+
+- All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
+
+- Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
+
+- Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
+
+- There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
+
+- All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
+
+- Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
+
+- When examiners are in doubt regarding the application of the mark scheme to a candidate's response,the team leader must be consulted.
+
+- Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">1</td><td>(a)(i)</td><td>chromatography</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>fractional distillation</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>simple distillation</td><td></td><td>1</td></tr><tr><td rowspan="2">(b)</td><td rowspan="2"></td><td>M1 two / different elements</td><td>ALLOW (two) different atoms</td><td rowspan="2">2</td></tr><tr><td>M2 (chemically) joined / bonded together</td><td>ALLOW a description of bonding</td></tr><tr><td rowspan="2">(c)(i)</td><td rowspan="2">(ii)</td><td>4</td><td></td><td>1</td></tr><tr><td>20</td><td></td><td>1</td></tr><tr><td colspan="5">Total for question = 7 marks</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">2(a)(i)</td><td>M1 oxygen/air</td><td></td><td>2</td></tr><tr><td>M2 water</td><td></td><td></td></tr><tr><td>(hydrated) iron(III) oxide</td><td>REJECT(hydrated) iron(II) oxide</td><td>1</td></tr><tr><td rowspan="3">(iii)</td><td>C</td><td></td><td>1</td></tr><tr><td>C is the correct answer because rusting involves the oxidation of iron.</td><td></td><td></td></tr><tr><td>A is not the correct answer because the rusting of iron is not combustion.B is not the correct answer because the rusting of iron is not neutralisation.D is not the correct answer because the rusting of iron is not thermal decomposition.</td><td></td><td></td></tr><tr><td rowspan="3">(b)(i)</td><td>galvanising</td><td>ALLOW galvanisationIGNORE sacrificial protection</td><td>1</td></tr><tr><td>M1 zinc is more reactive(than iron)</td><td>ALLOW zinc is higher in the reactivity series(than iron)</td><td>2</td></tr><tr><td>M2 zinc reacts/oxidises/corrodes before/ instead of iron</td><td>REJECT references to zinc rusting</td><td></td></tr><tr><td rowspan="6">(iii)</td><td>Any two from:</td><td></td><td>2</td></tr><tr><td>painting</td><td>ALLOW powder coating</td><td></td></tr><tr><td>plastic coating</td><td></td><td></td></tr><tr><td>oiling/greasing</td><td></td><td></td></tr><tr><td>chromium plating</td><td></td><td></td></tr><tr><td>sacrificial protection</td><td></td><td></td></tr><tr><td colspan="4">Total for question=9 marks</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>3(a)</td><td>solid to liquidmeltingsolid to gassublimationliquid to solidfreezing</td><td></td><td>3</td></tr><tr><td>(b)(i)</td><td>diffusion</td><td>ALLOW diffusing</td><td>1</td></tr><tr><td>(ii)</td><td>Any one from:ammonia travels further(in the same time)the ammonium chloride/(white) ring/solid forms further away from the ammoniathe ammonium chloride/(white) ring/solid forms closer to the hydrochloric acid</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>Any one from:gas particles move in random directionsgas particles collide with air particles/each othergas particles collide with the wall of the tubeAny one from:eye protection/wear safety glasses/goggleswear glovesapron/lab coat</td><td></td><td>1</td></tr><tr><td>(iv)</td><td></td><td>ALLOW put a bung/cork in both ends</td><td></td></tr><tr><td colspan="4">Total for question=7 marks</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">4(a)(i)</td><td>Any one from:
+to increase the rate of reaction
+to give the particles enough energy to react</td><td>ALLOW because copper does not react with oxygen when copper is cold
+ALLOW so that copper will react with oxygen</td><td>1</td></tr><tr><td>(ii) because Ar does not (readily) gain / lose / share electrons</td><td>ACCEPT argon has a full outer shell / valence shell of electrons</td><td>1</td></tr><tr><td>(iii) copper(II) oxide</td><td>ALLOW copper oxide
+REJECT copper(I) oxide</td><td>1</td></tr><tr><td rowspan="4">(b)(i)</td><td>results are the same (at the end)</td><td>ALLOW results stop decreasing</td><td>1</td></tr><tr><td>(ii)M1 volume oxygen = 20 cm3
+M2 total volume = 253 cm3
+M3 (20÷253)×100 = 7.9%</td><td>ALLOW correct evaluation from M1 and M2
+ALLOW any number of significant figures
+REJECT incorrect rounding
+Correct answer of 7.9% with or without working scores 3</td><td>3</td></tr><tr><td>(iii)Any one from:
+there is a leak in the apparatus
+temperature was not the same for all readings
+the apparatus was not left to cool (to room temperature)</td><td>IGNORE not all oxygen reacted</td><td>1</td></tr><tr><td colspan="3">Total for question = 8 marks</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">5(a)(i)</td><td>relative mass proton 1</td><td rowspan="3">All 4 correct scores 22 or 3 correct scores 1</td><td rowspan="3">2</td></tr><tr><td>relative mass neutron 1</td></tr><tr><td>relative charge proton +1 relative charge neutron 0</td></tr><tr><td rowspan="2">(b)(i)</td><td>M1 atoms(of the same element) with the same number of protons</td><td>ALLOW atoms with the same atomic number ALLOW atoms with the same number of electrons</td><td rowspan="2">2</td></tr><tr><td>M2 but different numbers of neutrons</td><td>ALLOW but different mass numbers</td></tr><tr><td rowspan="2">(ii)</td><td>M1 number of protons and electrons = 12</td><td rowspan="2"></td><td rowspan="2">2</td></tr><tr><td>M2 number of neutrons = 14</td></tr><tr><td rowspan="4">(iii)</td><td>(24×79)+(25×10)+(26×11)/100</td><td rowspan="4">(24×0.79)+(25×0.10)+(26×0.11) scores both marks</td><td rowspan="4">2</td></tr><tr><td>scores 2 marks</td></tr><tr><td>M1 multiplies each mass number by the percentages</td></tr><tr><td>M2 adds multiples together and divides by 100</td></tr><tr><td rowspan="3">(iv)</td><td>M1 24.32÷(6.022×1023)</td><td rowspan="3">ALLOW ecf from M1 as long as answer is given to 4 sig figs Correct answer of 4.039×10-23g to 4 sig sigs scores 2 with or without working</td><td rowspan="3">2</td></tr><tr><td>M2 4.039×10-23</td></tr><tr><td></td></tr><tr><td>(c)</td><td>(moles of MgO) = 0.40</td><td></td><td>1</td></tr><tr><td colspan="4">Total for question = 11</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(a)</td><td>Any three from:
+M1 sodium (atom) loses electron(s)
+M2 oxygen (atom) gains electron(s)
+M3 sodium loses 1 electron AND oxygen gains 2 electrons
+OR
+M3 (both atoms become ions with configuration) 2.8</td><td>any mention of sharing of electrons scores 0</td><td>3</td></tr><tr><td>(b)</td><td>62</td><td></td><td>1</td></tr><tr><td>(c)</td><td>Any two from:
+M1 (sodium oxide has) ions / (giant) ionic structure
+M2 ions / electrons cannot flow / move
+M3 no delocalised electrons</td><td></td><td>2</td></tr><tr><td>(d)</td><td>M1 flame test
+M2 yellow colour</td><td>ALLOW any description of a flame test
+ALLOW orange or yellow-orange
+M2 dep on M1 or mention of flame</td><td>2</td></tr><tr><td>(e)</td><td>$2\text{Na}_{2}\text{O}\rightarrow2\text{Na}+ \text{Na}_{2}\text{O}_{2}$</td><td></td><td>1</td></tr><tr><td colspan="4">Total for question = 9 marks</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>7(a)</td><td>C
+C is the correct answer because a precipitate of calcium sulfate will form in tube 1, no precipitate will form in tube 2 as both products are soluble in water and a precipitate of copper(II) carbonate will form in tube 3.
+A, B and D are not the correct answers as no precipitate will form in tube 2.</td><td></td><td>1</td></tr><tr><td>(b)(i)</td><td>white</td><td></td><td>1</td></tr><tr><td>(b)(ii)</td><td>Any five from:
+M1 filter
+M2 heat/boil (the solution)
+M3 to evaporate some of the water</td><td>ALLOW until crystals form on the end of a glass rod
+ALLOW until crystals first start to form
+ALLOW until the solution is saturated</td><td></td></tr><tr><td></td><td>M4 leave / cool (to crystallise)</td><td>M4 dep on M2</td><td></td></tr><tr><td></td><td>M5 pour off excess liquid OR filter (to obtain crystals)</td><td>M5 dep on crystals having been formed
+IGNORE references to washing</td><td></td></tr><tr><td></td><td>M6 suitable method of drying the crystals</td><td>e.g. place in (warm) oven / leave to dry (in warm place) / use filter paper / kitchen towel / desiccator</td><td></td></tr><tr><td></td><td></td><td>If solution heated to dryness or left to evaporate all of the water only M1 and M2 can be awarded.</td><td></td></tr><tr><td></td><td></td><td>If method produces silver chloride only M1 and M6 can be awarded</td><td></td></tr><tr><td>(iii)</td><td>any one from:</td><td></td><td>1</td></tr></table>
+
+<table border="1"><tr><td></td><td>to make sure the silver nitrate and sodium chloride fully reacted
+to make sure the products only contained silver chloride and sodium nitrate
+to ensure the highest possible yield</td><td>ALLOW so all the reactants react OR so nothing left unreacted OR so neither reagent is in excess
+ALLOW to make sure the sodium nitrate (crystals) would be pure
+ALLOW If either solution were in excess, it would contaminate the sodium nitrate OWTTE</td><td></td></tr><tr><td colspan="4">Total for question = 8 marks</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">8</td><td>(a)(i)</td><td>A</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>C</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>propene</td><td></td><td>1</td></tr><tr><td>(iv)</td><td>M1 same molecular formula
+M2 different structural / displayed formulae</td><td></td><td>2</td></tr><tr><td rowspan="2">(b)(i)</td><td>(i)</td><td>CH3Br + HBr</td><td>ALLOW balanced equations for multiple substitutions</td><td>1</td></tr><tr><td>(ii)</td><td>substitution</td><td></td><td>1</td></tr><tr><td rowspan="5">(c)(i)</td><td rowspan="5">(i)</td><td>M1 37.8÷12, 6.3÷1, 55.9÷35.5</td><td rowspan="5">M2 subsumes M1</td><td rowspan="5">3</td></tr><tr><td>M2 3.15, 6.3, 1.57</td></tr><tr><td>M3 divide by smallest to get 2:4:1</td></tr><tr><td>OR</td></tr><tr><td rowspan="3">(ii)</td><td rowspan="3">(ii)</td><td>M1 Mr of C2H4Cl = 63.5</td><td rowspan="3">M3 must be calculated</td><td rowspan="3">2</td></tr><tr><td>M2 24/63.5 x 100 and 4/63.5 x 100 and 35.5/63.5 x100</td></tr><tr><td>M3 37.8% and 6.3% and 55.9%</td></tr><tr><td rowspan="3">(d)(i)</td><td rowspan="3">(i)</td><td>M1 127÷63.5=2</td><td rowspan="3">Answer of C4H8Cl2 without working scores 2</td><td rowspan="3">2</td></tr><tr><td>M2 Molecular formula = C4H8Cl2</td></tr><tr><td>M1 two carbon atoms both with 2 H atoms
+M2 two carbon atoms both with 1 H atom and 1 CH3 group and nothing attached to the joining bonds</td><td>Marks are independent</td></tr><tr><td>(ii)</td><td>(ii)</td><td>Any one from:</td><td></td><td>1</td></tr></table>
+
+<table border="1"><tr><td></td><td>landfill sites are getting full
+toxic/greenhouse gases are produced when burned</td><td></td><td></td></tr><tr><td colspan="4">Total for question=15 marks</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>9(a)</td><td>M1 to prevent acid splashing out OR so only (carbon dioxide) gas leaves the flaskM2 so the decrease in mass is close to the actual value OR so that the decrease in mass is only due to the gas</td><td>IGNORE solid leaving the flaskREJECT prevents gas escaping</td><td>2</td></tr><tr><td>(b)</td><td>M1 CaCO3(s)+2HCl(aq)M2 H2O(l)+CO2(g)</td><td></td><td>2</td></tr><tr><td>(c)(i)</td><td>the hydrochloric acid has all reacted</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>mass stays the same/stops decreasing</td><td>ALLOW effervescence/fizzing stopsALLOW the curve levels off</td><td>1</td></tr><tr><td>(iii)</td><td>M1 0.98M2(0.98÷44)=0.022</td><td>ALLOW any number of significant figuresREJECT incorrect roundingALLOW M1÷44Correct answer of 0.022 moles with or without working scores 2 marks</td><td>2</td></tr><tr><td>(iv)</td><td>M1 tangent shown on graphM2 method of calculating gradient(change in y÷change in x)M3 rate of reaction in g/s</td><td>ALLOW ECF from M2Answer of 0.005-0.006 with a tangent shown on the graph scores 3 with or without other working.</td><td>3</td></tr></table>
+
+<table border="1"><tr><td></td><td></td><td>Answer of 0.015g/s (the average rate of reaction for the first 60s scores 1)</td><td></td></tr><tr><td rowspan="2">(d)(i)</td><td>M1 the rate of reaction increases as the percentage concentration increases</td><td></td><td>2</td></tr><tr><td>M2 the rate of reaction is (directly) proportional to the percentage concentration</td><td>M2 subsumes M1</td><td></td></tr><tr><td rowspan="2">(ii)</td><td>M1 change in number of particles (per unit volume)</td><td>ALLOW particles are closer together or further apart</td><td>2</td></tr><tr><td>M2 change in collisions per unit time</td><td>ALLOW change in frequency of collisions REJECT increased / changed energy / speed</td><td></td></tr><tr><td colspan="4">Total for question = 15 marks</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>10(a)(i)</td><td>N NM16 bonding electronsM22 non-bonding electrons on each atom(ii)M1 shared pair(s) of electronsM2 attracted to (two) nuclei</td><td>ALLOW dots, crosses or any combination.M2 dep on M1REJECT nucleus. Must be plural for M2.M2 dep on mention of electrons in M1</td><td>22</td></tr><tr><td>(b)(i)</td><td>diamond(ii)Any four from:M1 graphite is giant covalentM2(in melting graphite) covalent bonds are brokenM3(C60)(simple) molecular structureM4(in melting C60) intermolecular forces(of attraction) are overcomeM5 more energy is needed to break covalent bonds(in graphite) than intermolecular forces(in C60)</td><td>ALLOW giant structure if M2 is scoredREJECT molecules of graphiteALLOW description of covalent bondsALLOW molecules of C60ALLOW breaking bonds in C60 if intermolecular forces clearly mentionedM4 subsumes M3Mention of intermolecular forces in graphite no M2 or M5</td><td>14</td></tr></table>
+
+<table border="1"><tr><td></td><td></td><td>Mention of breaking covalent bonds in C60 no M4 or M5</td><td></td></tr><tr><td colspan="4">Total for question = 9 marks</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">11(a)(i)</td><td>M1 add anhydrous copper sulfate</td><td>ALLOW add white copper sulfate</td><td>2</td></tr><tr><td rowspan="5">M2 turns(from white) to blue</td><td>M2 dep on copper sulfate in M1</td><td></td></tr><tr><td>ALLOW</td><td></td></tr><tr><td>M1 add anhydrous/blue cobalt chloride</td><td></td></tr><tr><td>M2 turns(from blue) to pink</td><td></td></tr><tr><td>M2 dep on cobalt chloride in M1</td><td></td></tr><tr><td rowspan="2">(ii)</td><td>M1 measure the boiling point/freezing point</td><td>ALLOW boil it or freeze it</td><td>2</td></tr><tr><td>M2 100℃/0℃</td><td>Value must match property</td><td></td></tr><tr><td rowspan="6">(b)</td><td>M1 mass of hydrated zinc sulfate=54.46-41.64OR12.82g</td><td></td><td>5</td></tr><tr><td>M2 Moles of hydrated zinc sulfate=12.82÷287OR0.0447</td><td>ALLOW M1÷287</td><td></td></tr><tr><td>M3 Moles H2O=0.0447×7OR0.313</td><td>ALLOW M2×7</td><td></td></tr><tr><td>M4 Mass H2O=5.63g</td><td>ALLOW M3×18</td><td></td></tr><tr><td rowspan="2">M5 Volume H2O5.6cm3</td><td>Must be 1dp</td><td></td></tr><tr><td>ALLOW M4 to 1dp</td><td></td></tr><tr><td rowspan="2">(c)(i)</td><td>1.7</td><td>ALLOW 2 or more significant figuresREJECT incorrect rounding</td><td>1</td></tr><tr><td>M1 stand the measuring cylinder in a beaker of iceOR</td><td>ALLOW any way of cooling the measuring</td><td>2</td></tr></table>
+
+<table border="1"><tr><td></td><td>M1 replace the delivery tube with a (Liebig) condenserM2 less water/water vapour/steam lost</td><td>cylinder or delivery tubeALLOW add a condenserIGNORE add a stopper/bungALLOW more water(vapour)/steam condensesALLOW less waterevaporates</td><td></td></tr><tr><td colspan="4">Total for question=12</td></tr></table>

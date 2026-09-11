@@ -1,0 +1,139 @@
+<div style='text-align: center;'><img src='assets/crop_1_1789056891972.png' alt='OCR图片'/></div>
+
+PMT
+
+Pearson Edexcel
+
+Mark Scheme (Results)
+
+November 2021
+
+Pearson Edexcel International GCSE
+
+In Chemistry (4CH1) Paper 1C and
+
+Science (Double Award) (4SD0) Paper 1C
+
+## Edexcel and BTEC Qualifications
+
+Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
+
+## Pearson: helping people progress, everywhere
+
+Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
+
+November 2021
+
+Question Paper Log Number P66058RA
+
+Publications Code 4CH1_1C_2111_MS
+
+All the material in this publication is copyright
+
+$ \textcircled{c} $ Pearson Education Ltd 2021
+
+- All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
+
+- Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
+
+- Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
+
+- There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
+
+- All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
+
+- Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
+
+- When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
+
+- Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1(a)(i)</td><td>A
+A is the correct answer because A contains one element and the atoms are not joined to other atoms.
+B is incorrect because B contains molecules of an element.
+C is incorrect because C contains molecules of a compound
+D is incorrect. D contains an element but the atoms are joined together to form a giant covalent structure.</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>C
+C is the correct answer because C contains atoms of two different elements chemically bonded together.
+A is incorrect because A is an element.
+B is incorrect because B is an element.
+D is incorrect because D is an element.</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>B
+B is correct because B shows two atoms of the same element chemically bonded together e.g. H2
+A is incorrect because A contains atoms of an element
+C in incorrect because C contains molecules of a compound with the formula e.g. H2O
+D is incorrect because C contains a giant covalent structure that could have the formula C</td><td></td><td>1</td></tr><tr><td>(b)</td><td>M1 two different elements
+M2 not (chemically) joined / (chemically) bonded together</td><td>ALLOW two different types of/sizes of atom.</td><td>2</td></tr><tr><td></td><td></td><td></td><td>5</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">2</td><td>(a)(i)</td><td>fluorine has the fewest number of shells/energy levels</td><td>ALLOW fluorine has the fewest number of electrons</td><td>1</td></tr><tr><td>(ii)</td><td>C
+C is the correct answer because iodine is in period 5 therefore has 5 shells and group 7 therefore has 7 electrons in its outer shell.
+A is incorrect because arsenic has 5 shells and 4 electrons in its outer shell.
+B is incorrect because selenium has 4 shells and 6 electrons in its outer shell.
+D is incorrect because the number of shells and number of electrons in the outer shell in iodine have been reversed.</td><td>IGNORE references to protons, neutrons, atomic number and mass number</td><td>1</td></tr><tr><td rowspan="2">(b)(i)</td><td rowspan="2">(ii)</td><td>M1 does not need heating</td><td></td><td>2</td></tr><tr><td>M2 reacts very quickly</td><td>must imply quicker reaction than chlorine</td><td></td></tr><tr><td rowspan="2">(ii)</td><td rowspan="2">(ii)</td><td>M1 as the atoms get bigger</td><td></td><td>2</td></tr><tr><td>M2 the reactivity decreases</td><td>ACCEPT reverse argument</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>6</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">3</td><td>(a)(i)</td><td>oxygen</td><td>IGNORE air
+ACCEPT O2</td><td>1</td></tr><tr><td>(ii)</td><td>(hydrated) iron(III) oxide</td><td>ALLOW iron oxide/ferric oxide
+REJECT incorrect oxidation states of iron</td><td>1</td></tr><tr><td>(b)(i)</td><td>M1 plastic acts as a barrier
+M2 therefore stops oxygen/water getting to the iron</td><td>ALLOW forms a protective layer
+ALLOW air in place of oxygen</td><td>2</td></tr><tr><td rowspan="3">(ii)</td><td rowspan="3">(iii)</td><td rowspan="3">galvanising</td><td>ALLOW sacrificial protection
+IGNORE sacrificial method</td><td>1</td></tr><tr><td rowspan="2">IGNORE references to rates of reaction
+REJECT references to zinc rusting</td><td rowspan="2">2</td></tr><tr><td>M1 zinc is more reactive than iron/higher in the reactivity series than iron
+M2 therefore reacts/oxidises/corrodes in preference to iron</td></tr><tr><td></td><td></td><td></td><td></td><td>7</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>4(a)(i)</td><td>14</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>2.5</td><td>REJECT any charge shown
+IGNORE brackets</td><td>1</td></tr><tr><td>(iii)</td><td>M1 same number of protons
+M2 different numbers of neutrons</td><td>IGNORE references to numbers of electrons</td><td>2</td></tr><tr><td>(iv)</td><td>M1 (three) more electrons than protons
+M2 electrons have a negative charge and protons have a positive charge</td><td>REJECT incorrect numbers of electrons</td><td>2</td></tr><tr><td>(b)</td><td>M1(98.930×12)+(1.070×13)÷100
+M212.01</td><td>ALLOW1markfor1201.07ifnotdividedby100aslongasgivento2dp
+correctanswerto2decimalplaceswithorwithoutworkingscores2marks.</td><td>2</td></tr><tr><td></td><td></td><td></td><td>8</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(a)</td><td>Any one from:
+M1 add more limewater (to cover tube on left)
+M2 the glass tube on the left should be longer/in the limewater</td><td></td><td>1</td></tr><tr><td>(b)(i)</td><td>M1 volume of carbon dioxide = 10(cm3)
+M2 10÷76×100=13.2(%)</td><td>correct answer with or without working scores 2 marks.
+ACCEPT any number of significant figures except 1
+REJECT incorrect rounding
+ALLOW ecf on incorrect volume of carbon dioxide
+ALLOW 66/76×100=86.8 for 1 mark</td><td>2</td></tr><tr><td>(ii)</td><td>limewater turns (from colourless to) cloudy or milky</td><td>ALLOW white precipitate</td><td>1</td></tr><tr><td>(iii)</td><td>M1 the percentage/amount of carbon dioxide in the air is too small
+M2 therefore the reading on the syringe would change by less than 1cm3</td><td>ALLOW there is 0.04% of carbon dioxide in the air
+ALLOW the change on the gas syringe would be too small
+ALLOW syringe not precise/accurate enough to measure small volume changes</td><td>2</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(c)(i)</td><td>copper(II) oxide</td><td>ALLOW copper oxide/CuO
+REJECT copper(I) oxide</td><td>1</td></tr><tr><td>(ii)</td><td>the powder has a greater surface area(than larger pieces of copper)</td><td>ALLOW the powder reacts more quickly(than larger pieces of copper)</td><td>1</td></tr><tr><td>(iii)</td><td>M1argon/it has a full outer shell of electrons
+M2therefore does not lose or gain(or share) electrons</td><td>ALLOW has eight outer shell electrons</td><td>2</td></tr><tr><td></td><td></td><td></td><td>10</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td colspan="3">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6</td><td>(a)(i)</td><td colspan="3">Y</td><td></td><td>1</td></tr><tr><td></td><td>(ii)</td><td colspan="3">V</td><td></td><td>1</td></tr><tr><td></td><td>(iii)</td><td colspan="3">W</td><td></td><td>1</td></tr><tr><td></td><td>(iv)</td><td colspan="3">X</td><td></td><td>1</td></tr><tr><td></td><td>(v)</td><td colspan="3">displayed formula of but-1-ene or methylpropene</td><td></td><td>1</td></tr><tr><td></td><td>(vi)</td><td colspan="3">Any two from</td><td></td><td>2</td></tr><tr><td></td><td></td><td colspan="3">M1 same general formula</td><td>ALLOW same empirical formula</td><td></td></tr><tr><td></td><td></td><td colspan="3">M2 similar chemical properties</td><td>ALLOW they react in a similar way/same chemical properties</td><td></td></tr><tr><td></td><td></td><td colspan="3">M3 trend in physical properties</td><td>ACCEPT named physical property e.g. trend in boiling points</td><td></td></tr><tr><td></td><td></td><td colspan="3">M4 each consecutive member differs by a CH2 group</td><td></td><td></td></tr><tr><td>(b)(i)</td><td></td><td colspan="3">M1 $\frac{38.7}{12}$ $\frac{9.7}{1}$ $\frac{51.6}{16}$OR 3.225 9.7 3.225M2 (divide by smallest)1 3 1</td><td>0 marks if upside down calculation or use of atomic numbers</td><td>2</td></tr><tr><td>(ii)</td><td></td><td colspan="3">M1 Mr of CH3O=31M2 (62÷31=2 so molecular formula is)C2H6O2</td><td>C2H6O2 without working scores 2</td><td>2</td></tr><tr><td></td><td></td><td colspan="3"></td><td></td><td>11</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">7(a)(i)</td><td>$N_{2}+O_{2}\rightarrow2NO$</td><td>ALLOW fractions and multiples</td><td>1</td></tr><tr><td></td><td>IGNORE state symbols, even if incorrect</td><td></td></tr><tr><td>the reaction has a high activation energy/E_{a}$</td><td>ACCEPT to give the reactants enough energy to react</td><td>1</td></tr><tr><td></td><td>ACCEPT a lot of energy is required to break the bonds in the reactants</td><td></td></tr><tr><td rowspan="5">(iii)</td><td>acid rain</td><td>ALLOW nitrogen is unreactive</td><td></td></tr><tr><td></td><td>ACCEPT references to respiratory problems</td><td>1</td></tr><tr><td></td><td>ALLOW a specific harmful effect of acid rain</td><td></td></tr><tr><td></td><td>ALLOW references to smog</td><td></td></tr><tr><td></td><td>ALLOW references to greenhouse gases/global warming/climate change</td><td></td></tr><tr><td rowspan="4">(b)(i)</td><td>M1 catalyst provides an alternative reaction route/ pathway</td><td></td><td>2</td></tr><tr><td>M2 with lower activation energy</td><td></td><td></td></tr><tr><td>M1 particles/molecules are closer together</td><td>ACCEPT more particles in a smaller volume/space</td><td>3</td></tr><tr><td>M2 therefore more collisions</td><td>more frequent collisions scores M2 and M3</td><td></td></tr><tr><td rowspan="2">(ii)</td><td>M3 per unit time</td><td>any reference to increasing energy max=1</td><td></td></tr><tr><td></td><td></td><td></td></tr></table>
+
+<table border="1"><tr><td>(c)(i)</td><td>M1 one pair of electrons between the nitrogen and each hydrogen
+M2 two non-bonding electrons on the nitrogen
+图示</td><td>M2 dep on M1</td><td>2</td></tr><tr><td>(ii)</td><td>M1 (electrostatic) attraction between nuclei
+M2 and shared pair(s) of electrons
+OR
+M1 (electrostatic) attraction between shared pair(s) of electrons
+M2 and nuclei (of both atoms)</td><td>nuclei must be plural
+ALLOW bonding pair(s) of electrons</td><td>2</td></tr><tr><td>(iii)</td><td>M1 forces between molecules/intermolecular forces (of attraction) are weak
+M2 and therefore require little energy to overcome</td><td>ALLOW intermolecular bonds are weak
+IGNORE less energy
+Mention of breaking covalent bonds = 0</td><td></td></tr><tr><td></td><td></td><td></td><td>14</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="13">8(a)</td><td>Any six from:</td><td></td><td>6</td></tr><tr><td>M1 add barium carbonate (one spatula at a time) to the acid</td><td></td><td></td></tr><tr><td>M2 until the barium carbonate is in excess</td><td>ALLOW until some barium carbonate is left/no longer effervesces/fizzes/bubbles</td><td></td></tr><tr><td>M3 filter off the excess barium carbonate</td><td>M3 dep on M2</td><td></td></tr><tr><td>M4 heat solution to evaporate some of the water</td><td>ALLOW heat until crystals start to form</td><td></td></tr><tr><td></td><td>ALLOW heat until solution is saturated</td><td></td></tr><tr><td></td><td>ALLOW heat until crystals form on the end of a glass rod/heat to crystallisation point</td><td></td></tr><tr><td>M5 cool or leave to crystallise</td><td></td><td></td></tr><tr><td>M6 filter the crystals (from the solution)</td><td>M6 dep on M5</td><td></td></tr><tr><td></td><td>IGNORE washing</td><td></td></tr><tr><td>M7 leave crystals in a warm place to dry</td><td>ALLOW leave to dry</td><td></td></tr><tr><td></td><td>ALLOW dry on filter paper</td><td></td></tr><tr><td></td><td></td><td>ALLOW dry in a desiccator</td><td></td></tr><tr><td></td><td></td><td>ALLOW dry in a (warm) oven</td><td></td></tr><tr><td></td><td></td><td>If solution is evaporated to dryness M5,M6 and M7 cannot be scored</td><td></td></tr><tr><td rowspan="2">(b)</td><td>M1 add (dilute) acid before adding the barium chloride</td><td>ALLOW any named acid except sulfuric acid</td><td>2</td></tr><tr><td>M2 white precipitate</td><td>M2 is dependent on M1</td><td></td></tr><tr><td></td><td></td><td></td><td>8</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="11">9(a)(i)(ii)(iii)(iv)(v)(vi)</td><td>M1 and M2 all points correctly plotted to the nearest half a square</td><td>deduct 1 mark for each error</td><td>2</td></tr><tr><td>smooth curve of best fit</td><td></td><td>1</td></tr><tr><td>An explanation that links any two of the following points</td><td></td><td>2</td></tr><tr><td>M1 polystyrene is an insulator</td><td></td><td></td></tr><tr><td>M2 reduces thermal energy/heat coming in from the surroundings OWTTE</td><td></td><td></td></tr><tr><td>M3 temperature decrease will be closer to true value OWTTE</td><td>ALLOW results will be more accurate</td><td></td></tr><tr><td>Any one from:</td><td></td><td>1</td></tr><tr><td>M1 the student recorded the temperature before adding the sodium carbonate/the temperature had not stopped decreasing OWTTE</td><td>ALLOW less than 0.5g of/not enough sodium carbonate was added</td><td></td></tr><tr><td>M2 the student forgot to the stir the mixture</td><td></td><td></td></tr><tr><td>(two) results at the end are the same</td><td>ALLOW the temperature stops decreasing</td><td>1</td></tr><tr><td rowspan="6">(vi)</td><td>An explanation that links together</td><td></td><td>2</td></tr><tr><td>M1 the reaction is endothermic and either of the following points</td><td>REJECT exothermic for both marks</td><td></td></tr><tr><td>M2 it takes in thermal energy/heat from the surroundings</td><td></td><td></td></tr><tr><td>OR</td><td></td><td></td></tr><tr><td>M3 as shown by the temperature decrease (of the reaction mixture)</td><td>ALLOW references to cooling</td><td></td></tr><tr><td></td><td>No M2 or M3 if the statements contradict one another</td><td></td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>9(b)(i)</td><td>to prevent acid/liquid/solution splashing out</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>M1(Mr of sodium carbonate)=106M2(moles of sodium carbonate2.12÷106=)0.02M3(mass of carbon dioxide0.02×44=)0.88(g)</td><td>ALLOWecf fromM1M2 subsumesM1ALLOWanswer fromM2x44answer of0.88(g)withor without workingscores3</td><td>3</td></tr><tr><td>(iii)</td><td>Any one from:M1the sodium carbonate is impureM2some of the carbon dioxide dissolves in theacid/solution</td><td></td><td>1</td></tr><tr><td></td><td></td><td></td><td>14</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">10</td><td>(a)(i)</td><td>fractional distillation</td><td>ALLOW distillation</td><td>1</td></tr><tr><td>(ii)</td><td>evaporation</td><td>REJECT simple distillation</td><td></td></tr><tr><td>(iii)</td><td>condensation</td><td>ALLOW evaporating /boiling</td><td>1</td></tr><tr><td rowspan="5">(b)(i)</td><td></td><td>M1(mass ethanol $15.50\times0.79=)12.245(g)$</td><td></td><td>2</td></tr><tr><td></td><td>M2(moles ethanol $=12.245\div46=)0.266(mol)$</td><td>ALLOW any number of significant figures except 1</td><td></td></tr><tr><td></td><td>OR</td><td>ALLOW ecf from M1</td><td></td></tr><tr><td></td><td>M1(1 $cm^{3}$ ethanol $=0.79\div46=)0.0172mol$</td><td>ALLOW any number of significant figures except 1</td><td></td></tr><tr><td></td><td>M2(15.5 $cm^{3}$ ethanol $=0.0172\times15.5=)0.267(mol)$</td><td>ALLOW ecf from M1 correct answer with or without working scores 2.</td><td></td></tr><tr><td rowspan="2">(ii)</td><td></td><td>answer from (b)(i)$\times6\times10^{23}$ e.g. $(0.266\times6.0\times10^{23}=)1.60\times10^{23}$</td><td>ALLOW any number of significant figures except 1</td><td>1</td></tr><tr><td></td><td></td><td>ALLOW answer in ordinary form</td><td></td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">10(c)(i)</td><td>M1 add anhydrous copper sulfate</td><td>ALLOW add white copper sulfate</td><td>2</td></tr><tr><td>M2 turns blue</td><td>M2 dependent on M1</td><td></td></tr><tr><td></td><td>ALLOW</td><td></td></tr><tr><td></td><td>M1 add anhydrous cobalt chloride/cobalt chloride paper</td><td></td></tr><tr><td></td><td>M2 turns pink</td><td></td></tr><tr><td></td><td>M2 dependent on M1</td><td></td></tr><tr><td>(ii)</td><td>M1 measure boiling point</td><td></td><td>2</td></tr><tr><td></td><td>M2 is 100℃</td><td>ALLOW melting/freezing point is 0℃ for both marks</td><td></td></tr><tr><td rowspan="5">10(d)(i)</td><td>M1 ΔT=49.5℃</td><td>correct answer with or without working scores 3</td><td>3</td></tr><tr><td>M2 Q=mcΔT OR 100×4.2×49.5</td><td>ALLOW ecf from M1</td><td></td></tr><tr><td>M3 20790J</td><td>ALLOW 20800</td><td></td></tr><tr><td>(ii)</td><td>M1 20.790kJ</td><td>ALLOW answer to 10(c)(i)÷1000</td><td>2</td></tr><tr><td></td><td>M2 (20.790÷0.0200=)-1039.5(kJ/mol)</td><td>ALLOW any number of significant figures from 3
+ALLOW M1÷0.0200 as long as answer is negative.
+REJECT incorrect rounding.
+REJECT positive answer.</td><td></td></tr><tr><td></td><td></td><td></td><td>15</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">11</td><td>(a)(i)</td><td>displacement</td><td>ALLOW redox</td><td>1</td></tr><tr><td>(ii)</td><td>(manganese) chromium cadmium tin</td><td></td><td>1</td></tr><tr><td rowspan="8">(b)</td><td rowspan="8"></td><td>(copper and magnesium sulfate)</td><td></td><td>5</td></tr><tr><td>M1 no colour change</td><td></td><td></td></tr><tr><td>M2 copper is less reactive than magnesium ORA/copper cannot displace magnesium</td><td>ALLOW copper is below magnesium in the reactivity series ORA
+IGNORE copper and magnesium sulfate do not react
+M2 dep on M1
+(zinc and iron sulfate)</td><td></td></tr><tr><td>M3 zinc turns (from light grey to) dark grey</td><td>ALLOW zinc becomes coated in a dark grey metal</td><td></td></tr><tr><td>M4 solution turns (from green to) colourless</td><td></td><td></td></tr><tr><td>M5 zinc is more reactive than iron ORA/zinc displaces iron</td><td>ALLOW zinc is above iron in the reactivity series ORA
+ALLOW zinc reduces iron ions (ignore charge given as long as the charge is positive)</td><td></td></tr><tr><td rowspan="3">(c)(i)</td><td>Any two from</td><td></td><td>2</td></tr><tr><td>M1 concentration of dilute sulfuric acid</td><td></td><td></td></tr><tr><td>M2 temperature</td><td></td><td></td></tr><tr><td rowspan="2">(ii)</td><td rowspan="2">(ii)</td><td>M3 surface area of the metal</td><td>ALLOW size of piece of metal</td><td></td></tr><tr><td>calcium sulfate forms a layer / coating around the calcium metal</td><td>ALLOW calcium sulfate prevents the sulfuric acid coming into contact with calcium.</td><td>1</td></tr></table>
+
+<table border="1"><tr><td></td><td></td><td></td><td></td></tr><tr><td>(d)</td><td>M1(moles of aluminium=)1÷27OR0.0370molesM2(moles of sulfuric acid required=0.0370×3=)0.0556moles(and there is more moles of sulfuric acid)ORM1(moles of aluminiumrequired=)0.0400M2(mass of aluminiumrequired=27×0.0400=)1.08g(and there is less than1.08g)</td><td>ALLOWany number of significant figures except1ALLOW0.0555 if candidate has used rounded value of0.0370moles</td><td>2</td></tr><tr><td></td><td></td><td></td><td>12</td></tr></table>

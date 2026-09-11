@@ -1,0 +1,128 @@
+PMT
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056328916.png' alt='OCR图片'/></div>
+
+Pearson Edexcel
+
+## Mark Scheme (Results)
+
+Summer 2023
+
+Pearson Edexcel International GCSE In Chemistry (4CH1) Paper 1C
+
+## Edexcel and BTEC Qualifications
+
+Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
+
+## Pearson: helping people progress, everywhere
+
+Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
+
+Summer 2023
+
+Question Paper Log Number P71950A
+
+Publications Code 4CH1_1C_2306_MS
+
+All the material in this publication is copyright
+
+$ \textcircled{c} $ Pearson Education Ltd 2023
+
+- All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
+
+- Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
+
+- Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
+
+- There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
+
+- All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
+
+- Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
+
+- When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
+
+- Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1(a)(i)</td><td>fractional distillation</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>chromatography</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>simple distillation</td><td>ACCEPT distillation</td><td>1</td></tr><tr><td>(b)</td><td>M1 A mixture of copper(II) oxide and copper(II) sulfate can be separated by first dissolving the copper(II) sulfate in distilled water.M2 The copper(II) oxide is then removed by filteringM3 Some of the water from the copper(II) sulfate solution is then removed by evaporatingM4 A pure sample of hydrated copper(II) sulfate is then obtained by crystallisation</td><td>ACCEPT filtrationACCEPT evaporationACCEPT simple distillationACCEPT crystallising</td><td>4</td></tr><tr><td></td><td></td><td></td><td>Total 7</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">2(a)(i)(ii)(iii)</td><td>(hydrated) iron(III) oxide/Fe2O3</td><td>IGNORE iron oxide</td><td>1</td></tr><tr><td>D oxidation</td><td>REJECT iron(II) oxide</td><td>1</td></tr><tr><td>A is incorrect as it is not a combustion reactionB is incorrect as it is not a decomposition reactionC is incorrect as it is not a neutralisation reaction</td><td>ALLOW Zn</td><td>1</td></tr><tr><td>zinc</td><td></td><td>1</td></tr><tr><td rowspan="4">(b)(i)(ii)</td><td>Fe+H2SO4→FeSO4+H2</td><td>ALLOW multiples and fractions</td><td>1</td></tr><tr><td>(squeaky) pop with lighted splint/lit with a(Bunsen) flame</td><td>IGNORE state symbols even if incorrect</td><td>1</td></tr><tr><td>(squeaky) pop with lighted splint/lit with a(Bunsen) flame</td><td>IGNORE just‘burns with a squeaky pop’</td><td>1</td></tr><tr><td>(squeaky) pop with lighted splint/lit with a(Bunsen) flame</td><td>REJECT use of glowing splint</td><td></td></tr><tr><td rowspan="4">(c)(i)(ii)</td><td>displacement</td><td>ACCEPT redox/oxidation and reduction</td><td>1</td></tr><tr><td>pink-brown/pink(solid)</td><td>ACCEPT pink/brown/orange alone or in combinations eg orange-brown</td><td>1</td></tr><tr><td>(squeaky) pop with lighted splint/lit with a(Bunsen) flame</td><td>ALLOW red-brown</td><td></td></tr><tr><td>(squeaky) pop with lighted splint/lit with a(Bunsen) flame</td><td>REJECT red</td><td></td></tr><tr><td>(d)</td><td>iron is less reactive/lower in the reactivity series(than magnesium) ORA</td><td>IGNORE just‘iron is not reactive enough’ with no comparison</td><td>1</td></tr><tr><td></td><td></td><td></td><td>Total 8</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">3(a)</td><td>Type of bonding</td><td>Type of structure</td><td></td><td>4</td></tr><tr><td>(X) covalent</td><td>simple molecular</td><td></td><td></td></tr><tr><td>(Y) M1 covalent</td><td>M2 giant(covalent)</td><td>ALLOW giant molecular/giant covalent latticeACCEPT macromolecular</td><td></td></tr><tr><td>(Z) M3 ionic</td><td>M4 giant(ionic)lattice</td><td>ALLOW(ionic)latticeIGNORE‘giant’alone</td><td></td></tr><tr><td rowspan="4">(b)</td><td colspan="2">An explanation that links the following points</td><td></td><td>2</td></tr><tr><td colspan="2">M1(X has) weak intermolecular forces/weak forces between molecules</td><td>ALLOW weak intermolecular bonds/weak bonds between moleculesIGNORE less energy</td><td></td></tr><tr><td colspan="2">M2(so) little energy needed to overcome the forces/separate the molecules/the forces require little energy to break</td><td>REJECT any reference to weak covalent bonds or covalent bonds being broken or ionic bonds for both marks.REJECT intermolecular forces between atoms/bonds for both marks</td><td></td></tr><tr><td></td><td></td><td></td><td>Total 6</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">4(a)(i)</td><td>Any two from</td><td>IGNORE references to a specific homologous series</td><td>2</td></tr><tr><td>M1 same general formula</td><td></td><td></td></tr><tr><td>M2 same functional group</td><td></td><td></td></tr><tr><td>M3 each member differs from the next by CH2</td><td></td><td></td></tr><tr><td>M4 similar chemical properties / (chemical) reactions</td><td>ALLOW same chemical properties / (chemical) reactions</td><td></td></tr><tr><td>M5 trend/change/increase in physical properties</td><td>ACCEPT named physical property e.g. trend in boiling points</td><td></td></tr><tr><td></td><td>REJECT same / similar physical properties</td><td></td></tr><tr><td rowspan="5">(ii)</td><td>M1 two shared pairs of electrons between two carbon atoms</td><td>ACCEPT any combination of dots and crosses</td><td>2</td></tr><tr><td>M2 shared pair of electrons between each hydrogen and the carbon it is bonded to</td><td>ACCEPT with or without shells drawn</td><td></td></tr><tr><td></td><td>IGNORE inner shells on carbon atoms</td><td></td></tr><tr><td></td><td>REJECT if non-bonding electrons shown on carbon</td><td></td></tr><tr><td></td><td>REJECT if non-bonding electrons shown on hydrogen</td><td></td></tr><tr><td rowspan="2">(b)(i)</td><td>There are twice as many hydrogen atoms as carbon atoms (in every alkene) OWTTE</td><td>ACCEPT general formula is CnH2n</td><td>1</td></tr><tr><td>M1</td><td>ACCEPT it is the lowest whole number ratio of atoms in alkenes</td><td>2</td></tr><tr><td rowspan="4">(ii)</td><td>M2 H H
+I I
+-C-C-
+I I
+H CH3</td><td>ALLOW methyl group to be shown as -CH3 rather than fully displayed</td><td></td></tr><tr><td>M2 H H
+I I
+-C-C-
+I I
+H CH3</td><td>IGNORE brackets and n</td><td></td></tr><tr><td></td><td>REJECT structure without extension bonds</td><td></td></tr><tr><td></td><td></td><td></td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="8">4(c)(i)(ii)(iii)</td><td>M1(molecular formula)C4H6</td><td></td><td>2</td></tr><tr><td>M2(empirical formula)C2H3</td><td></td><td></td></tr><tr><td>An explanation that links the following three points</td><td></td><td>3</td></tr><tr><td>M1made up of carbon/C and hydrogen/H(atoms)</td><td>REJECT carbon and hydrogen molecules in M1</td><td></td></tr><tr><td>M2only</td><td>M2 dep on mention of just carbon and hydrogen in M1</td><td></td></tr><tr><td>M3contains(two)C=C/(carbon-carbon)doublebonds</td><td>ALLOW contains a(carbon-carbon)double bond</td><td></td></tr><tr><td>A description that refers to the following two points</td><td></td><td>2</td></tr><tr><td rowspan="4">(iii)</td><td>M1add bromine water</td><td>REJECT add bromine for M1</td><td></td></tr><tr><td>M2(bromine water)decolourised/turns(fromorange/yellowto)colourless</td><td>M2 dep on reference to bromine in M1</td><td></td></tr><tr><td></td><td>IGNORE incorrect initialcolour</td><td></td></tr><tr><td></td><td>REJECT if reference to uvbeing needed for reactionto take place</td><td></td></tr><tr><td></td><td></td><td></td><td>Total14</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="5">5(a)(i)</td><td>Any two from:</td><td></td><td>2</td></tr><tr><td>M1 effervescence/fizzing/bubbles</td><td>IGNORE hydrogen / gas formed</td><td></td></tr><tr><td>M2 lithium becomes smaller/disappears</td><td>ALLOW lithium dissolves</td><td></td></tr><tr><td>M3 moves (across the surface)</td><td>IGNORE melts / forms a ball / flame</td><td></td></tr><tr><td>M1 (solution turns) yellow</td><td></td><td>2</td></tr><tr><td rowspan="4">(ii)</td><td>M2 (solution is) an alkali/alkaline</td><td>ACCEPT lithium hydroxide / hydroxide ions / OH- ions formed</td><td></td></tr><tr><td></td><td>ALLOW basic</td><td></td></tr><tr><td>A description that refers to the following five points</td><td></td><td>5</td></tr><tr><td></td><td>ACCEPT description of flame test
+IGNORE ‘burning’</td><td></td></tr><tr><td rowspan="6">(b)</td><td>M1 flame test</td><td>ACCEPT crimson
+REJECT brick-red</td><td></td></tr><tr><td>M2 red (flame)</td><td>ACCEPT nitric or sulfuric acid
+REJECT if additional incorrect reagent given eg silver nitrate</td><td></td></tr><tr><td>M3 add (dilute hydrochloric) acid</td><td>ACCEPT nitric or sulfuric acid
+REJECT if additional incorrect reagent given eg silver nitrate</td><td></td></tr><tr><td>M4 (pass/bubble) gas/carbon dioxide into limewater</td><td>M4 dep on acid in M3</td><td></td></tr><tr><td>M5 (limewater) turns cloudy/milky / white ppt forms</td><td>M5 dep on use of limewater
+No M4 or M5 if limewater added directly to the solution</td><td></td></tr><tr><td rowspan="3">(c)</td><td>M1 electrostatic attraction</td><td></td><td>2</td></tr><tr><td>M2 between oppositely charged ions</td><td>ACCEPT between anions/negative ions and cations/positive ions
+REJECT implication of covalent bonding for M2</td><td></td></tr><tr><td></td><td></td><td>Total 11</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">6</td><td>(a)(i)</td><td>Pb(NO3)2(aq)+2KCl(aq)→PbCl2(s)+2KNO3(aq)</td><td>ALLOW upper case letters for state symbols</td><td>1</td></tr><tr><td>(ii)</td><td>Pb2+and NO3-</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>M1207+(14+16×3)×2M2331</td><td>Correct answer without working scoresALLOW ECF on M1 if other multiples of atomic masses added together eg 207+14+(16×3)=269 for 1 markREJECT use of atomic numbers for both marks</td><td>2</td></tr><tr><td>(b)(i)</td><td>all points plotted correctly to the nearest grid line</td><td></td><td>1</td></tr><tr><td rowspan="6"></td><td>(ii)</td><td>point at 2.9cm/6.0cm3 circled</td><td>ALLOW ecf from incorrect plotting</td><td>1</td></tr><tr><td>(iii)</td><td>M1 best fit straight line through first four points ignoring the anomalous pointM2 horizontal straight line through last three points</td><td>ALLOW max(1) if lines do not cross or meet, or if a smooth curve is drawn, avoiding the anomalous point</td><td>2</td></tr><tr><td>(iv)</td><td>Any two fromM1 precipitate not allowed to settleM2 height(of precipitate) measured incorrectly eg reference to parallax when measuring heightM3 more than 2cm3(of lead(II) nitrate) added/(total volume of lead(II) nitrate added was) more than 6cm3</td><td>ACCEPT height measured too soonALLOW too much lead(II) nitrate added</td><td>2</td></tr><tr><td>(v)</td><td>no precipitate as no lead(II) nitrate added OWTTE</td><td></td><td>1</td></tr><tr><td>(vi)</td><td>value read from graph where lines cross</td><td>no mark if lines do not cross/meet or if there aren&#x27;t two lines eg a curve is drawn</td><td>1</td></tr><tr><td></td><td></td><td></td><td>Total 12</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>7(a)</td><td>M1(number of protons)53M2(number of neutrons)(127-53=)74</td><td></td><td>2</td></tr><tr><td>(b)</td><td>M179×52.8+81×47.2OR7994.4M27994.4÷100OR79.944M379.9</td><td>correct answer without working scores379.944 without working scores2M3 dep on use of79&amp;81 in calculation</td><td>3</td></tr><tr><td>(c)</td><td>M1(amount ofAlCl3=)26.7÷133.5OR0.2(00)(mol)M2(amount ofCl2=)0.2(00)×3/2OR0.3(00)(mol)M3(mass ofCl2=)0.3(00)×71=21.3(g)ORM1213g ofCl2produces267g ofAlCl3M2(mass ofCl2=)26.7/267×213M3=21.3(g)</td><td>correct answer without working scores3ALLOW ECF on M1,as long as an attempt has been made to find molesALLOW ECF on M2ALLOW any number of sig figs except1</td><td>3</td></tr></table>
+
+<table border="1"><tr><td>(d)</td><td>An explanation which links six of the following points
+Pair 1
+M1 no reaction / no change (in colour) / stays yellow or orange
+M2 bromine cannot displace chlorine / bromine does not react with chloride ions to produce chlorine
+M3 therefore chlorine is more reactive than bromine
+Pair 2
+M4 turns brown
+M5 bromine displaces iodine / bromine reacts with iodide ions to produce iodine
+M6 therefore bromine is more reactive than iodine
+M7 the overall order of reactivity is chlorine &gt; bromine &gt; iodine ORA</td><td>ACCEPT it stays any stated colour
+Penalise incorrect use of -ine and -ide
+ACCEPT Br2+KCl $\rightarrow$ Br2+KCl or ionic equation
+ACCEPT “bromine cannot displace chlorine because it is less reactive” OWTTE for M2 and M3
+ACCEPT combinations that include brown eg red-brown
+Penalise incorrect use of -ine and -ide
+ACCEPT Br2+2KI $\rightarrow$ I2+2KBr or ionic equation
+ACCEPT “bromine displaces iodine because it is more reactive” OWTTE for M5 and M6
+IGNORE references to reactivity up/down the group</td><td>6</td></tr><tr><td></td><td></td><td></td><td>Total 14</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">8(a)(i)(ii)</td><td colspan="2">to allow the heat (energy) to be distributed evenly (throughout the water) OWTTE</td><td>ACCEPT so the temperature is the same (throughout the water)</td><td>1</td></tr><tr><td colspan="2">to avoid some of the liquid/fuel/pentanol evaporating OWTTE</td><td></td><td>1</td></tr><tr><td rowspan="4">(b)</td><td rowspan="4"></td><td>Initial temperature of water in $ ^{\circ}C $</td><td>15.9</td><td rowspan="4">PENALISE answer not to nearest 0.1 $ ^{\circ}C $ once onlyALLOW ecf on initial temperatureCorrect values transposed scores(1)</td><td rowspan="4">2</td></tr><tr><td>Final temperature of water in $ ^{\circ}C $</td><td>50.9</td></tr><tr><td>Temperature change in $ ^{\circ}C $</td><td>35.0</td></tr><tr><td></td><td></td></tr><tr><td rowspan="8">(c)(i)(ii)</td><td rowspan="8">(i)(ii)</td><td>M1 (Q=) 100 $ \times $ 4.2 $ \times $ 35 (J)</td><td></td><td>Correct answer of 14700 without working scores2</td><td rowspan="8">2</td></tr><tr><td>M2 14700 (J)</td><td></td><td>ALLOW 15000 (J) only if M1 is scored</td></tr><tr><td>M1 (mass of pentanol=) 90.11-89.75 OR 0.36(g)</td><td></td><td>Correct answer without working scores5</td></tr><tr><td>M2 (amount of pentanol=) 0.36 $ \div $ 88 OR 0.0041(mol)</td><td></td><td>ALLOW ecf on incorrect massREJECT 0.004(which gives final answer of-3675)</td></tr><tr><td>M3 14700 $ \div $ 0.0041 OR 3600000 (J/mol)</td><td></td><td>ALLOW ecf as long as there has been an attempt to calculate moles of pentanol</td></tr><tr><td>M4 3600000 $ \div $ 1000 OR 3600(kJ/mol)</td><td></td><td>ALLOW any SF except 1 SF</td></tr><tr><td>M5 ($ \Delta H= $ )-3600(kJ/mol)</td><td></td><td></td></tr><tr><td rowspan="3">(d)</td><td rowspan="3">(d)</td><td>$ C_{5}H_{11}OH+7.5O_{2}\rightarrow 5CO_{2}+6H_{2}O $</td><td></td><td>ALLOW multiples</td><td rowspan="3">2</td></tr><tr><td>M1 all formulae correct</td><td></td><td>M2 dep on M1</td></tr><tr><td>M2 balancing of correct formulae</td><td></td><td>IGNORE state symbols even if incorrect</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>Total 13</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">9</td><td rowspan="2">(a)(i)</td><td>B4</td><td></td><td>1</td></tr><tr><td>A is incorrect as there are not 3 different elements in Na2SO4.7H2O
+C is incorrect as there are not 5 different elements in Na2SO4.7H2O
+D is incorrect as there are not 10 different elements in Na2SO4.7H2O</td><td></td><td>1</td></tr><tr><td colspan="2">(ii)</td><td>D28
+A is incorrect as there is not a total of 10 atoms in Na2SO4.7H2O
+B is incorrect as there is not a total of 22 atoms in Na2SO4.7H2O
+C is incorrect as there is not a total of 27 atoms in Na2SO4.7H2O</td><td></td><td>1</td></tr><tr><td rowspan="6">(b)(i)</td><td rowspan="6">(ii)</td><td>A description that refers to the following two points</td><td></td><td>2</td></tr><tr><td>M1 heat the sodium sulfate (again)</td><td>ACCEPT ‘heat to constant mass’ for both marks</td><td></td></tr><tr><td>M2 (repeat) until there is no further change in mass</td><td></td><td>2</td></tr><tr><td>An explanation that links the following two points</td><td>ACCEPT steam</td><td></td></tr><tr><td>M1 to cool the (water) vapour</td><td></td><td>2</td></tr><tr><td>M2 so it condenses / forms liquid/water</td><td></td><td></td></tr><tr><td rowspan="4">(iii)</td><td rowspan="4">(iii)</td><td>A description that refers to the following two points</td><td></td><td>2</td></tr><tr><td>M1 heat (the water) / measure the boiling point</td><td>ALLOW find the freezing point /melting point?</td><td></td></tr><tr><td>M2 (if it) boils at 100℃ (it is pure water) / boiling point is 100℃</td><td>REJECT evaporate</td><td></td></tr><tr><td></td><td>ALLOW freezes / melts at 0℃</td><td></td></tr><tr><td></td><td></td><td>IGNORE chemical test even if incorrect</td><td></td><td></td></tr></table>
+
+<table border="1"><tr><td>(c)</td><td>M1 mass of Na2SO4(=19.38-15.83)=3.55(g)
+M2 mass of H2O(=23.88-19.38)=4.50(g)
+M3 amount of Na2SO4(=3.55÷142)=0.025(mol)
+M4 amount of H2O(=4.50÷18)=0.25(mol)
+M5x(=0.25÷0.025)=10
+OR
+M1 mass of Na2SO4(=19.38-15.83)=3.55(g)
+M2 mass of H2O(=23.88-19.38)=4.50(g)
+M3 mass of water combined with 1 mole of sodium sulfate=$\frac{142}{3.55}$×4.50=180(g)
+M4 moles of H2O=180÷18
+M5 therefore,x=10</td><td>Correct answer without working scores5
+ALLOW ECF from incorrect M1
+ALLOW ECF from incorrect M2
+ALLOW an integer ECF on M3&amp;M4
+ACCEPT alternative correct methods</td><td>5</td></tr><tr><td></td><td></td><td></td><td>Total 13</td></tr></table>
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="10">10</td><td rowspan="10">(a)(i)</td><td>M1 0.0036 moles of HCl react with 0.0018 moles of Zn</td><td></td><td>2</td></tr><tr><td>M2 mass of Zn that reacts is 0.0018 x 65=0.117(g)(which is less than 1.3g,so zinc is in excess)</td><td>ALLOW 0.234g is less than 1.3g,so zinc in excess for(1)</td><td></td></tr><tr><td>OR</td><td></td><td></td></tr><tr><td>M1 moles of zinc that can react with 0.0036 moles of HCl=0.0036/2=0.0018(mol)</td><td></td><td></td></tr><tr><td>M2 moles of Zn present=1.3÷65=0.02(mol)(which is more than 0.0018,so zinc is in excess)</td><td></td><td></td></tr><tr><td>OR</td><td></td><td></td></tr><tr><td>M1 amount of zinc=1.3÷65=0.02(mol)</td><td></td><td></td></tr><tr><td>M2 amount of HCl that can react=2x0.02=0.04(mol)(which is greater than 0.0036,so zinc is in excess)</td><td></td><td></td></tr><tr><td>(ii)</td><td>M1 curve starting at origin and steeper than curve AM2 curve levelling off at same volume as curve A/at40cm3</td><td></td><td>2</td></tr><tr><td rowspan="7">(b)(i)</td><td rowspan="7">(i)</td><td>An explanation that links any of the following four points</td><td></td><td>4</td></tr><tr><td>M1 curve B is less steep(than curve A)</td><td></td><td></td></tr><tr><td>M2(because) the particles have less kinetic energy</td><td>ALLOW particles move more slowly</td><td></td></tr><tr><td>M3so there are fewer successful collisions per unit time/less frequent successful collisions</td><td>ACCEPT less frequent collisions that exceed activation energy</td><td></td></tr><tr><td>M4so rate of reaction is slower/reaction takes longer to complete</td><td></td><td></td></tr><tr><td>M5no change in reacting quantities,so final volume is unchanged</td><td>ACCEPT reverse argument throughout</td><td></td></tr></table>
+
+<table border="1"><tr><td>(ii)</td><td>An explanation that links two of the following points
+M1 only half the moles (of hydrochloric acid) used / (hydrochloric acid) concentration is halved
+M2 (so) only half the volume/20cm3 of hydrogen/gas produced
+M3 hydrochloric acid is less concentrated so curve is less steep</td><td>If M1 and M2 are not scored, allow (1) mark for the idea that less HCl produces less hydrogen</td><td>2</td></tr><tr><td>(c)</td><td>A description that refers to the following two points
+M1 (a catalyst) provides an alternative pathway/route
+M2 with a lower activation energy</td><td>IGNORE general statements about catalysts increasing rate / not being used up</td><td>2</td></tr><tr><td></td><td></td><td></td><td>Total 12</td></tr></table>

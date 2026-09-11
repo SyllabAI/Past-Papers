@@ -1,0 +1,587 @@
+<table><tr><td colspan="3">Please check the examination details below before entering your candidate information</td></tr><tr><td colspan="2">Candidate surname</td><td>Other names</td></tr><tr><td>Centre Number</td><td colspan="2">Candidate Number</td></tr><tr><td colspan="3">Pearson Edexcel International GCSE (9-1)</td></tr><tr><td colspan="3">Monday 22 May 2023</td></tr><tr><td>Morning (Time: 2 hours)</td><td>Paper reference</td><td>4CH1/1CR 4SD0/1CR</td></tr><tr><td colspan="3">Chemistry
+UNIT: 4CH1
+Science (Double Award) 4SD0
+PAPER: 1CR</td></tr><tr><td colspan="2">You must have:
+Calculator, ruler</td><td>Total Marks</td></tr></table>
+
+## Instructions
+
+- Use black ink or ball-point pen.
+
+- If pencil is used for diagrams/sketches/graphs it must be dark (HB or B).
+
+- Fill in the boxes at the top of this page with your name, centre number and candidate number.
+
+- Answer all questions.
+
+- Answer the questions in the spaces provided
+
+- there may be more space than you need.
+
+- Show all the steps in any calculations and state the units.
+
+## Information
+
+- The total mark for this paper is 110.
+
+- The marks for each question are shown in brackets
+
+- use this as a guide as to how much time to spend on each question.
+
+## Advice
+
+- Read each question carefully before you start to answer it.
+
+- Write your answers neatly and in good English.
+
+- Try to answer every question.
+
+- Check your answers if you have time at the end.
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168123.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168129.png' alt='OCR图片'/></div>
+
+<table class="table table-bordered"><thead><tr><th>7 Li lithium 3</th><th>9 Be beryllium 4</th><th colspan="12">Key</th><th>4 He helium 2</th></tr></thead><tbody><tr><td>23 Na sodium 11</td><td>24 Mg magnesium 12</td><td colspan="12">relative atomic mass atomic symbol atomic (proton) number</td><td>20 Ne neon 10</td></tr><tr><td>39 K potassium 19</td><td>40 Ca calcium 20</td><td>45 Sc scandium 21</td><td>48 Ti titanium 22</td><td>51 V vanadium 23</td><td>52 Cr chromium 24</td><td>55 Mn manganese 25</td><td>56 Fe iron 26</td><td>59 Co cobalt 27</td><td>59 Ni nickel 28</td><td>63.5 Cu copper 29</td><td>65 Zn zinc 30</td><td>70 Ga gallium 31</td><td>73 Ge germanium 32</td><td>75 As arsenic 33</td><td>79 Se selenium 34</td><td>80 Br bromine 35</td><td>84 Kr krypton 36</td></tr><tr><td>85 Rb rubidium 37</td><td>88 Sr strontium 38</td><td>89 Y yttrium 39</td><td>91 Zr zirconium 40</td><td>93 Nb niobium 41</td><td>96 Mo molybdenum 42</td><td>[98] Tc technetium 43</td><td>101 Ru ruthenium 44</td><td>103 Rh rhodium 45</td><td>106 Pd palladium 46</td><td>108 Ag silver 47</td><td>112 Cd cadmium 48</td><td>115 In indium 49</td><td>119 Sn tin 50</td><td>122 Sb antimony 51</td><td>128 Te tellurium 52</td><td>127 I iodine 53</td><td>131 Xe xenon 54</td></tr><tr><td>133 Cs caesium 55</td><td>137 Ba barium 56</td><td>139 La* lanthanum 57</td><td>178 Hf hafnium 72</td><td>181 Ta tantalum 73</td><td>184 W tungsten 74</td><td>186 Re rhenium 75</td><td>190 Os osmium 76</td><td>192 Ir iridium 77</td><td>195 Pt platinum 78</td><td>197 Au gold 79</td><td>201 Hg mercury 80</td><td>204 TI thallium 81</td><td>207 Pb lead 82</td><td>209 Bi bismuth 83</td><td>[209] Po polonium 84</td><td>[210] At astatine 85</td><td>[222] Rn radon 86</td></tr><tr><td>[223] Fr francium 87</td><td>[226] Ra radium 88</td><td>[227] Ac* actinium 89</td><td>[261] Rf rutherfordium 104</td><td>[262] Db dubnium 105</td><td>[266] Sg seaborgium 106</td><td>[264] Bh bohrium 107</td><td>[277] Hs hassium 108</td><td>[268] Mt mettnerium 109</td><td>[271] Ds darmstadtium 110</td><td>[272] Rg roentgenium 111</td><td colspan="6">Elements with atomic numbers 112-116 have been reported but not fully authenticated</td></tr></tbody></table>
+
+* The lanthanoids (atomic numbers 58-71) and the actinoids (atomic numbers 90-103) have been omitted.
+
+The relative atomic masses of copper and chlorine have not been rounded to the nearest whole number.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168134.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168139.png' alt='OCR图片'/></div>
+
+## Answer ALL questions.
+
+Some questions must be answered with a cross in a box. If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
+
+1 This question is about oxygen.
+
+(a) Oxygen can be stored in tanks as a liquid or as a gas.
+
+(i) Complete the diagram to show the arrangement of six more particles in a gas.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168143.png' alt='OCR图片'/></div>
+
+(ii) Give a reason why a tank can store much more oxygen as a liquid.
+
+(iii) Identify a hazard when storing oxygen as a gas.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168148.png' alt='OCR图片'/></div>
+
+(b) Sulfur burns in oxygen to form sulfur dioxide.
+
+(i) Give one observation that can be made when sulfur burns in oxygen.
+
+(ii) Some universal indicator is added to sulfur dioxide Explain the final colour of the universal indicator.
+
+(Total for Question 1 = 6 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168164.png' alt='OCR图片'/></div>
+
+2 This question is about mixtures and compounds.
+
+(a) The box gives some techniques used to separate mixtures.
+
+<table border="1"><tr><td>crystallisation</td><td>filtration</td></tr><tr><td>fractional distillation</td><td>simple distillation</td></tr></table>
+
+The table lists some substances and mixtures.
+
+Complete the table using words from the box to show the best technique to obtain the named substance from each mixture.
+
+Each technique may be used once, more than once or not at all.
+
+<div align="center">
+
+(3) 
+
+</div>
+
+<table border="1"><tr><td>Substance</td><td>Mixture</td><td>Technique</td></tr><tr><td>solid sodium chloride</td><td>aqueous sodium chloride</td><td></td></tr><tr><td>water</td><td>aqueous copper(II) sulfate</td><td></td></tr><tr><td>sand</td><td>sand and water</td><td></td></tr></table>
+
+(b) State how the box represents a mixture.
+
+<div align="center">
+
+(1) 
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168173.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168179.png' alt='OCR图片'/></div>
+
+(c) Food colourings are mixtures of food dyes.
+
+A student uses paper chromatography to separate the food dyes contained in food colouring D.
+
+The student places spots of three food dyes A, B and C and food colouring D on chromatography paper.
+
+The diagram shows the appearance of the paper after the experiment.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168184.png' alt='OCR图片'/></div>
+
+Describe the composition of food colouring D.
+
+(d) A compound has the formula $ \mathrm{C a (H C O_{3})_{2}} $
+
+(i) Determine the number of different elements in $ \mathrm{C a (H C O_{3})_{2}} $
+
+(ii) Determine the number of atoms in the formula of $ \mathrm{C a (H C O_{3})_{2}} $
+
+(Total for Question 2 = 8 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168189.png' alt='OCR图片'/></div>
+
+3 (a) The diagram represents an atom of an element.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168194.png' alt='OCR图片'/></div>
+
+(i) What is the particle labelled W?
+
+A electron
+
+B neutron
+
+C nucleus
+
+D proton
+
+(ii) An atom of this element contains 13 neutrons.
+
+What is the mass number of this element?
+
+A 12
+
+B 13
+
+C 25
+
+D 49
+
+(iii) State why atoms have no overall charge.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168198.png' alt='OCR图片'/></div>
+
+(iv) What is the charge on the ion usually formed from this element?
+
+A 1+
+
+B 2+
+
+C 1-
+
+D 2-
+
+(b) There are two isotopes of the element lithium.
+
+$$
+{ } _ { 3 } ^ { 6 } \mathrm { L i } \quad { } _ { 3 } ^ { 7 } \mathrm { L i }
+$$
+
+(i) State why both isotopes react in the same way.
+
+(ii) A sample of lithium contains $ 7.60\% $ $ _{3}^{6} \mathrm{Li} $ and $ 92.4\% $ $ _{3}^{7} \mathrm{Li} $
+
+Calculate the relative atomic mass, $ A_{r} $ , of this sample of lithium.
+
+Give your answer to two decimal places.
+
+(Total for Question 3 = 8 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168205.png' alt='OCR图片'/></div>
+
+4 This question is about gases.
+
+(a) The table gives information about some gases.
+
+Complete the table by choosing a gas from the box that matches the information.
+
+<table border="1"><tr><td>carbon dioxide</td><td>carbon monoxide</td><td>helium</td></tr><tr><td>methane</td><td>nitrogen</td><td>oxygen</td></tr></table>
+
+You may use each gas once, more than once, or not at all.
+
+<div align="center">
+
+(4) 
+
+</div>
+
+<table border="1"><tr><td>Information</td><td>Gas</td></tr><tr><td>the most abundant gas in air</td><td></td></tr><tr><td>a toxic gas that is a product of incomplete combustion of hydrocarbons</td><td></td></tr><tr><td>an unreactive gas that exists as atoms</td><td></td></tr><tr><td>a gas produced by the fractional distillation of crude oil</td><td></td></tr></table>
+
+(b) A teacher uses this apparatus to determine the percentage of oxygen in a sample of air.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168213.png' alt='OCR图片'/></div>
+
+This is the teacher's method.
+
+- record the total volume of air in the apparatus
+
+- heat the copper powder
+
+- use the syringes to pass air over the heated copper powder several times
+
+- allow the remaining gas to cool and record its volume
+
+The copper powder turns black.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168218.png' alt='OCR图片'/></div>
+
+(i) State why the copper powder turns black.
+
+(ii) Give a reason why the remaining gas is allowed to cool before its volume is recorded.
+
+(iii) At the start of the experiment, the total volume of air in the apparatus is $ 1 3 8 \mathrm{c m}^{3}. $
+
+At the end of the experiment, the volume of gas remaining is $ 1 0 8 \mathrm{c m}^{3}. $
+
+Calculate the percentage of oxygen in the sample of air.
+
+Assume that all the oxygen has reacted.
+
+(Total for Question 4 = 8 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168227.png' alt='OCR图片'/></div>
+
+5 This question is about iron.
+
+(a) One problem with iron is that it rusts.
+
+(i) Name the two substances that iron reacts with when it rusts.
+
+(ii) State what type of reaction occurs when iron rusts.
+
+(b) Iron can be prevented from rusting by painting or by coating with zinc.
+
+(i) Explain how painting prevents iron from rusting.
+
+(ii) Name the process used to coat iron with zinc.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168232.png' alt='OCR图片'/></div>
+
+(iii) Explain why a layer of zinc protects iron from rusting, even if the layer of zinc is scratched.
+
+(c) Iron is formed when aluminium reacts with iron(III) oxide.
+
+$$
+2 \mathrm {A I} + \mathrm {F e} _ {2} \mathrm {O} _ {3} \rightarrow \mathrm {A I} _ {2} \mathrm {O} _ {3} + 2 \mathrm {F e}
+$$
+
+This is the equation for the reaction.
+
+(i) Explain what this reaction shows about the relative reactivities of aluminium and iron.
+
+(ii) Explain which substance acts as an oxidising agent in this reaction.
+
+(Total for Question 5 = 12 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168236.png' alt='OCR图片'/></div>
+
+6 A student uses this apparatus to investigate the rate of reaction when hydrogen peroxide solution decomposes.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168244.png' alt='OCR图片'/></div>
+
+This is the equation for the reaction.
+
+$$
+2 \mathrm {H} _ {2} \mathrm {O} _ {2} \rightarrow 2 \mathrm {H} _ {2} \mathrm {O} + \mathrm {O} _ {2}
+$$
+
+(a) Give a reason why the gas that collects in the gas syringe is not pure oxygen.
+
+(b) The rate of reaction can be increased by adding a catalyst to the hydrogen peroxide solution.
+
+Describe how a catalyst increases the rate of a reaction.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168249.png' alt='OCR图片'/></div>
+
+(c) These solids catalyse the decomposition of hydrogen peroxide solution.
+
+- lead(IV) oxide
+
+- manganese(IV) oxide
+
+Describe a method that the student could use to find out which solid is the more effective catalyst.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168256.png' alt='OCR图片'/></div>
+
+(d) A student investigates the decomposition of a solution of hydrogen peroxide at different temperatures.
+
+The graph shows how the total volume of oxygen collected in the syringe changes with time when the solution is at a temperature of $ 2 0^{\circ} \mathrm{C} $
+
+Volume of oxygen in $ \mathrm{c m^{3}} $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168260.png' alt='OCR图片'/></div>
+
+On the grid, draw the curve the student would obtain at a temperature of 40 $ ^{\circ} \mathrm{C} $ when all other conditions are kept the same.
+
+(Total for Question 6 = 10 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168267.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168272.png' alt='OCR图片'/></div>
+
+7 A teacher uses this apparatus to test the products of the combustion of liquid hydrocarbons.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168310.png' alt='OCR图片'/></div>
+
+(a) Explain the change in appearance that occurs in the limewater.
+
+(b) The equation represents the complete combustion of an alkene.
+
+$$
+\mathrm {C} _ {\mathrm {n}} \mathrm {H} _ {2 \mathrm {n}} + \mathrm {o x y g e n} \rightarrow \mathrm {c a r b o n d i o x i d e} + \mathrm {n H} _ {2} \mathrm {O}
+$$
+
+Complete combustion of 0.0100 mol of the alkene produces 2.16 g of water.
+
+(i) Determine the molecular formula of this alkene.
+
+[for $ \mathrm{H_{2}O}, M_{\mathrm{r}}=1 8 $]
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168315.png' alt='OCR图片'/></div>
+
+(ii) Give a reason why the mass of pure water that collects in the U-tube is less than 2.16 g.
+
+(iii) Give a physical test to show that the water that collects in the U-tube is pure.
+
+(c) The teacher burns 30.0 g of heptane.
+
+This is the equation for the complete combustion of heptane.
+
+$$
+\mathrm {C} _ {7} \mathrm {H} _ {1 6} + 1 1 \mathrm {O} _ {2} \rightarrow 7 \mathrm {C O} _ {2} + 8 \mathrm {H} _ {2} \mathrm {O}
+$$
+
+Calculate the minimum mass of oxygen needed for the complete combustion of 30.0g of heptane.
+
+[for $ C_{7} H_{1 6}, M_{r}=1 0 0 $ for $ O_{2}, M_{r}=3 2 $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168320.png' alt='OCR图片'/></div>
+
+8 Diamond, graphite and $ C_{60} $ fullerene are all forms of the element carbon.
+
+The diagram shows the structures of these three substances.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168326.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+diamond
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168359.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+graphite
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789056168364.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+C $ _{60} $ fullerene
+
+</div>
+
+(a) Explain why graphite conducts electricity.
+
+<div align="center">
+
+(2) 
+
+</div>
+
+(b) Explain why diamond is hard but graphite is soft.
+
+(c) Doctors use $ C_{60} $ fullerene to deliver medicines to certain parts of the body, so that the medicine does not damage other parts of the body.
+
+Suggest why $ C_{60} $ fullerene is suitable for this purpose.
+
+<div align="center">
+
+(Total for Question 8 = 5 marks)
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_4_1789056168369.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168387.png' alt='OCR图片'/></div>
+
+9 This question is about ionic compounds.
+
+(a) Calcium nitrate has the formula $ \mathrm{C a ( N O_{3} )_{2}} $
+
+(i) Give the formula of each ion in calcium nitrate.
+
+calcium ion
+
+nitrate ion
+
+(ii) Explain why calcium nitrate has a high melting point. Refer to structure and bonding in your answer.
+
+(iii) Calcium nitrate decomposes when heated.
+
+Complete the chemical equation for the decomposition of calcium nitrate.
+
+$$
+\mathrm {C a} \left(\mathrm {N O} _ {3}\right) _ {2} \rightarrow \mathrm {C a O} + \mathrm {N O} _ {2} + \mathrm {O} _ {2}
+$$
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168393.png' alt='OCR图片'/></div>
+
+(b) A student has four unlabelled beakers, each containing a colourless solution of a different salt.
+
+These are the four salt solutions.
+
+- calcium bromide
+
+- calcium chloride
+
+- sodium chloride
+
+- sodium sulfate
+
+Describe a series of tests to identify each solution.
+
+Do not refer to safety precautions in your answer.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168398.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168414.png' alt='OCR图片'/></div>
+
+10 This question is about propene.
+
+(a) (i) The structural formula of propene is $ \mathrm{C H_{3} C H=C H_{2}} $
+
+Complete the dot-and-cross diagram for a molecule of propene.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168418.png' alt='OCR图片'/></div>
+
+(ii) Describe the forces of attraction that hold the atoms together in a molecule of propene.
+
+(b) The alkane pentadecane has the formula $ \mathrm{C_{1 5} H_{3 2}} $
+
+Describe how propene can be produced from pentadecane.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168423.png' alt='OCR图片'/></div>
+
+(c) Propene is used to make poly(propene).
+
+(i) Complete the equation for the formation of poly(propene).
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168428.png' alt='OCR图片'/></div>
+
+(ii) Explain why the disposal of poly(propene) in landfill sites is a problem.
+
+(d) Propene can be converted into compound X.
+
+(i) Compound X contains these percentages by mass.
+
+- carbon 60%
+
+- oxygen 26.7%
+
+- hydrogen 13.3%
+
+Compound X has an $ M_{\mathrm{r}} $ of 60
+
+Determine the molecular formula of compound X.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168433.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789056168450.png' alt='OCR图片'/></div>
+
+(ii) Propene and compound X both have simple molecular structures.
+
+Explain why compound X has a higher boiling point than propene.
+
+(Total for Question 10 = 15 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168454.png' alt='OCR图片'/></div>
+
+11 A student uses this method to investigate the temperature change when solid sodium hydrogencarbonate is added to ethanoic acid solution.
+
+- pour $ 1 0 0 \mathrm{c m}^{3} $ of ethanoic acid solution into a polystyrene cup
+
+- record the temperature of the ethanoic acid solution
+
+- add a 1g portion of sodium hydrogencarbonate to the ethanoic acid solution and stir
+
+- record the new temperature
+
+- add further 1 g portions of sodium hydrogencarbonate, stirring and recording the temperature after each portion is added
+
+The table shows the student's results.
+
+<table border="1"><tr><td>Mass of sodium hydrogencarbonate added in g</td><td>Temperature in℃</td></tr><tr><td>0</td><td>20.8</td></tr><tr><td>1</td><td>19.4</td></tr><tr><td>2</td><td>18.1</td></tr><tr><td>3</td><td>18.0</td></tr><tr><td>4</td><td>16.4</td></tr><tr><td>5</td><td>15.8</td></tr><tr><td>6</td><td>15.3</td></tr><tr><td>7</td><td>15.3</td></tr><tr><td>8</td><td>15.3</td></tr></table>
+
+(a) (i) Plot the student's results on the grid.
+
+(ii) Draw a circle around the anomalous result.
+
+(iii) Draw a curve of best fit.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168459.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168465.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168471.png' alt='OCR图片'/></div>
+
+Mass of sodium hydrogencarbonate in g
+
+<div align="center">
+
+(b) (i) Explain why using a polystyrene cup makes the results more accurate.
+
+</div>
+
+(ii) Suggest a mistake the student might have made to cause the anomalous result.
+
+(iii) State how the results show the reaction is complete.
+
+(iv) State how the results show that the reaction is endothermic.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168479.png' alt='OCR图片'/></div>
+
+(c) Use the results to calculate the heat energy change, Q, in joules. [for $ 1. 0 \mathrm{c m}^{3} $ of ethanoic acid solution, mass = 1.0 g] [for ethanoic acid solution, $ c=4. 2 \mathrm{J / g /^{\circ} C} $]
+
+(d) The student repeats the experiment starting with a different volume of ethanoic acid solution.
+
+The student uses 7.0g of sodium hydrogencarbonate to neutralise the ethanoic acid solution.
+
+The heat energy change, Q, is 3200 J.
+
+Calculate the molar enthalpy change, $ \Delta H $ , in kJ/mol.
+
+Include a sign with your answer.
+
+[for sodium hydrogencarbonate, $ M_{\mathrm{r}}=8 4 $]
+
+(Total for Question 11 = 14 marks)
+
+TOTAL FOR PAPER = 110 MARKS
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168484.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789056168490.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168504.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789056168508.png' alt='OCR图片'/></div>
