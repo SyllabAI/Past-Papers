@@ -1,0 +1,438 @@
+<table><tr><td colspan="3">Please check the examination details below before entering your candidate information</td></tr><tr><td colspan="2">Candidate surname</td><td>Other names</td></tr><tr><td>Centre Number</td><td colspan="2">Candidate Number</td></tr><tr><td colspan="3">Pearson Edexcel International GCSE (9-1)</td></tr><tr><td colspan="2">Time 1 hour 15 minutes</td><td>Paper reference 4CH1/2C</td></tr><tr><td colspan="3">Chemistry
+Unit: 4CH1
+PAPER: 2C</td></tr><tr><td colspan="3">You must have:
+Calculator, ruler</td></tr><tr><td colspan="3">Total Marks</td></tr></table>
+
+## Instructions
+
+- Use black ink or ball-point pen.
+
+- Fill in the boxes at the top of this page with your name, centre number and candidate number.
+
+- Answer all questions.
+
+- Answer the questions in the spaces provided
+
+- there may be more space than you need.
+
+- Show all the steps in any calculations and state the units.
+
+## Information
+
+- The total mark for this paper is 70.
+
+- The marks for each question are shown in brackets
+
+- use this as a guide as to how much time to spend on each question.
+
+## Advice
+
+- Read each question carefully before you start to answer it.
+
+- Write your answers neatly and in good English.
+
+- Try to answer every question.
+
+- Check your answers if you have time at the end.
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258214.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258267.png' alt='OCR图片'/></div>
+
+<table border="1"><tr><td>7Li lithium3</td><td>9Be beryllium4</td><td colspan="12">Key</td><td>4He helium2</td></tr><tr><td>23Na sodium11</td><td>24Mg magnesium12</td><td colspan="12">relative atomic mass atomic symbol atomic (proton) number</td><td>20Ne neon10</td></tr><tr><td>39K potassium19</td><td>40Ca calcium20</td><td>45Sc scandium21</td><td>48Ti titanium22</td><td>51V vanadium23</td><td>52Cr chromium24</td><td>55Mn manganese25</td><td>56Fe iron26</td><td>59Co cobalt27</td><td>59Ni nickel28</td><td>63.5Cu copper29</td><td>65Zn zinc30</td><td>70Ga gallium31</td><td>73Ge germanium32</td><td>75As arsenic33</td><td>79Se selenium34</td><td>80Br bromine35</td><td>84Kr krypton36</td></tr><tr><td>85Rb rubidium37</td><td>88Sr strontium38</td><td>89Y yttrium39</td><td>91Zr zirconium40</td><td>93Nb niobium41</td><td>96Mo molybdenum42</td><td>[98]Tc technetium43</td><td>101Ru ruthenium44</td><td>103Rh rhodium45</td><td>106Pd palladium46</td><td>108Ag silver47</td><td>112Cd cadmium48</td><td>115In indium49</td><td>119Sn tin50</td><td>122Sb antimony51</td><td>128Te tellurium52</td><td>127I iodine53</td><td>131Xe xenon54</td></tr><tr><td>133Cs caesium55</td><td>137Ba barium56</td><td>139La* lanthanum57</td><td>178Hf hafnium72</td><td>181Ta tantalum73</td><td>184W tungsten74</td><td>186Re rhenium75</td><td>190Os osmium76</td><td>192Ir iridium77</td><td>195Pt platinum78</td><td>197Au gold79</td><td>201Hg mercury80</td><td>204Tl thallium81</td><td>207Pb lead82</td><td>209Bi bismuth83</td><td>[209Po polonium84</td><td>[210At astatine85</td><td>[222Rn radon86</td></tr><tr><td>[223]Fr francium87</td><td>[226]Ra radium88</td><td>[227]Ac* actinium89</td><td>[261]Rf rutherfordium104</td><td>[262]Db dubnium105</td><td>[266]Sg seaborgium106</td><td>[264]Bh bohrium107</td><td>[277]Hs hassium108</td><td>[268]Mt meitnerium109</td><td>[271]Ds darmstadium110</td><td>[272]Rg roentgenium111</td><td colspan="6">Elements with atomic numbers 112-116 have been reported but not fully authenticated</td></tr></table>
+
+* The lanthanoids (atomic numbers 58-71) and the actinoids (atomic numbers 90-103) have been omitted.
+
+The relative atomic masses of copper and chlorine have not been rounded to the nearest whole number.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258272.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258280.png' alt='OCR图片'/></div>
+
+## Answer ALL questions.
+
+Some questions must be answered with a cross in a box. If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
+
+1 This question is about the unsaturated hydrocarbon, ethene.
+
+The displayed formula of ethene is
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258301.png' alt='OCR图片'/></div>
+
+(a) (i) State the meaning of the term hydrocarbon.
+
+(ii) Give the reason why ethene is described as unsaturated.
+
+(b) Ethene is bubbled through bromine water until there is no further colour change. Which of these is the appearance of the solution formed?
+
+A colourless
+
+B orange
+
+C purple
+
+D red
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258309.png' alt='OCR图片'/></div>
+
+(c) Ethanol is produced industrially by the reaction between ethene and steam.
+
+The equation for the reaction is
+
+(i) State the temperature and pressure used in this reaction.
+
+$$
+\mathrm {C H} _ {2} \mathrm {C H} _ {2} (\mathrm {g}) + \mathrm {H} _ {2} \mathrm {O} (\mathrm {g}) \rightarrow \mathrm {C H} _ {3} \mathrm {C H} _ {2} \mathrm {O H} (\mathrm {I})
+$$
+
+temperature
+
+pressure
+
+(ii) Give the molecular formula of ethanol.
+
+<div align="center">
+
+(Total for Question 1 = 7 marks)
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258316.png' alt='OCR图片'/></div>
+
+2 This question is about gases in the air.
+
+The pie chart represents the percentages of gases in dry, unpolluted air.
+
+Gases with percentages of less than 1% in air are called trace gases.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258320.png' alt='OCR图片'/></div>
+
+(a) (i) Which of these is gas Z?
+
+A hydrogen
+
+B methane
+
+C neon
+
+D nitrogen
+
+(ii) Which of these is the approximate percentage of oxygen in dry, unpolluted air?
+
+A 0.04%
+
+B 0.9%
+
+C 21%
+
+D 35%
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258324.png' alt='OCR图片'/></div>
+
+(b) One of the trace gases is carbon dioxide.
+
+(i) Identify two reactions that produce carbon dioxide by placing a tick ( $ \surd $ ) in two boxes.
+
+<table border="1"><tr><td>cracking an alkane</td><td></td></tr><tr><td>complete combustion of an alkane</td><td></td></tr><tr><td>reaction between magnesium and hydrochloric acid</td><td></td></tr><tr><td>rusting of iron</td><td></td></tr><tr><td>thermal decomposition of copper(II) carbonate</td><td></td></tr></table>
+
+(ii) Name an environmental problem that is caused by the percentage of carbon dioxide increasing in the atmosphere.
+
+(iii) Name the trace gas with the highest percentage in dry, unpolluted air.
+
+(c) Rainwater is acidic because carbon dioxide dissolves in water to form carbonic acid.
+
+Acid rain is more acidic than rainwater because acidic pollutant gases also dissolve in water.
+
+(i) Give the name of the acid that forms when nitrogen dioxide dissolves in water.
+
+(ii) Name another pollutant gas that also forms acid rain.
+
+(Total for Question 2 = 8 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258329.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258336.png' alt='OCR图片'/></div>
+
+3 This question is about solubility.
+
+(a) The graph shows the solubilities of copper(II) chloride and sodium chloride at different temperatures.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258405.png' alt='OCR图片'/></div>
+
+$$
+^{\circ} C
+$$
+
+(i) Determine the temperature at which copper(II) chloride and sodium chloride have the same solubility.
+
+Show on the graph how you obtained your answer.
+
+$$
+\mathrm {t e m p e r a t u r e} =
+$$
+
+(ii) A saturated solution of copper(II) chloride in 100g of water is cooled from $ 4 0^{\circ} \mathrm{C} $ to $ 1 0^{\circ} \mathrm{C}. $
+
+Determine the mass, in grams, of copper(II) chloride that crystallises.
+
+mass of copper(II) chloride =
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258414.png' alt='OCR图片'/></div>
+
+(b) A student uses this method to determine the solubility of potassium chloride in water at room temperature.
+
+- record the mass of an empty evaporating basin
+
+- pour some saturated potassium chloride solution into the evaporating basin
+
+- record the mass of the evaporating basin and saturated potassium chloride solution
+
+- heat the evaporating basin to remove all the water
+
+- record the mass of the evaporating basin and the dry potassium chloride
+
+The table shows the student's results.
+
+<table border="1"><tr><td></td><td>Mass in grams</td></tr><tr><td>evaporating basin</td><td>58.1</td></tr><tr><td>evaporating basin and saturated potassium chloride solution</td><td>78.2</td></tr><tr><td>evaporating basin and dry potassium chloride</td><td>63.2</td></tr></table>
+
+(i) Calculate the mass of dry potassium chloride obtained.
+
+(ii) Calculate the mass of water removed.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258419.png' alt='OCR图片'/></div>
+
+(iii) Calculate the solubility of potassium chloride in grams per 100 grams of water.
+
+$$
+s o l u b i l i t y =
+$$
+
+(iv) Suggest why the student's method is not suitable for determining the solubility of hydrated copper(II) sulfate.
+
+(Total for Question 3 = 9 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258423.png' alt='OCR图片'/></div>
+
+4 This question is about the reactions of Group 1 metals with water.
+
+(a) A teacher adds a piece of sodium to some water containing universal indicator.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258431.png' alt='OCR图片'/></div>
+
+The equation for this reaction is
+
+$$
+2 \mathrm {N a} (\mathrm {s}) + 2 \mathrm {H} _ {2} \mathrm {O} (\mathrm {I}) \rightarrow 2 \mathrm {N a O H} (\mathrm {a q}) + \mathrm {H} _ {2} (\mathrm {g})
+$$
+
+The sodium floats on the surface of the water and the universal indicator changes colour because an alkaline solution is formed.
+
+(i) Give two other observations.
+
+(ii) Give the final colour of the universal indicator.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258444.png' alt='OCR图片'/></div>
+
+(b) The diagram represents an atom of lithium and an atom of sodium.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258450.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+lithium
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258455.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+sodium
+
+</div>
+
+(i) Give a reason why lithium and sodium have similar reactions with water.
+
+(ii) Explain why lithium is less reactive than sodium.
+
+<div style='text-align: center;'><img src='assets/crop_3_1789064258460.png' alt='OCR图片'/></div>
+
+(c) The teacher adds 0.150g of lithium to an excess of water and collects the hydrogen gas produced.
+
+The equation for the reaction is
+
+$$
+2 \mathrm {L i} (\mathrm {s}) + 2 \mathrm {H} _ {2} \mathrm {O} (\mathrm {I}) \rightarrow 2 \mathrm {L i O H} (\mathrm {a q}) + \mathrm {H} _ {2} (\mathrm {g})
+$$
+
+The teacher collects $ 2 5 4 \mathrm{c m}^{3} $ of hydrogen gas at room temperature and pressure (rtp).
+
+Show by calculation that 1 mol of hydrogen gas has a volume of approximately $ 2 4 0 0 0 \mathrm{c m}^{3} $ at rtp.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258465.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258470.png' alt='OCR图片'/></div>
+
+5 Hydrogen peroxide solution decomposes to give water and oxygen gas.
+
+The equation for this reaction is
+
+$$
+2 \mathrm {H} _ {2} \mathrm {O} _ {2} (\mathrm {a q}) \rightarrow 2 \mathrm {H} _ {2} \mathrm {O} (\mathrm {I}) + \mathrm {O} _ {2} (\mathrm {g})
+$$
+
+(a) Three different solids are catalysts for the decomposition of hydrogen peroxide solution.
+
+A student is given hydrogen peroxide solution and a sample of each of the solid catalysts.
+
+The student has a timer, a measuring cylinder, a balance and the apparatus shown in the diagram.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258475.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258479.png' alt='OCR图片'/></div>
+
+Describe a method the student could use to find which of the three solids is the most effective catalyst for the decomposition of hydrogen peroxide solution.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258484.png' alt='OCR图片'/></div>
+
+(b) The diagram shows the reaction profile for the decomposition of hydrogen peroxide without a catalyst.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258489.png' alt='OCR图片'/></div>
+
+(i) Label the diagram to show the activation energy $ ( E_{\mathrm{a}}) $ and the enthalpy change $ (\Delta H) $ for this reaction.
+
+(ii) On the diagram, draw a curve to show the reaction profile for the same reaction when a catalyst is used.
+
+(Total for Question 5 = 8 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258494.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258499.png' alt='OCR图片'/></div>
+
+6 This question is about the electrolysis of copper(II) sulfate solution.
+
+(a) The diagram shows the apparatus used for the electrolysis.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258504.png' alt='OCR图片'/></div>
+
+A student records the total increase in mass of the negative electrode every minute for 8 minutes.
+
+The table shows the results.
+
+<table border="1"><tr><td>Time in minutes</td><td>Total increase in mass of the negative electrode in grams</td></tr><tr><td>0</td><td>0.00</td></tr><tr><td>1</td><td>0.15</td></tr><tr><td>2</td><td>0.27</td></tr><tr><td>3</td><td>0.34</td></tr><tr><td>4</td><td>0.39</td></tr><tr><td>5</td><td>0.41</td></tr><tr><td>6</td><td>0.42</td></tr><tr><td>7</td><td>0.42</td></tr><tr><td>8</td><td>0.42</td></tr></table>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258544.png' alt='OCR图片'/></div>
+
+(i) Plot the student's results.
+
+(ii) Draw a curve of best fit.
+
+## Increase in mass in grams
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258549.png' alt='OCR图片'/></div>
+
+(iii) Explain the shape of the graph.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258558.png' alt='OCR图片'/></div>
+
+(b) The product at the positive electrode is oxygen gas.
+
+(i) The student repeats the electrolysis using different apparatus.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258563.png' alt='OCR图片'/></div>
+
+Describe how the student should collect a sample of pure oxygen at the positive electrode.
+
+(ii) Give an ionic half-equation for the formation of oxygen.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258567.png' alt='OCR图片'/></div>
+
+(c) The wire used to connect the power supply to the electrodes is made of copper metal.
+
+The diagram shows the arrangement of the ions in a metal.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258572.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258577.png' alt='OCR图片'/></div>
+
+metal ion
+
+(i) Metals that are malleable can also be stretched to form long, thin wires. Suggest why metals can be stretched to form wires.
+
+(ii) Explain why metals conduct electricity.
+
+(Total for Question 6 = 12 marks)
+
+<div style='text-align: center;'><img src='assets/crop_3_1789064258581.png' alt='OCR图片'/></div>
+
+7 This question is about esters.
+
+Ester A reacts with water to form ethanoic acid and ethanol.
+
+The displayed formulae of the reactants and products are shown in this equation
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258586.png' alt='OCR图片'/></div>
+
+The molar enthalpy change $ (\Delta H) $ for the reaction is 0 kJ/mol.
+
+(a) (i) Draw a ring around the functional group in ester A.
+
+(ii) Give the name of ester A.
+
+(iii) Describe a chemical test, other than using an indicator, to show that the reaction mixture contains ethanoic acid.
+
+(b) Explain why the molar enthalpy change $ (\Delta H) $ for the reaction between ester A and water is 0 kJ/mol.
+
+In your answer, refer to the bonds broken and the bonds formed.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258593.png' alt='OCR图片'/></div>
+
+(c) A mixture of ester A and water is left in a sealed container until the reaction mixture reaches dynamic equilibrium.
+
+(i) Describe what is meant by dynamic equilibrium.
+
+(ii) Explain why adding a catalyst does not change the position of equilibrium.
+
+(d) The ethanoic acid produced in the reaction is completely neutralised by $ 2 2. 7 5 \mathrm{c m}^{3} $ of $ 0. 1 5 0 \mathrm{m o l} / \mathrm{d m}^{3} $ barium hydroxide solution.
+
+The equation for the neutralisation reaction is
+
+$$
+2 \mathrm {C H} _ {3} \mathrm {C O O H} + \mathrm {B a} (\mathrm {O H}) _ {2} \rightarrow \mathrm {B a} (\mathrm {C H} _ {3} \mathrm {C O O}) _ {2} + 2 \mathrm {H} _ {2} \mathrm {O}
+$$
+
+Calculate the amount, in moles, of ethanoic acid neutralised Give your answer to 3 significant figures.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258620.png' alt='OCR图片'/></div>
+
+(e) The structures of two organic compounds are shown.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258628.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789064258634.png' alt='OCR图片'/></div>
+
+These compounds react together to form a polymer.
+
+Give the repeat unit of the polymer formed.
+
+(Total for Question 7 = 15 marks)
+
+TOTAL FOR PAPER = 70 MARKS
+
+<div style='text-align: center;'><img src='assets/crop_3_1789064258638.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258643.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789064258648.png' alt='OCR图片'/></div>

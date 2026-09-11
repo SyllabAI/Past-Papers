@@ -1,0 +1,93 @@
+<div style='text-align: center;'><img src='assets/crop_1_1789064142230.png' alt='OCR图片'/></div>
+
+PMT
+
+Pearson Edexcel
+
+Mark Scheme (Results)
+
+January 2021
+
+Pearson Edexcel International GCSE In Chemistry (4CH1) Paper 2CR
+
+## Edexcel and BTEC Qualifications
+
+Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
+
+## Pearson: helping people progress, everywhere
+
+Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
+
+January 2021 Publications Code 4CH1_2CR_2101_MS All the material in this publication is copyright $ \textcircled{c} $ Pearson Education Ltd 2021
+
+- All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
+
+- Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
+
+- Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
+
+- There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
+
+- All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
+
+- Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
+
+- When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
+
+- Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
+
+<table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1(a)(i)</td><td colspan="2">(from) solid to liquid</td><td></td><td>1</td></tr><tr><td>(ii)</td><td colspan="2">iodine(s)→iodine(g)</td><td></td><td>1</td></tr><tr><td>(b)</td><td colspan="2">(diagram showing) particles well spread out with none touching</td><td></td><td>1</td></tr><tr><td>(c)</td><td colspan="2"></td><td></td><td>2</td></tr><tr><td></td><td>Statement</td><td>Tick</td><td></td><td></td></tr><tr><td></td><td>the particles only vibrate</td><td></td><td></td><td></td></tr><tr><td></td><td>the particles do not move</td><td></td><td></td><td></td></tr><tr><td></td><td>the particles have no gaps between them</td><td></td><td></td><td></td></tr><tr><td></td><td>the particles move randomly</td><td>√</td><td></td><td></td></tr><tr><td></td><td>the particles have more energy than in ice</td><td>√</td><td></td><td></td></tr><tr><td></td><td>the particles have a regular arrangement</td><td></td><td></td><td></td></tr><tr><td></td><td colspan="2">tick in 4th box(1)
+tick in 5th box(1)
+if more than two ticks deduct 1 mark for each incorrect tick</td><td></td><td></td></tr></table>
+
+(Total for Question 1=5)
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>2(a)(i)</td><td>(pale/light) yellow</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>The correct answer isB1as bromine is the only liquid at room temperature(20℃)</td><td></td><td>1</td></tr><tr><td></td><td>A0is incorrect because bromine is a liquid at room temperature(20℃)</td><td></td><td></td></tr><tr><td></td><td>C2is incorrect because bromine is the only liquid at room temperature(20℃)</td><td></td><td></td></tr><tr><td>(iii)</td><td>At2</td><td></td><td>1</td></tr><tr><td>(b)(i)</td><td>explanation includingM1oxidising agent ischlorine/Cl2M2because chlorine/Cl2gains electron(s)/is reduced</td><td>ACCEPT because bromide ions/Br-lose electrons/are oxidisedREJECT bromine ionsM2DEP M1correct or missing</td><td></td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>2(b)(ii)</td><td>explanation containing three of following pointsM1 bromine and chlorine react by gaining electron/forming 1- or negative ionM2 bromine atom larger (than chlorine atom)M3 bromine (atom) has smaller/weaker attraction (from nucleus) for (outer shell) electrons (than chlorine) OWTTEM4 so (bromine has) less tendency to gain electron/form negative ion (so less reactive than chlorine) OWTTE</td><td>ALLOW bromine has larger atomic radiusALLOW bromine outer (electron) shell further from nucleusALLOW bromine atom has more (electron) shells (than chlorine)ALLOW reverse argument for chlorine in M2 M3 M4</td><td>3</td></tr><tr><td>(c)</td><td>The correct answer is D K+ and Cl- because both have electronic configuration of 2.8.8A is not correct because Li+ does not have electronic configuration of 2.8.8B is not correct because F- does not have electronic configuration of 2.8.8C is not correct because neither Li+ nor F- have electronic configuration of 2.8.8</td><td></td><td>1</td></tr></table>
+
+(Total for Question 2=9)
+
+<table border="1"><tr><td></td><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="10">3</td><td rowspan="10">(a)</td><td>Explanation including the following points:</td><td></td><td>4</td></tr><tr><td>(metals)</td><td></td><td></td></tr><tr><td>M1 contain delocalised electrons</td><td>IGNORE free electrons/sea of electrons</td><td></td></tr><tr><td>M2 (which) move/flow/are mobile/are free to move (through the metal structure)</td><td>M2 dependent on mention of electrons If any mention of ions/atoms moving cannot score M1 M2</td><td></td></tr><tr><td>and two from (covalent compounds)</td><td></td><td></td></tr><tr><td>M3 contain neutral molecules / molecules with no overall charge</td><td>ALLOW do not contain ions</td><td></td></tr><tr><td>M4 electrons held (tightly) in covalent bonds (so)</td><td>ALLOW there are no delocalised electrons</td><td></td></tr><tr><td>M5 no electrons free to move (so do not conduct)</td><td>If state ions present cannot score M3 M4 M5</td><td></td></tr><tr><td>(b)</td><td>ion(s)</td><td>ALLOW hydrogen ion/H+ ALLOW chloride ion/Cl-</td><td>1</td></tr><tr><td rowspan="6">(c)</td><td>(i)</td><td>all points plotted correctly (within half a small square)</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>point at (0.4,25) circled</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>straight line of best fit through origin drawn with ruler</td><td></td><td>1</td></tr><tr><td>(iv)</td><td>explanation linking</td><td></td><td>2</td></tr><tr><td></td><td>M1 the volume/reading is less than expected</td><td></td><td></td></tr><tr><td></td><td>M2 because the current was less than 0.4A / some gas escaped/ there was a leak</td><td>ALLOW reading taken before 5 minutes</td><td></td></tr><tr><td></td><td>(v)</td><td>the greater the current the greater the volume (of gas)</td><td>ACCEPT directly proportional ACCEPT positive correlation</td><td>1</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>3(d)(i)</td><td>(transfer of two/same number of electrons produces) one mole of chlorine/Cl2and one mole of hydrogen/H2</td><td>ALLOW same number of moles of chlorine/Cl2and hydrogen/H2ALLOW molecules for moles</td><td>1</td></tr><tr><td>(ii)</td><td>chlorine dissolves/soluble in acid/solution</td><td>ALLOW dissolves/soluble in water</td><td>1</td></tr></table>
+
+(Total for Question 3=13)
+
+<table border="1"><tr><td>Question number</td><td colspan="3">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="5">4(a)</td><td rowspan="5"></td><td>Name</td><td>Structural formula</td><td>Relative formula mass</td><td rowspan="5">ALLOW correct names of isomersIf oxidation number given must be correctALLOWH2SO4IGNORE reference to concentration</td><td>2</td></tr><tr><td>methanol</td><td>CH3OH</td><td>32</td><td rowspan="3">1</td></tr><tr><td>ethanol</td><td>C2H5OH</td><td>46(1)</td></tr><tr><td>butanol(1)</td><td>C4H9OH</td><td>74</td></tr><tr><td>(b)(i)</td><td colspan="3">sulfuric acid</td><td rowspan="2"></td><td>1</td></tr><tr><td>(ii)</td><td colspan="3">from orange to green</td><td>1</td></tr><tr><td rowspan="3">(c)(i)</td><td colspan="3">ethyl ethanoate</td><td>ALLOW as one word</td><td>1</td></tr><tr><td rowspan="2">(ii)</td><td colspan="3">CH3OH+CH3COOH→CH3COOCH3+H2O</td><td rowspan="2">ALLOW displayed formula</td><td>2</td></tr><tr><td colspan="3">M1CH3COOHM2CH3COOCH3</td></tr></table>
+
+(Total for Question 4=7)
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(a)</td><td>a catalyst is chemically unchanged at the end of the reaction</td><td>ALLOW (provides alternative route for reaction of) lower activation energy
+ALLOW not used up in reaction</td><td>1</td></tr><tr><td>(b)</td><td>description including six of the following points:
+M1 do experiment using hydrogen peroxide solution only/without X/Y/Z
+M2 use known volume of hydrogen peroxide solution OWTTE
+M3 (and) measure time for certain volume of oxygen gas to be collected OR measure volume of gas collected in a certain time period OWTTE
+M4 repeat using same volume of hydrogen peroxide solution
+M5 with known mass/amount of solid X(then Y,then Z)
+M6 measure time for same volume of oxygen gas to be collected OR measure volume of gas collected in same time period(with solid/X/Y/Z present)
+M7 after reaction(remove solid/X/Y/Z by filtration and dry)find mass of solid/X/Y/Z/check if mass unchanged
+M8 reference to reduced time(for certain volume of oxygen gas to be collected)OR increased volume of gas(collected in a certain time period)meansX/Y/Z(possible)catalyst(1)</td><td>ALLOW measure time until no more oxygen produced
+ALLOW amount
+ALLOW reference to increased rate</td><td>6</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(c)</td><td>M1 labelled profile curve drawn for reaction without catalystM2 labelled profile curve drawn with lower activation energy for reaction with catalyst</td><td>must start from reactants energy level and end at products energy level</td><td>2</td></tr><tr><td>(d)(i)</td><td>energy needed=[(4x463)+2(146)]=2144</td><td>Ignore sign</td><td>1</td></tr><tr><td>(ii)</td><td>energy released=[(4x463)]=1852</td><td>ignore sign</td><td>1</td></tr><tr><td>(iii)</td><td>M1 for showing equation linking between(i),(ii),O=O bond energy and△HM2 correct calculationExample:M1[1852+(O=O)]-2144=204OR(O=O)=2144-1852+204M2(O=O)=496</td><td>Mark CSQ on(i) and(ii)-496 scores 1 mark</td><td></td></tr></table>
+
+(Total for Question 5=13)
+
+<table border="1"><tr><td>Question number</td><td colspan="4">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(a)(i)</td><td colspan="4">pipette</td><td>ALLOW graduated pipette</td><td>1</td></tr><tr><td>(ii)</td><td colspan="4">The correct answer isD yellow because methyl orange is yellow in alkaline solutionA is incorrect because methyl orange is not blue in alkaline solutionB is incorrect because methyl orange is not orange in alkaline solutionC is incorrect because methyl orange is not red in alkaline solution</td><td></td><td>1</td></tr><tr><td>(b)(i)</td><td colspan="4">ticks under titration numbers1,2and4</td><td></td><td>1</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td></td><td></td></tr><tr><td></td><td>20.65</td><td>20.60</td><td>20.90</td><td>20.55</td><td></td><td></td></tr><tr><td></td><td>√</td><td>√</td><td></td><td>√</td><td></td><td></td></tr><tr><td>(ii)</td><td colspan="4">M1(20.65+20.60+20.55)=3M220.60</td><td>M1 CSQ on results tickedM2 CSQ on correct calculation from M1Answer to M2 must be correct to 2dp20.60 without working scores220.6 with or without working scores1If no ticks then only use of 2 or 3 concordant titres can score M1 and M2 in(ii)If only one tick then M2 can be scored for averaging two or more titre values correctly</td><td>2</td></tr></table>
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">6(c)(i)</td><td>M1 mol(KOH)=0.0370x251000</td><td></td><td>2</td></tr><tr><td>M2=9.25x10-4/0.000925</td><td>ALLOW any number of sig fig except oneIf no division by 1000 giving answer of0.925 award 1 markcorrect answer with no working scores2</td><td></td></tr><tr><td>M2 from(i) divided by2expected answer4.625x10-4/0.0004625</td><td>ALLOW any number of sig fig except one</td><td>1</td></tr><tr><td>M1 answer to(ii)x100021.20M2 correctly evaluatedexpected answer if(i)和(ii)correct0.0218</td><td>ACCEPT any number of sig fig except one(unless ECF answer is exactly1 sig fig)correct answer with no working scores2</td><td></td></tr></table>
+
+(Total for Question 6=10)
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">7(a)</td><td>M1 use of amount in moles = volume of gas molar volume</td><td></td><td>2</td></tr><tr><td>M2 correct evaluation</td><td></td><td></td></tr><tr><td>Example calculation</td><td></td><td></td></tr><tr><td>M1 amount in moles = 60024000</td><td></td><td></td></tr><tr><td rowspan="2">(b)</td><td>M2 = 0.025 (mol)</td><td>0.025 with no working scores 2
+REJECT 0.03 for M2</td><td></td></tr><tr><td>M1 statement/use of amount in moles = massMr</td><td></td><td>2</td></tr><tr><td rowspan="2">(c)</td><td>M2 substitution and correct evaluation:</td><td></td><td></td></tr><tr><td>Mr = 1.45 = 580.025</td><td></td><td></td></tr><tr><td rowspan="3">(d)</td><td>molecular formula = C4H10 = (4 x 12) + (10 x 1) = 58</td><td></td><td>1</td></tr><tr><td>OR alkane general formula = CnH2n+2so</td><td></td><td></td></tr><tr><td>M1 (nx12) + (2n+2)x1 = 58 so 14n = 56</td><td></td><td></td></tr><tr><td></td><td>C4H10</td><td></td><td>1</td></tr></table>
+
+(Total for Question 7=6)
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">8(a)(i)(ii)</td><td>NH4Cl+NaOH→NaCl+NH3+H2O</td><td></td><td>1</td></tr><tr><td>M1 moist/damp red litmus paperM2 turns blue</td><td>ALLOW moist/damp universal indicator paper</td><td>2</td></tr><tr><td rowspan="2">(b)</td><td>an explanation linking following two points:M1 forward and backward/reverse reactions are taking place at same rate</td><td>ACCEPT reaction is taking place in both directions at same rate</td><td>2</td></tr><tr><td>M2 the concentrations of reactants and products remain constant</td><td>REJECT concentrations of the reactants and products are equal/the same</td><td></td></tr><tr><td rowspan="4">(c)</td><td>an explanation linking following two points:M1 as temperature decreases yield of ammonia(formed in forward reaction) increases</td><td>ALLOW as temperature decreases equilibrium position shifts in forward direction/(from left) to right(producing more ammonia)</td><td>2</td></tr><tr><td>M2 so forward reaction is exothermic</td><td>IGNORE references to pressureALLOW reverse arguments</td><td></td></tr><tr><td>M2 so forward reaction is exothermic</td><td>IGNORE references to LeChatelier&#x27;s Principle</td><td></td></tr><tr><td></td><td>M2 DEP M1</td><td></td></tr></table>
+
+(Total for Question 8=7)
+
+Total for Paper = 70 marks
