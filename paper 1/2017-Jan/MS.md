@@ -1,87 +1,50 @@
-<div style='text-align: center;'><img src='assets/crop_1_1789043463899.png' alt='OCR图片'/></div>
-
 Pearson
-
 ## Mark Scheme (Results)
-
 January 2017
-
 International GCSE Chemistry (4CH0) Paper 1C Science Double Award (4SC0) Paper 1C
-
 Pearson Edexcel Certificate in Chemistry (KCH0) Paper 1C Science (Double Award) (KSC0) Paper 1C
-
-<div style='text-align: center;'><img src='assets/crop_2_1789043463907.png' alt='OCR图片'/></div>
-
 ## Edexcel and BTEC Qualifications
-
 Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
-
 ## Pearson: helping people progress, everywhere
-
 Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
-
 January 2017 Publications Code 4CH0_1C_1701_MS All the material in this publication is copyright $ \textcircled{c} $ Pearson Education Ltd 2017
-
 ## General Marking Guidance
-
 - All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
-
 - Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
-
 - Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
-
 - There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
-
 - All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
-
 - Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
-
 - When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
-
 - Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">1(a)(b)(c)(d)(i)(ii)(iii)</td><td>A(He)</td><td></td><td>1</td></tr><tr><td>D(water)</td><td></td><td>1</td></tr><tr><td>C(simple distillation)</td><td></td><td>1</td></tr><tr><td>to prevent the inks/spots dissolving/mixing(in the solvent)</td><td>Ignore references to spots smudging/runningIgnore references to diffusion/absorptionAccept spots would be washed off/washed away/leachedIgnore water for solvent</td><td>1</td></tr><tr><td>M1identification of inks as(only)B</td><td></td><td>2</td></tr><tr><td>M2(P and B)have a spot at the same height/OWTTE</td><td>Accept blob/mark/dye for spotAccept at same level/same distance/same placeAccept a spot which has the sameRfvalueM2 DEP on M1</td><td></td></tr><tr><td>insoluble in the solvent</td><td>Accept water for solventAllow does not mix with solventIgnore does not react with solvent</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>(iv)</td><td>M1 measurement of distance moved by A
 M2 calculation of $R_{f}$ value</td><td>accept any value in range 18-22</td><td>2</td></tr><tr><td></td><td></td><td>accept any number of significant figures
 Ignore units</td><td></td></tr><tr><td></td><td></td><td>M2 CQ M1
 Correct answer with no working scores 2</td><td></td></tr><tr><td>(e)(i)</td><td>$NH_{4}Cl$</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>a circle around s AND a circle around g</td><td></td><td>1</td></tr><tr><td colspan="4">Total for Question 1 = 11 marks</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>2(a)</td><td>diagram showing solid state</td><td>Accept minimum of two complete rows</td><td>1</td></tr><tr><td>(b)</td><td>C(regular vibrating)</td><td></td><td>1</td></tr><tr><td>(c)</td><td>C(freezing)</td><td></td><td>1</td></tr><tr><td>(d)</td><td>sublimation</td><td></td><td>1</td></tr><tr><td>(e)</td><td>M1water vapour</td><td>Accept in either order</td><td>2</td></tr><tr><td></td><td>M2steam</td><td></td><td></td></tr><tr><td colspan="4">(Total for Question 2=6 marks)</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">3(a)(b)(c)(d)(i)(ii)(e)(i)(ii)(iii)</td><td>V</td><td></td><td>1</td></tr><tr><td>U AND X</td><td></td><td>1</td></tr><tr><td>V</td><td></td><td>1</td></tr><tr><td>M1CH4+2O2→CO2+2H2O</td><td>Accept multiples and fractions</td><td>2</td></tr><tr><td>M2C2H4+2O2→2CO+2H2O</td><td>Accept multiples and fractions</td><td></td></tr><tr><td>it decreases the capacity of blood to transport oxygen OWTTE</td><td>Accept correct references to haemoglobin and/or carboxyhaemoglobin</td><td>1</td></tr><tr><td>nitrogen AND oxygen</td><td>Accept answers in either order</td><td>1</td></tr><tr><td rowspan="2">(ii)(iii)</td><td>HNO3</td><td></td><td>1</td></tr><tr><td>iron/steel/limestone/marble</td><td>Ignore chalkIgnore formula even if incorrect</td><td>1</td></tr><tr><td colspan="4">(Total for Question 3=9 marks)</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">(ii)</td><td>M1</td><td>A and B</td><td></td><td>3</td></tr><tr><td>M2</td><td>they have the same numbers of protons</td><td>DEP on correct choice of lettersAccept same atomic numberIgnore references to electrons</td><td></td></tr><tr><td>M3</td><td>the numbers of protons and electrons are equal</td><td>Allow M3 if at least two from A,B and E given for M1Ignore references to neutronsStatement about equal/same numbers of protons and electrons scores M2 and M3</td><td></td></tr><tr><td>M1</td><td>G and H</td><td></td><td>3</td></tr><tr><td>M2</td><td>they have the same numbers of protons</td><td>DEP on correct choice of lettersAccept same atomic numberIgnore references to electrons</td><td></td></tr><tr><td>M3</td><td>there are more electrons than protons</td><td>Allow M3 if at least two from D,F,G,H given for M1Ignore references to neutrons</td><td></td></tr></table>
-
 <table border="1"><tr><td rowspan="2">(iii)</td><td>M1 A</td><td rowspan="2">DEP on correct choice of letter
 Accept fewest nucleons
 Accept because its mass number is 10
 Allow(A) because mass number is (sum of) the number of protons and neutrons
 Ignore references to electrons</td><td>2</td></tr><tr><td>M2 it has the fewest (total number of) protons and neutrons</td><td></td></tr><tr><td>(iv)</td><td>2.5</td><td>Accept comma and other punctuation marks
 Accept diagram showing electrons on circles</td><td>1</td></tr></table>
-
 <table border="1"><tr><td rowspan="4">(b)</td><td>M1 setting out of calculation</td><td>eg(24×0.786)+(25×0.101)+(26×0.113)</td><td rowspan="4">3</td></tr><tr><td>M2 evaluation</td><td>24.327/24.33</td></tr><tr><td>M3 answer to 1 dp</td><td>24.3
 Ignore units</td></tr><tr><td></td><td>Correct final answer with no working scores 3 marks
 (Total for Question 4=12 marks)</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">5(a)(i)(ii)(iii)(iv)</td><td>2 AND 3 AND 4 AND 5</td><td>Accept 2-5</td><td>1</td></tr><tr><td>M1 Ar/argon</td><td></td><td>2</td></tr><tr><td>M2 (because) it does not(easily)share/lose/gain electrons</td><td>Allow it has a full/complete outer shell(of electrons)Allow it has eight electrons in its outer shellIgnore references to being stable/inert/a noble gas/in Group 0</td><td></td></tr><tr><td>(they both have the) same number of/three(electron)shells</td><td>Accept energy levels for shellAccept valence shell is the third shellIgnore both have two electrons in inner/first shell/shell nearest nucleusIgnore both have eight electrons in second/middle shell</td><td>1</td></tr><tr><td rowspan="3">(iv)</td><td>(they both have) one electron/the same number of electrons in their outer shell</td><td>Accept energy level for shellIgnore both have two electrons in inner/first shell/shell nearest nucleusIgnore both have eight electrons in second shell</td><td>1</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>
-
 <table border="1"><tr><td>(v)</td><td>(good) conductor of electricity</td><td>Accept(good)conductor of heat
 Ignore references to melting point
 /boiling point/density
 Allow malleable/ductile
 Ignore shiny</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">5(b)(i)</td><td>Any two of: effervescence</td><td>1 mark for each</td><td>2</td></tr><tr><td>(element/metal/lithium/potassium) moves</td><td>Accept equivalents including bubbles/fizzing Allow gas evolved/gas given off/gas formed/gas produced Ignore hydrogen/H2Ignore incorrect name/formula of gas</td><td></td></tr><tr><td>(element/metal/lithium/potassium) floats</td><td>Accept equivalents including darts</td><td></td></tr><tr><td>(element/metal/lithium/potassium) disappears/becomes smaller</td><td>Allow dissolves Reject melts Ignore white trail/vigorous reaction/heat produced/temperature rises</td><td></td></tr><tr><td>(ii) flame/(element/metal/potassium) burns</td><td>Ignore colour of flame Accept melts/forms a ball Ignore explodes</td><td>1</td></tr><tr><td>(iii)(2Li+2H2O\rightarrow)2LiOH+H2</td><td>M1 formulae LiOH and H2M2 correct balancing M2 DEP on M1</td><td>2</td></tr><tr><td>(iv) pink/red</td><td>Ignore qualifiers such as light and dark Reject all other colours</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>(v)</td><td>OH-/HO-</td><td>Ignore name</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">5(c)(i)(ii)</td><td>(mass of oxygen=34.8-32.4=)2.4g</td><td></td><td>1</td></tr><tr><td>M1amount of silver(=32.4/108=0.3(mol)</td><td></td><td>3</td></tr><tr><td>M2amount of oxygen(=2.4/16=0.15(mol)</td><td>M2 ECF from 5(c)(i)</td><td></td></tr><tr><td>M3formula=Ag2O</td><td>If division upside down or division by atomic number,or incorrectArthen cannot score M3Correct final answer with no working scores 3 marks</td><td></td></tr><tr><td colspan="4">(Total for Question 5=17 marks)</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">6(a)</td><td>$Cl_{2}+2KBr\rightarrow Br_{2}+2KCl$</td><td>Ignore state symbolsAccept multiples or fractions</td><td>2</td></tr><tr><td>M1 all formulae correctM2 correct balancing</td><td>M2 DEP on M1</td><td></td></tr><tr><td rowspan="4">(b)</td><td>M1 solution becomes yellow/orange</td><td>Reject redIgnore brown</td><td>4</td></tr><tr><td>M2 reaction type is redox/displacement</td><td>Allow reduction/oxidationIgnore substitution</td><td></td></tr><tr><td>M3 bromine/Br_{2}(causes final colour)</td><td>Ignore BrReject bromide</td><td></td></tr><tr><td>M4 chlorine more reactive(than bromine)</td><td>Accept reverse argumentReject chloride/bromide in place of chlorine/bromine</td><td></td></tr><tr><td colspan="4">(Total for Question 6=6 marks)</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">7(a)(i)</td><td>M1</td><td>wait until all the air has been flushed through</td><td>Accept wait for a short timeAllow check for leaks</td><td>2</td></tr><tr><td>M2</td><td>(because) prevents(possible) explosion/otherwise might be an explosion</td><td>Ignore hydrogen burns/is flammableIf no marks awarded allow1mark for(hydrogen can be) explosive/tie back hair(to stop catching fire)</td><td></td></tr><tr><td>(ii)</td><td>M1 effervescence</td><td>Accept equivalents including bubbles/fizzingAllow gas evolved/given off/formed/producedIgnore hydrogen/H2Ignore incorrect name/formula of gas</td><td>2</td></tr><tr><td rowspan="2">(iii)</td><td>M2(element/metal/magnesium) disappears/becomes smaller</td><td>Allow dissolvesIgnore heat produced/temperature rises/flask gets warm</td><td></td><td></td></tr><tr><td>Solid/copper(II) oxide/it goes(from black to) orange/brown/pink</td><td>Accept(drops of)liquid/water(on glass)</td><td>1</td><td></td></tr></table>
-
 <table border="1"><tr><td>(iv)</td><td>blue</td><td>Ignore qualifiers such as pale/dark
 Reject all other colours</td><td>1</td></tr><tr><td>(v)</td><td>(first equation)
 M1 magnesium sulfate AND hydrogen
@@ -95,32 +58,20 @@ Ignore formulae even if incorrect</td><td>3</td></tr><tr><td></td><td></td><td>I
 Accept hydrated copper sulfate
 Reject incorrect oxidation number
 Ignore hydrous</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">7(b)(c)</td><td>M1(litmus colour becomes) red</td><td>Ignore qualifiers such as pale/darkAllow pink</td><td>2</td></tr><tr><td>M2(oxide of sulfur is) acidic</td><td>M2 dep on correct or missing M1</td><td></td></tr><tr><td>MgSO3</td><td>Allow MgSO3 as product of an equationIgnore H2O</td><td>1</td></tr><tr><td colspan="4">(Total for Question 7=12 marks)</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">8(a)(i)</td><td colspan="2">M1 sodium hydroxide/NaOH(solution)</td><td>Accept sodium carbonate/Na2CO3</td><td>5</td></tr><tr><td colspan="2">M2 pipette used to transfer(25cm3of) sodium hydroxide/alkali to a conical flask</td><td>Accept sodium carbonate/Na2CO3M2 subsumesM1if sodium hydroxide/sodium carbonate mentioned</td><td></td></tr><tr><td colspan="2">M3 place(sulfuric) acid in burette</td><td></td><td></td></tr><tr><td colspan="2">M4 add indicator(to conical flask)</td><td>Accept suitable named indicatorReject Universal Indicator</td><td></td></tr><tr><td colspan="2">M5 add acid(from burette to conical flask) until indicator changes colour</td><td>M5 subsumesM3if burette mentionedIf named indicator is given any final colour given must be correctAlkali in burette and acid in pipette/conical flask can score max3</td><td></td></tr><tr><td colspan="2"></td><td></td><td></td></tr></table>
-
 <table border="1"><tr><td>(a)(ii)</td><td>M1(after)23.20M2(before)3.55M3(added)19.65</td><td>Award1markforbothreadingscorrectbutinwrongorderM3CQon(M1-M2)Penaliseananswernotto2dponceonlyeg23.23.519.7scores1</td><td>3</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="6">8(b)</td><td>M1</td><td>name of soluble barium compound</td><td>eg barium chloride/barium nitrate/barium hydroxideaccept correct formulae</td><td>5</td></tr><tr><td>M2</td><td>mix/react/add(solutions/reactants)together OWTTE</td><td>M2 DEP on M1</td><td></td></tr><tr><td>M3</td><td>filter</td><td>Accept decant/pour off liquid</td><td></td></tr><tr><td>M4</td><td>wash solid/residue/barium sulfate(withdistilled/deionised water)</td><td>M4 and M5 DEP on M3If method refers to,or infers use of,filtrate/solution/crystallisationthen cannot score M4,M5</td><td></td></tr><tr><td>M5</td><td>appropriate method of drying solideg leave it(to dry)/leave in a warm place/place in an oven/place in desiccator/heat it/dry with absorbent paper(eg kitchen/filter/blotting)</td><td>Not just dry itAccept leave on a window ledgeM3 M4 M5 can be scored even ifpreceding method invalid eg barium+ sodium sulfate</td><td></td></tr><tr><td colspan="4">(Total for Question 8=13 marks)</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">9(a)(i)</td><td>M1</td><td>$M_{r}(\mathrm{CuO})=79.5$</td><td>Accept 80</td><td>2</td></tr><tr><td>M2</td><td>n(CuO)=(6.3÷79.5)=0.079(mol)</td><td>6.3÷79.5Calculator gives0.0792452830185Accept any number of SF soAllow 0.08Reject 0.076.3÷80calculator gives0.07875ECF on incorrect MrCorrect answer with no working scores2</td><td></td></tr><tr><td>(ii)</td><td>M1n($\mathrm{H_{2}SO_{4}}$)=$\frac{52\times1.1}{1000}$</td><td></td><td>2</td></tr><tr><td>(iii)</td><td>M2=0.057(mol)</td><td>Accept 0.0572Allow 0.06Reject 0.05Allow 1 mark for 57.2Correct answer with no working scores2</td><td></td></tr><tr><td></td><td colspan="2">to(completely) neutralise the(sulfuric)acid</td><td>Accept so thatallacid used up/reactedIgnore to obtain a pure product</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>(iv)</td><td>Chemical structure</td><td>Ignore labelling
 Need funnel and paper</td><td>1</td></tr><tr><td>(b)</td><td>M1 $ M_{r} \left( \mathrm{C u S O}_{4}. 5 \mathrm{H}_{2} \mathrm{O} \right)=2 4 9. 5 $
 M2 m $\left( \mathrm{C u S O}_{4}. 5 \mathrm{H}_{2} \mathrm{O} \right)=2 4 9. 5 \times0. 1 2=3 0(\mathrm{g})$</td><td>Accept 250
 Accept 29.94 and 29.9
 If use 250 accept 30.0 or 30
 M2 CQ Mr</td><td>2</td></tr><tr><td colspan="3">Total for Question 9=8 marks</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>10(a)(b)(i)</td><td>(38÷2=)19(g)图</td><td>Accept[(37to40)÷2=]18.5to20M1+M2 all points plotted correctly to nearest gridlineDeduct1mark for each errorM3 straight line of best fitCQ points plotted</td><td>1</td></tr><tr><td>(ii)</td><td>7.4(g)</td><td>Accept7.2to7.6</td><td>1</td></tr><tr><td>(iii)</td><td>M1 temperature decreases</td><td></td><td>2</td></tr></table>
-
 <table border="1"><tr><td rowspan="4">(7)</td><td>M2(so) change is endothermic</td><td>Accept $\Delta H$ is positive</td><td></td></tr><tr><td></td><td>M2 DEP on correct or missing M1</td><td></td></tr><tr><td>horizontal line above original line AND labelled potassium nitrate solution</td><td>Accept potassium nitrate(aq)/aqueous potassium nitrate</td><td>1</td></tr><tr><td></td><td>CQ on M2 in(iii)</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">10(c)</td><td>M1 correct substitution of values including temperature change</td><td>Q=50×4.2×19</td><td>2</td></tr><tr><td rowspan="6">M2 correct final answer(in J)</td><td>=4000/3990</td><td></td></tr><tr><td>M2 CQ on incorrect $\Delta T$</td><td></td></tr><tr><td>If m=65 allow 1 mark for 5200,5190 or 5187</td><td></td></tr><tr><td>Accept answer in kJ</td><td></td></tr><tr><td>Ignore sign</td><td></td></tr><tr><td>Correct final answer with no working scores 2 marks</td><td></td></tr><tr><td colspan="3">(Total for Question 10=10 marks)</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">11(a)</td><td>Any four from:</td><td></td><td rowspan="7">4</td></tr><tr><td>M1 heat/vaporise(the crude oil)</td><td>Accept boil</td></tr><tr><td>M2 vapour/gas rises up the column</td><td>Accept hydrocarbons/molecules/fuel oil/crude oil in place of vapour</td></tr><tr><td>M3 column cooler at top/hotter at bottom</td><td>Accept temperature gradient in column</td></tr><tr><td>M4 fractions condense when temperature lower than their boiling point</td><td>Allow fuel oil condenses at its boiling point</td></tr><tr><td>M5 fuel oil has high boiling point so condenses/is collected near bottom</td><td>Accept reference to fractions/hydrocarbons separate according to boiling points</td></tr><tr><td>(b)(i)</td><td>alumina/silica</td><td>Accept aluminosilicate/zeolite aluminium oxide/silicon dioxideAccept correct formulae</td></tr><tr><td>(ii)</td><td>C17H36→2C3H6+C11H24</td><td></td><td>1</td></tr></table>
-
 <table border="1"><tr><td rowspan="3">(iii)</td><td>M1(they/all contain) hydrogen and carbon(atoms)</td><td>Accept H and CAccept particles/elements in place of atomsReject ions/molecules/compounds in place of atomsReject element instead of they/allReject H2Reject mixture</td><td>2</td></tr><tr><td>M2only</td><td>Accept equivalent terms such as solely/and no other elementM2 DEP on reference to hydrogen and carbon even if M1 not awarded</td><td></td></tr><tr><td>M1C17H36andC11H24</td><td>Accept reactant AND other product/alkane formed</td><td>2</td></tr><tr><td rowspan="3">(iv)</td><td>M2(because they) have only single bonds</td><td>Accept have no double/multiple bonds</td><td></td></tr><tr><td>M1(EF is CH3S)and EF mass=47</td><td>Accept EF mass=half of Mr/EF mass=half of94/Mr=2xEF mass/94÷47=2</td><td>2</td></tr><tr><td>M2C2H6S2</td><td>Accept elements in any orderAward 2 marks for correct final answer with no working</td><td></td></tr><tr><td>(d)</td><td>B(C3H6Br2)</td><td></td><td>1</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>11 (e)(i)</td><td>Chemical structure of compound (i)</td><td>Ignore bond angles</td><td>1</td></tr><tr><td>(ii)</td><td>Chemical structure of compound (ii)</td><td>M1 chain of two carbon atoms joined by single bond AND both continuation bondsM2 one CH3 group in any position AND three H atomsM2 DEP on M1Do not penalise bond to H of CH3Any structure with double bond scores 0/2Three or more CH2 groups linked together scores 0/2Allow two or more repeat units if correctIgnore brackets and subscripted n</td><td>2</td></tr><tr><td colspan="4">(Total for Question 11 = 16 marks)</td></tr></table>

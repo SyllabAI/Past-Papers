@@ -37,262 +37,117 @@ Calculator, ruler</td></tr><tr><td colspan="3">Total Marks</td></tr></table>
 
 Turn over
 
-<div style='text-align: center;'><img src='assets/crop_1_1789104588854.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789104588907.png' alt='OCR图片'/></div>
-
 <table border="1"><tr><td>7Li lithium3</td><td>9Be beryllium4</td><td colspan="12">Key</td><td>4He helium2</td></tr><tr><td>23Na sodium11</td><td>24Mg magnesium12</td><td colspan="12">relative atomic mass atomic symbol atomic (proton) number</td><td>20Ne neon10</td></tr><tr><td>39K potassium19</td><td>40Ca calcium20</td><td>45Sc scandium21</td><td>48Ti titanium22</td><td>51V vanadium23</td><td>52Cr chromium24</td><td>55Mn manganese25</td><td>56Fe iron26</td><td>59Co cobalt27</td><td>59Ni nickel28</td><td>63.5Cu copper29</td><td>65Zn zinc30</td><td>70Ga gallium31</td><td>73Ge germanium32</td><td>75As arsenic33</td><td>79Se selenium34</td><td>80Br bromine35</td><td>84Kr krypton36</td></tr><tr><td>85Rb rubidium37</td><td>88Sr strontium38</td><td>89Y yttrium39</td><td>91Zr zirconium40</td><td>93Nb niobium41</td><td>96Mo molybdenum42</td><td>[98]Tc technetium43</td><td>101Ru ruthenium44</td><td>103Rh rhodium45</td><td>106Pd palladium46</td><td>108Ag silver47</td><td>112Cd cadmium48</td><td>115In indium49</td><td>119Sn tin50</td><td>122Sb antimony51</td><td>128Te tellurium52</td><td>127I iodine53</td><td>131Xe xenon54</td></tr><tr><td>133Cs caesium55</td><td>137Ba barium56</td><td>139La* lanthanum57</td><td>178Hf hafnium72</td><td>181Ta tantalum73</td><td>184W tungsten74</td><td>186Re rhenium75</td><td>190Os osmium76</td><td>192Ir iridium77</td><td>195Pt platinum78</td><td>197Au gold79</td><td>201Hg mercury80</td><td>204Tl thallium81</td><td>207Pb lead82</td><td>209Bi bismuth83</td><td>[209]Po polonium84</td><td>[210]At astatine85</td><td>[222]Rn radon86</td></tr><tr><td>[223]Fr francium87</td><td>[226]Ra radium88</td><td>[227]Ac* actinium89</td><td>[261]Rf rutherfordium104</td><td>[262]Db dubnium105</td><td>[266]Sg seaborgium106</td><td>[264]Bh bohrium107</td><td>[277]Hs hassium108</td><td>[268]Mt mettnerium109</td><td>[271]Ds darmstadium110</td><td>[272]Rg roentgenium111</td><td colspan="6">Elements with atomic numbers 112-116 have been reported but not fully authenticated</td></tr></table>
-
 * The lanthanoids (atomic numbers 58-71) and the actinoids (atomic numbers 90-103) have been omitted.
-
 The relative atomic masses of copper and chlorine have not been rounded to the nearest whole number.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104588915.png' alt='OCR图片'/></div>
-
 ## BLANK PAGE
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104588920.png' alt='OCR图片'/></div>
-
 ## Answer ALL questions.
-
 Some questions must be answered with a cross in a box. If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
-
 1 Use the Periodic Table to answer these questions.
-
 (a) (i) Give the name of the element with atomic number 16
-
 (ii) Give the name of the element with relative atomic mass 9
-
 (iii) Give the name of the element in Group 3 and Period 2
-
 (iv) Give the electronic configuration of an atom of silicon.
-
 (b) Explain, in terms of electron configuration, why sodium is more reactive than lithium.
-
 (Total for Question 1 = 7 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104588952.png' alt='OCR图片'/></div>
-
 2 Structures made of iron can rust.
-
 (a) (i) Name the two substances that cause iron to rust.
-
 (ii) State a barrier method that prevents rusting.
-
 (b) Explain how sacrificial protection prevents the rusting of iron.
-
 (Total for Question 2 = 5 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104588962.png' alt='OCR图片'/></div>
-
 3 The diagram shows the separation of crude oil into fractions.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789104588967.png' alt='OCR图片'/></div>
-
 (a) Give the name of fraction A and the name of fraction F. fraction A
-
 fraction F
-
 (b) One of the fractions is kerosene.
-
 (i) Give one use of kerosene.
-
 (ii) Describe how kerosene can be obtained from crude oil.
-
-<div style='text-align: center;'><img src='assets/crop_2_1789104588974.png' alt='OCR图片'/></div>
-
 (c) Catalytic cracking is a process used to break down fractions containing long-chain molecules.
-
 (i) Give the name of the catalyst and the temperature used for catalytic cracking catalyst (2)
-
 temperature
-
 (ii) Explain why catalytic cracking is useful.
-
 (Total for Question 3 = 11 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104588979.png' alt='OCR图片'/></div>
-
 4 The table shows the maximum mass of potassium nitrate $ \mathrm{(K N O_{3})} $ and the maximum mass of sodium nitrate $ \mathrm{(N a N O_{3})} $ that dissolves in $ 2 5 \mathrm{c m}^{3} $ of water at different temperatures.
-
 <table border="1"><tr><td>Temperature in℃</td><td>10</td><td>25</td><td>40</td><td>60</td><td>75</td></tr><tr><td>Mass of potassium nitrate ing</td><td>5</td><td>10</td><td>16</td><td>28</td><td>39</td></tr><tr><td>Mass of sodium nitrate ing</td><td>21</td><td>23</td><td>26</td><td>31</td><td>35</td></tr></table>
-
 (a) (i) Plot the data for potassium nitrate and for sodium nitrate on the grid.
-
 (ii) Draw and label a curve of best fit for $ \mathrm{K N O}_{3} $ and for $ \mathrm{N a N O}_{3} $
-
 <div style='text-align: center;'><img src='assets/crop_1_1789104588984.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789104588995.png' alt='OCR图片'/></div>
-
 (b) The graph shows the temperature at which the maximum mass dissolved is the same for each solute.
-
 Determine this temperature.
-
 (c) Use your graph to calculate the solubility, in g per 100 g of water, of sodium nitrate at $ 3 0^{\circ} \mathrm{C} $
-
 [1.0 $ cm^{3} $ of water has a mass of 1.0 g]
-
 solubility of sodium nitrate ing per 100g of water=
-
 (d) $ 2 5 \mathrm{c m}^{3} $ of a saturated solution of potassium nitrate is cooled from $ 5 0^{\circ} \mathrm{C} $ to $ 2 0^{\circ} \mathrm{C}. $
-
 Use your graph to determine the mass, in grams, of potassium nitrate that crystallises.
-
 Show your working on the graph.
-
 (Total for Question 4 = 10 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104588999.png' alt='OCR图片'/></div>
-
 5 Methanol, $ \mathrm{C H_{3} O H} $ is the first member of the homologous series of alcohols.
-
 (a) Give two characteristics of a homologous series.
-
 (b) Methanol is heated with potassium dichromate(VI) and one other reagent. The methanol is oxidised to methanoic acid, HCOOH
-
 (i) Give the formula of the other reagent.
-
 (ii) Give the colour change that occurs during the reaction. (2)
-
 from ... to ...
-
 (iii) Draw the displayed formula for methanol and for methanoic acid in the boxes.
-
 <div align="center">
-
 (2) 
-
 </div>
-
 <table border="1"><tr><td>methanol</td><td>methanoic acid</td></tr><tr><td></td><td></td></tr></table>
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589004.png' alt='OCR图片'/></div>
-
 (c) Methanol reacts with methanoic acid to form an ester. Complete the equation for this reaction.
-
 $$
 \mathrm {C H} _ {3} \mathrm {O H} + \mathrm {H C O O H} \rightarrow
 $$
-
 (d) The structural formula of an ester is $ \mathrm{C H_{3} C O O C H_{2} C H_{2} C H_{2} C H_{3}} $
-
 A butyl ethanoate
-
 B butyl methanoate
-
 (i) What is the name of this ester?
-
 C ethyl butanoate
-
 D methyl butanoate
-
 (ii) Deduce the molecular formula of this ester.
-
 (Total for Question 5 = 10 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589009.png' alt='OCR图片'/></div>
-
 ## BLANK PAGE
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589015.png' alt='OCR图片'/></div>
-
 6 A scientist reacts lead(II) nitrate solution with sodium bromide solution.
-
 This is the equation for the reaction.
-
 $$
 \mathrm {P b} \left(\mathrm {N O} _ {3}\right) _ {2} (\mathrm {a q}) + 2 \mathrm {N a B r} (\mathrm {a q}) \rightarrow \mathrm {P b B r} _ {2} (\mathrm {s}) + 2 \mathrm {N a N O} _ {3} (\mathrm {a q})
 $$
-
 (a) Describe how the scientist could obtain a pure dry sample of lead(II) bromide $ \mathrm{(P b B r_{2})} $ from the reaction mixture.
-
 (b) The scientist reacts an excess of lead(II) nitrate solution with $ 2 5 \mathrm{c m}^{3} $ of sodium bromide solution of concentration $ 2. 0 \mathrm{m o l} / \mathrm{d m}^{3}. $
-
 (i) Show that the amount of sodium bromide used is 0.050 mol.
-
 (ii) Show that the maximum theoretical mass of lead(II) bromide is approximately 9 g.
-
 [for $ \mathrm{P b B r}_{2} $ $ M_{\mathrm{r}}=3 6 7 $]
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589023.png' alt='OCR图片'/></div>
-
 (c) The scientist electrolyses molten lead(II) bromide using this apparatus.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789104589027.png' alt='OCR图片'/></div>
-
 (i) Explain why lead(II) bromide needs to be molten rather than solid for electrolysis to occur.
-
 (ii) The electrolyte is at a temperature of $ 4 0 0^{\circ} \mathrm{C} $ Explain a suitable material for the electrodes.
-
-<div style='text-align: center;'><img src='assets/crop_2_1789104589034.png' alt='OCR图片'/></div>
-
 (iii) Give the half-equation that occurs at the negative electrode.
-
 (d) Bromine forms at the positive electrode.
-
 This is the half-equation for the reaction at the positive electrode.
-
 $$
 2 \mathrm {B r} ^ {-} \rightarrow \mathrm {B r} _ {2} + 2 \mathrm {e} ^ {-}
 $$
-
 (i) State what is observed at the positive electrode.
-
 (ii) State why the half-equation represents an oxidation reaction.
-
 (Total for Question 6 = 14 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589050.png' alt='OCR图片'/></div>
-
 7 This question is about hydrogen chloride (HCI). Hydrogen chloride is a covalent compound.
-
 (a) State, in terms of electrostatic attraction, what is meant by a covalent bond.
-
 (b) When hydrogen chloride gas is dissolved in an organic solvent, the hydrogen chloride remains a covalent molecule.
-
 When hydrogen chloride gas is dissolved in water, ions are formed.
-
 Explain what happens when dry blue litmus paper is dipped into separate samples of each solution.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589054.png' alt='OCR图片'/></div>
-
 (c) In the presence of ultraviolet radiation, hydrogen reacts with chlorine to form hydrogen chloride.
-
 This is the equation for the reaction.
-
 $$
 \mathrm {H} _ {2} (\mathrm {g}) + \mathrm {C I} _ {2} (\mathrm {g}) \rightarrow 2 \mathrm {H C I} (\mathrm {g})
 $$
-
 The table shows the bond energies.
-
 <table border="1"><tr><td>Bond</td><td>H—H</td><td>Cl—Cl</td><td>H—Cl</td></tr><tr><td>Bond energy in kJ/mol</td><td>436</td><td>242</td><td>431</td></tr></table>
-
 (i) Calculate the enthalpy change $ (\Delta H) $ , in kJ/mol, for the reaction Include a sign in your answer.
-
 $$
 \Delta H =
 $$
-
 (ii) Draw a reaction profile for the reaction.
-
 Label the reactants, the products, $ \Delta H $ and the activation energy $ (E_{\mathrm{a}}) $
-
 (Total for Question 7 = 13 marks)
-
 TOTAL FOR PAPER = 70 MARKS
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589059.png' alt='OCR图片'/></div>
-
 ## BLANK PAGE
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589064.png' alt='OCR图片'/></div>
-
 ## BLANK PAGE
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589069.png' alt='OCR图片'/></div>
-
 ## BLANK PAGE
-
-<div style='text-align: center;'><img src='assets/crop_1_1789104589079.png' alt='OCR图片'/></div>

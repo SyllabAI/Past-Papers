@@ -41,304 +41,140 @@ Calculator</td></tr><tr><td colspan="3">Total Marks</td></tr></table>
 
 Turn over
 
-<div style='text-align: center;'><img src='assets/crop_1_1789064036263.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789064036274.png' alt='OCR图片'/></div>
-
 <table class="table table-bordered"><thead><tr><th>7 Li</th><th>9 Be</th></tr></thead><tbody><tr><td>23 Na</td><td>24 Mg</td></tr><tr><td>39 K</td><td>40 Ca</td></tr><tr><td>86 Rb</td><td>88 Sr</td></tr><tr><td>133 Cs</td><td>137 Ba</td></tr><tr><td>223 Fr</td><td>226 Ra</td></tr></tbody></table>
-
-<div style='text-align: center;'><img src='assets/crop_1_1789064036280.png' alt='OCR图片'/></div>
-
 ## Answer ALL questions.
-
 1 These pieces of apparatus are used in chemistry experiments.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789064036289.png' alt='OCR图片'/></div>
-
 <div align="center">
-
 P
-
 </div>
-
 <div style='text-align: center;'><img src='assets/crop_2_1789064036296.png' alt='OCR图片'/></div>
-
 <div align="center">
-
 Q
-
 </div>
-
 <div align="center">
-
 R
-
 </div>
-
 <div style='text-align: center;'><img src='assets/crop_3_1789064036321.png' alt='OCR图片'/></div>
-
 <div style='text-align: center;'><img src='assets/crop_4_1789064036329.png' alt='OCR图片'/></div>
-
 <div align="center">
-
 S
-
 </div>
-
 (a) Name these pieces of apparatus.
-
 <div align="center">
-
 (4) 
-
 </div>
-
 (b) Apparatus P contains dilute hydrochloric acid.
-
 Litmus indicator is added to this acid.
-
 What is the final colour of the litmus?
-
 (1)
-
 A blue B green C orange D red
-
 (c) Apparatus R contains potassium hydroxide solution.
-
 Litmus indicator is added to this alkaline solution.
-
 What is the final colour of the litmus?
-
 (1)
-
 A blue B green C orange D red
-
 (Total for Question 1 = 6 marks)
-
-<div style='text-align: center;'><img src='assets/crop_5_1789064036333.png' alt='OCR图片'/></div>
-
 2 The diagram shows an atom of lithium with atomic number 3 and mass number of 6.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789064036340.png' alt='OCR图片'/></div>
-
 (a) Name the particle labelled E.
-
 (b) Name the part of the atom labelled F.
-
 (c) Name the two types of particle found in part F.
-
-<div style='text-align: center;'><img src='assets/crop_2_1789064036350.png' alt='OCR图片'/></div>
-
 (d) Another type of lithium atom has atomic number 3 and mass number 7.
-
 (i) State the name given to atoms with the same atomic number but different mass numbers.
-
 (ii) Draw a diagram to show the arrangement of electrons in an atom of lithium with atomic number 3 and mass number 7.
-
 (e) A sample of lithium contains 92.5% of atoms with mass number 7 and 7.5% of atoms with mass number 6.
-
 Calculate the relative atomic mass of lithium.
-
 (Total for Question 2 = 8 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789064036356.png' alt='OCR图片'/></div>
-
 3 A student is provided with a solution of dilute sulfuric acid and a solution of sodium hydroxide. The student does a titration using $ 2 5. 0 \mathrm{c m}^{3} $ of the sodium hydroxide solution. She adds the acid from a burette.
-
 (a) Which type of reaction occurs between dilute sulfuric acid and sodium hydroxide?
-
 A displacement
-
 B neutralisation
-
 C precipitation
-
 D redox
-
 (b) The diagram shows the student's burette readings for the titration.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789064036370.png' alt='OCR图片'/></div>
-
 before
-
 <div style='text-align: center;'><img src='assets/crop_2_1789064036375.png' alt='OCR图片'/></div>
-
 after
-
 (i) Use the readings to complete the table, giving all values to the nearest $ 0. 0 5 \mathrm{c m}^{3}. $
-
 <table border="1"><tr><td>burette reading after adding acid</td><td></td></tr><tr><td>burette reading before adding acid</td><td></td></tr><tr><td>volume in $ \mathrm{cm}^{3} $ of acid added</td><td></td></tr></table>
-
-<div style='text-align: center;'><img src='assets/crop_3_1789064036379.png' alt='OCR图片'/></div>
-
 (ii) Explain why the student needs to repeat the titration in order to obtain a reliable value for the volume of acid required to react exactly with $ 2 5. 0 \mathrm{c m}^{3} $ of sodium hydroxide solution.
-
 (Total for Question 3 = 6 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789064036385.png' alt='OCR图片'/></div>
-
 4 (a) This is the displayed formula of an organic compound, X.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789064036431.png' alt='OCR图片'/></div>
-
 (i) Give the molecular formula of compound X.
-
 (ii) A student describes compound X as a saturated hydrocarbon. Explain whether the student is correct.
-
 (b) Compound X and ethanol are members of the homologous series of alcohols.
-
 One property of members of a homologous series is that they have similar chemical reactions.
-
 Give one other property of members of a homologous series.
-
-<div style='text-align: center;'><img src='assets/crop_2_1789064036435.png' alt='OCR图片'/></div>
-
 (c) This apparatus is used for a dehydration reaction using compound X. This reaction is similar to the dehydration reaction of ethanol.
-
 mineral wool soaked in compound X
-
 <div style='text-align: center;'><img src='assets/crop_1_1789064036440.png' alt='OCR图片'/></div>
-
 The reaction produces gas Y and one other product.
-
 (i) State the purpose of the aluminium oxide.
-
 (ii) State a property of gas Y that allows it to be collected over water.
-
 (iii) Give a reason why the first sample of gas Y collected is not pure.
-
 (iv) Complete the equation for the dehydration reaction showing the displayed formula of gas Y and the molecular formula of the other product.
-
 <div style='text-align: center;'><img src='assets/crop_2_1789064036448.png' alt='OCR图片'/></div>
-
 <div align="center">
-
 (v) Give the name of gas Y.
-
 </div>
-
 <div align="center">
-
 (1) 
-
 </div>
-
-<div style='text-align: center;'><img src='assets/crop_3_1789064036459.png' alt='OCR图片'/></div>
-
 5 Chromium is a shiny metal that has many uses.
-
 Most chromium is extracted from the ore chromite, $ \mathrm{F e C r_{2} O_{4}} $
-
 (a) Complete the table by giving the names of the elements in $ \mathrm{F e C r_{2} O_{4}} $
-
 <table border="1"><tr><td>Chemical symbol</td><td>Name of element</td></tr><tr><td>Fe</td><td></td></tr><tr><td>Cr</td><td></td></tr><tr><td>O</td><td></td></tr></table>
-
 (b) In the extraction process, chromite is converted into chromium(III) oxide, $ \mathrm{C r_{2} O_{3}} $
-
 Chromium is made by this reaction
-
 chromium oxide + aluminium $ \rightarrow $ chromium + aluminium oxide
-
 (i) Write a chemical equation for this reaction.
-
 (ii) Explain what the reaction shows about the reactivity of chromium compared to the reactivity of aluminium.
-
 (iii) Explain why the reaction between chromium oxide and aluminium is described as a redox reaction.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789064036464.png' alt='OCR图片'/></div>
-
 (c) Chromium metal reacts with dilute hydrochloric acid to form hydrogen gas.
-
 This apparatus is used to investigate the reaction.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789064036469.png' alt='OCR图片'/></div>
-
 The equation for the reaction is
-
 $$
 \mathrm {C r} (\mathrm {s}) + 2 \mathrm {H C l} (\mathrm {a q}) \rightarrow \mathrm {C r C l} _ {2} (\mathrm {a q}) + \mathrm {H} _ {2} (\mathrm {g})
 $$
-
 A student adds 0.13 g of a sample of chromium metal to excess dilute hydrochloric acid.
-
 (i) Calculate the maximum volume of hydrogen gas that the student could produce in this experiment at room temperature and pressure (rtp).
-
 [molar volume of a gas is $ 2 4 \mathrm{d m}^{3} $ at rtp]
-
 maximum volume=
-
 (ii) The student does the experiment at rtp and finds that the volume collected is less than the calculated maximum.
-
 Give two possible reasons for this.
-
 (Total for Question 5 = 12 marks)
-
-<div style='text-align: center;'><img src='assets/crop_2_1789064036474.png' alt='OCR图片'/></div>
-
 6 Lithium fluoride, LiF, and magnesium oxide, MgO, are ionic compounds.
-
 (a) (i) Calculate the relative formula mass $ ( M_{r} ) $ of MgO.
-
 $$
 M _ {\mathrm {r}} =
 $$
-
 (ii) Give the formulae of the two ions in LiF.
-
 (b) Explain why
-
 - ionic compounds have high melting points
-
 - the melting point of magnesium oxide is much higher than the melting point of lithium fluoride
-
-<div style='text-align: center;'><img src='assets/crop_1_1789064036479.png' alt='OCR图片'/></div>
-
 (c) Explain why ionic compounds do not conduct electricity when solid, but do conduct electricity when molten or in aqueous solution.
-
 (Total for Question 6 = 8 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789064036485.png' alt='OCR图片'/></div>
-
 7 The diagram shows the electrolysis of concentrated sodium chloride solution in a diaphragm cell.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789064036492.png' alt='OCR图片'/></div>
-
 (a) (i) The ionic half-equation for the reaction at the positive electrode is
-
 $$
 2 \mathrm {C l} ^ {-} \rightarrow \mathrm {C l} _ {2} + 2 \mathrm {e} ^ {-}
 $$
-
 Use this equation to explain why oxidation occurs at the positive electrode.
-
 (ii) At the negative electrode, water molecules gain electrons to form hydroxide ions and hydrogen gas.
-
 Complete the ionic half-equation for this reaction.
-
 <div style='text-align: center;'><img src='assets/crop_2_1789064036497.png' alt='OCR图片'/></div>
-
 (b) Chlorine reacts with sodium hydroxide to produce a mixture of water, sodium chloride and sodium chlorate(1), NaOCI.
-
 Write a chemical equation for this reaction.
-
-<div style='text-align: center;'><img src='assets/crop_3_1789064036503.png' alt='OCR图片'/></div>
-
 (c) Chlorine is used in the manufacture of the addition polymer poly(chloroethene).
-
 (i) Explain how an addition polymer is formed from its monomers.
-
 (ii) Complete this equation by drawing the displayed formula of poly(chloroethene).
-
 <div style='text-align: center;'><img src='assets/crop_1_1789064036509.png' alt='OCR图片'/></div>
-
 (Total for Question 7 = 9 marks)
-
 TOTAL FOR PAPER = 60 MARKS
-
-<div style='text-align: center;'><img src='assets/crop_2_1789064036514.png' alt='OCR图片'/></div>
-
 ## BLANK PAGE
-
 Every effort has been made to contact copyright holders to obtain their permission for the use of copyright material. Pearson Education Ltd. will, if notified, be happy to rectify any errors or omissions and include any such rectifications in future editions.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789064036521.png' alt='OCR图片'/></div>

@@ -72,10 +72,5 @@ Order Code xxxxxxxx Summer 2012
 
 For more information on Edexcel qualifications, please visit our website www.edexcel.com
 
-<div style='text-align: center;'><img src='assets/crop_1_1789064332337.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789064332394.png' alt='OCR图片'/></div>
-
 <div style='text-align: center;'><img src='assets/crop_3_1789064332399.png' alt='OCR图片'/></div>
-
 Rewarding Learning

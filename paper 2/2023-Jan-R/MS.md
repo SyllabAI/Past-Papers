@@ -1,53 +1,28 @@
 PMT
 
-<div style='text-align: center;'><img src='assets/crop_1_1789064266890.png' alt='OCR图片'/></div>
-
 Pearson Edexcel
-
 Mark Scheme (Results)
-
 January 2023
-
 Pearson Edexcel International GCSE In Chemistry (4CH1) Paper 2CR
-
 ## Edexcel and BTEC Qualifications
-
 Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
-
 ## Pearson: helping people progress, everywhere
-
 Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
-
 January 2023
-
 Question Paper Log Number P71895A
-
 Publications Code 4CH1_2CR_MS_2301
-
 All the material in this publication is copyright
-
 $ \textcircled{c} $ Pearson Education Ltd 2023
-
 - All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
-
 - Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
-
 - There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
-
 - Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
-
 - All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
-
 - Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
-
 - When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
-
 - Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1(a)</td><td>7</td><td></td><td>1</td></tr><tr><td>(b)</td><td>any value ≥4 but&lt;7</td><td></td><td>1</td></tr><tr><td>(c)</td><td>0</td><td>ALLOW Group 8</td><td>1</td></tr><tr><td>(d)</td><td>3</td><td></td><td>1</td></tr></table>
-
 (Total for Question 1 = 4 marks)
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>2(a)</td><td>temperature</td><td>ALLOW volume/amount of solvent
 IGNORE concentration
 IGNORE stirring</td><td>1</td></tr><tr><td>(b)(i)</td><td>F→G→B→D→H→C→A→E</td><td></td><td>2</td></tr><tr><td>(ii)</td><td>M1 G in correct place
@@ -56,9 +31,7 @@ M1 mass of dry salt
 (=78.1-60.5=)17.6(g)
 M2 solubility=(17.6×2)=35.2(g per 100g of water)</td><td></td><td>2</td></tr><tr><td></td><td></td><td>ALLOW ECF from M1
 correct answer with no working scores 2</td><td></td></tr></table>
-
 (Total for Question 2 = 5 marks)
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">3(a)</td><td>M1 calculating heat energy in kJ/g
 = (3.28×105÷10000)OR32.8</td><td></td><td>3</td></tr><tr><td>M2 calculating heat energy in kJ/mol
 = (M1×12)OR393.6</td><td></td><td></td></tr><tr><td>M3=394OR3.94×102kJ/mol
@@ -70,37 +43,22 @@ M3 subsumes M2
 correct answer with no working scores3</td><td></td></tr><tr><td rowspan="4">(b)(i)</td><td>M1600/2000×100</td><td></td><td>2</td></tr><tr><td>OR0.6/20×100</td><td></td><td></td></tr><tr><td>M2=3(%)</td><td>ALLOW ECF from incorrect conversion of units in M1
 correct answer with no working scores2</td><td></td></tr><tr><td>M1mol of sulfur=600÷32OR18.75</td><td></td><td>3</td></tr><tr><td rowspan="3">(ii)</td><td>M2volSO2=M1×24OR450(dm3)</td><td>ALLOW ECF from incorrectA_rinM1</td><td></td></tr><tr><td>M3=450000OR4.5×105(cm3)</td><td>ALLOW ECF M2(dm3)×1000M3 subsumes M2
 correct answer with no working scores3</td><td></td></tr><tr><td>acid rain</td><td>IGNORE any effects</td><td>1</td></tr></table>
-
 (Total for Question 3 = 9 marks)
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="11">(a)(i)</td><td>The correct answer isD a structural formula</td><td></td><td>1</td></tr><tr><td>A is incorrect becauseCH3CH2OH is not a displayed formula</td><td></td><td></td></tr><tr><td>B is incorrect becauseCH3CH2OH is not an empirical formula</td><td></td><td></td></tr><tr><td>C is incorrect becauseCH3CH2OH is not a molecular formula</td><td></td><td></td></tr><tr><td>Any two from the following:</td><td></td><td>2</td></tr><tr><td>M1 same general formula</td><td></td><td></td></tr><tr><td>M2 each member differs from the next byCH2</td><td></td><td></td></tr><tr><td>M3 same functional group</td><td></td><td></td></tr><tr><td>M4 similar chemical properties/reactions</td><td></td><td></td></tr><tr><td>M5 trend/gradation in physical properties OWTTE</td><td>ACCEPT named physical property eg boiling point</td><td></td></tr><tr><td>(iii)</td><td>alcohol(s)</td><td></td><td>1</td></tr><tr><td>(iv)</td><td>propan-1-ol</td><td>ALLOW 1-propanol ALLOW propanol</td><td>1</td></tr><tr><td rowspan="3">(b)(i)</td><td>explanation including</td><td></td><td>2</td></tr><tr><td>M1 condensation (polymerisation)</td><td></td><td></td></tr><tr><td>M2 because water also produced/eliminated/removed/lost</td><td>ALLOW small molecule also produced/eliminated/removed/lost</td><td></td></tr></table>
-
 <table border="1"><tr><td>(ii)</td><td>OR
 M1 correct ester linkage shown
 M2 rest of repeat unit fully correct</td><td>M2 DEP M1</td><td>2</td></tr></table>
-
 (Total for Question 4 = 9 marks)
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(a)</td><td>2.8.5</td><td></td><td>1</td></tr><tr><td>(b)</td><td>M1 formula of phosphide ion is $ P^{3-} $M2 charges on three calcium/ $ Ca^{2+} $ ions balance/cancel out charges on two phosphide/ $ P^{3-} $ ions OWTTE</td><td>ALLOW $ P^{-3} $ALLOW charge on phosphide ion is 3-/-3ALLOW reference to three calcium atoms each lost two electrons/(total of) six electrons which were gained by two phosphorus atoms(to attain full outer shells) OWTTEAny reference to sharing of electrons/covalent bonding scores 0</td><td>2</td></tr><tr><td>(c)(i)</td><td>$ Ca_{3}(PO_{4})_{2}+8 C \rightarrow Ca_{3}P_{2}+8 CO $</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>explanation includingM1(carbon acts as a) reducing agentM2(because) calcium phosphate/ $ Ca_{3}(PO_{4})_{2} $ loses oxygen</td><td>ALLOW(because) carbon gains oxygen/is oxidisedALLOW carbon removes oxygen from calcium phosphate/ $ Ca_{3}(PO_{4})_{2} $IGNORE references to reactivity series/displacement reactionsM2 DEP M1 correct or missing</td><td>2</td></tr><tr><td>(d)</td><td>$ Ca_{3}P_{2}+6H_{2}O \rightarrow 3Ca(OH)_{2}+2PH_{3} $M1all formulae correctM2correct balancing</td><td>M2 DEP M1ALLOW multiples and fractions</td><td>2</td></tr></table>
-
 <table border="1"><tr><td></td><td></td><td></td><td></td></tr><tr><td>(e)</td><td>explanation includingM1giant(ionic)structureM2strong forces of attraction between oppositely charged ionsM3which require a lot of(heat/thermal)energy to break/overcome</td><td>ACCEPT giant(ionic)latticeACCEPT betweenCa2+andP3-ACCEPT betweenpositive and negativeionsALLOW strong ionicbondsIGNORE more energy0 marks if any mentionof covalent bonds,intermolecular forces ormolecules</td><td>3</td></tr></table>
-
 (Total for Question 5 = 11 marks)
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">6(a)(i)</td><td>explanation including</td><td></td><td>2</td></tr><tr><td>M1 carbon above iron in reactivity series</td><td>ALLOW carbon is more reactive than iron ACCEPT reverse arguments</td><td></td></tr><tr><td>M2 so carbon can remove oxygen from iron(III) oxide</td><td>ALLOW carbon can reduce iron(III)oxide ALLOW carbon can displace iron(from iron(III)oxide)</td><td></td></tr><tr><td>(ii) electricity not been discovered OWTTE</td><td>IGNORE electrolysis not discovered</td><td>1</td></tr><tr><td rowspan="4">(b)(i)</td><td>explanation including</td><td></td><td>2</td></tr><tr><td>M1 ions</td><td>If refs to electrons moving then scores 0</td><td></td></tr><tr><td>M2 can move</td><td>M2 DEP M1</td><td></td></tr><tr><td>(ii) The correct answer is C Na+</td><td></td><td>1</td></tr><tr><td rowspan="3">(iii)</td><td>A is incorrect because H+ ions not present in molten sodium chloride</td><td></td><td></td></tr><tr><td>B is incorrect because Cl- ion is not a cation</td><td></td><td></td></tr><tr><td>D is incorrect because OH- ion not present in molten sodium chloride</td><td></td><td></td></tr><tr><td rowspan="3">(iv)</td><td>explanation including</td><td></td><td>2</td></tr><tr><td>M1 water/moisture reacts with sodium</td><td></td><td></td></tr><tr><td>M2 to produce hydrogen (which ignites/burns/reacts in oxygen/air causing the small explosions)</td><td></td><td></td></tr><tr><td rowspan="2">(iv)</td><td>M1(anode)2Cl-→Cl2+2e(-)</td><td>ACCEPT 2Cl-→2e(-)→Cl2</td><td>2</td></tr><tr><td>M2(cathode)(2)Na++(2)e(-)→(2)Na</td><td>both half-equations correct but order reversed scores 1</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">6(c)</td><td>explanation including</td><td>ALLOW reverse arguments</td><td>3</td></tr><tr><td>M1outer electron in potassium (atom) is further away(from nucleus)</td><td>ALLOW potassium (atom) has more(electron) shells than lithium (atom)
 ALLOW potassium (atom) larger than lithium (atom)
 ALLOW potassium has greater atomic radius</td><td></td></tr><tr><td>M2outer electron in potassium (atom) less strongly attracted by nucleus OWTTE</td><td></td><td></td></tr><tr><td>M3so(outer) electron more easily lost OWTTE</td><td></td><td></td></tr></table>
-
 (Total for Question 6 = 13 marks)
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>7(a)</td><td>to (more) easily/clearly see the colour change (at end point) OWTTE</td><td></td><td>1</td></tr><tr><td>(b)</td><td>M1 litmusM2 blueORM1 methyl orangeM2 yellowORM1 phenolphthaleinM2 pink</td><td>M2 DEP M1ALLOW purpleALLOW orangeALLOW any other suitable indicator and correct final colour</td><td>2</td></tr><tr><td>(c)</td><td>Description including any five from the followingM1 rinse/wash the conical flask (with distilled/deionised water)M2 (repeat titration/experiment) adding sodium hydroxide (from burette) slowly/dropwise (near end point)M3 swirling flaskM4 record initial and final volume burette reading (at end point)/record volume sodium hydroxide added (at end point)M5 repeat until obtain concordant resultsM6 find mean/average (of concordant results)</td><td>REJECT if rinsed/washed using solutionIGNORE names of indicators and any colour changesALLOW shaking/stirringALLOW reference to subtraction of initial and final readingsALLOW results within 0.2cm3(or less)</td><td>5</td></tr><tr><td>(d)(i)</td><td>moles of NaOH $ \frac{(0.350\times18.80)}{1000}=0.00658 $ (1000)</td><td>ACCEPT $ 6.58\times10^{-3} $</td><td>1</td></tr><tr><td>(ii)</td><td>amount of HNO_{3}=0.00658$</td><td>ALLOW ECF from(i)</td><td>1</td></tr><tr><td>(iii)</td><td>conc. of HNO_{3}=\frac{0.00658\times1000}{25.0}=0.263(2)$</td><td>ALLOW ECF from(ii)If not divided by 1000 in(i) do not penalise if not multiplied by 1000 in(iii)ALLOW 2,3 or 4 sig figs throughout Penalise use of 1 sig fig once only</td><td>1</td></tr></table>
-
 (Total for Question 7 = 11 marks)
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="5">8(a)</td><td>diagram including the following</td><td></td><td>4</td></tr><tr><td>M1 horizontal lines showing energy levels labelled $ N_{2}+O_{2} $ and 2NO</td><td></td><td></td></tr><tr><td>M2 level of 2NO /products above level of $ N_{2}+O_{2} $ /reactants</td><td></td><td></td></tr><tr><td>M3 $\Delta H$ correctly shown between reactants and products and labelled</td><td>ALLOW vertical line with/without arrowheadsIf single arrowhead must point from level of reactants to level of products</td><td></td></tr><tr><td>M4 activation energy correctly shown and labelled</td><td>Must be from level of reactants to top of“hump”ALLOW vertical line with/without arrowheadsIf single arrowhead must point from level of reactants to top of“hump”IGNORE any label on a horizontal axisIf diagram for exothermic reaction drawn can score M1 M3 M4</td><td></td></tr><tr><td rowspan="4">(b)(i)</td><td>{944+($3\times436$)=}2252</td><td>IGNORE any sign</td><td>1</td></tr><tr><td>{6×391}=}2346</td><td>IGNORE any sign</td><td>1</td></tr><tr><td>M1 difference between(i)和(ii)expected value=94</td><td>IGNORE any sign</td><td>2</td></tr><tr><td>M2-94</td><td>ALLOW ECF from(i)和(ii)If(ii)&gt;(i)sign should be-If(i)&gt;(ii)sign should be+</td><td></td></tr></table>
-
 (Total for Question 8=8 marks)
-
 (Total for Paper=70 marks)

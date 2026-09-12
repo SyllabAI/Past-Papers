@@ -98,10 +98,4 @@ Order Code UG035550 Summer 2013
 
 For more information on Edexcel qualifications, please visit our website www.edexcel.com
 
-<div style='text-align: center;'><img src='assets/crop_1_1789064359000.png' alt='OCR图片'/></div>
-
 Pearson Education Limited. Registered company number 872828 with its registered office at Edinburgh Gate, Harlow, Essex CM20 2JE
-
-<div style='text-align: center;'><img src='assets/crop_2_1789064359052.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_3_1789064359057.png' alt='OCR图片'/></div>

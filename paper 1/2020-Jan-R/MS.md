@@ -1,43 +1,23 @@
 PMT
 
-<div style='text-align: center;'><img src='assets/crop_1_1789044604278.png' alt='OCR图片'/></div>
-
 Pearson
-
 ## Mark Scheme (Results)
-
 January 2020
-
 Pearson Edexcel International GCSE in Chemistry (4CH1) Paper 1CR
-
 ## Edexcel and BTEC Qualifications
-
 Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
-
 ## Pearson: helping people progress, everywhere
-
 Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
-
 January 2020 Publications Code 4CH1_1CR_msc_20200305 All the material in this publication is copyright $ \textcircled{c} $ Pearson Education Ltd 2020
-
 ## General Marking Guidance
-
 - All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
-
 - Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
-
 - Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
-
 - There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
-
 - All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
-
 - Where some judgement is required, mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
-
 - When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
-
 - Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1(a)</td><td>C Neutron
 The only correct answer is C because the nucleus contains protons and neutrons. Protons are identified as the white dots
 A is not correct because electrons occur in the shells
@@ -57,7 +37,6 @@ C is not correct because 9 is the total number of particles in the nucleus
 D is not correct because 13 is the total number of protons, neutrons and electrons</td><td></td><td>1</td></tr><tr><td>(e)(i)</td><td>beryllium/Be</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>(positive) ion</td><td>ALLOW ecf from the element given in(e)(i)
 ACCEPT any positive beryllium ion(or other ecf ion)
 REJECT any negative ion</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>2(a)(i)</td><td>Particles should be close together and should fill from the bottom of the box, some particles should touch</td><td>ALLOW particles filling the whole box
 IGNORE the size of the particles
 REJECT a regular arrangement</td><td>1</td></tr><tr><td>(ii)</td><td>Gas</td><td>ALLOW gaseous</td><td>1</td></tr><tr><td>(b)</td><td>M1(water evaporates)I to g
@@ -68,9 +47,7 @@ ALLOW(particles/molecules have)move faster
 IGNORE vibrate more
 ALLOW to overcome/break the bonds(between water molecules)ORto break away from one another OR so escape more easily
 IGNORE references to collisions or activation energy</td><td>2</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>3(a)</td><td>Most Z2Y2Least X2</td><td>ALLOW ZYXALLOW lower case lettersIGNORE size of numberIGNORE any names given</td><td>1</td></tr><tr><td>(b)</td><td>bromine</td><td>ALLOW bromine waterOR bromine solution/Br/Br2REJECT bromide</td><td>1</td></tr><tr><td>(c)(i)</td><td>(Fluorine) gas/vapour(chlorine) range between-150℃ to10℃ inclusive(Astatine) dark grey/black</td><td>REJECT blue-black</td><td>3</td></tr><tr><td>(c)(ii)</td><td>C-the halogens have the same number of outer shell electrons.The only correct answer is C because the halogens are in group 7 and have similar reactions because they have the same number of electrons in their outer shells.A is not correct because the fact halogens are non-metals does not make them react in a similar way.B is not correct because the fact halogens are molecules does not make them react in a similar way.D is not correct because elements in the same period have different numbers of outer shell electrons and react differently.</td><td></td><td>1</td></tr><tr><td>(d)(i)</td><td>Chlorine is toxic/poisonous</td><td>IGNORE harmful/dangerous/irritantIGNORE any reference to products</td><td>1</td></tr><tr><td>(d)(ii)</td><td>M1FeCl3M22Fe+3Cl2→2FeCl3M2 rest of the equation balanced</td><td>ALLOW correct charges on the ionsREJECT incorrect capitalsREJECT large or super-script 3ALLOW multiples or fractions for M2M2 dep on M1</td><td>2</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>4(a)</td><td>NH4+</td><td>ALLOW NH4+1and NH41+</td><td>1</td></tr><tr><td>(b)</td><td>M1add sodium hydroxide solution(and warm)
 M2(test the gas with damp)red litmus
 M3turns blue
@@ -86,7 +63,6 @@ M1(gas particles)move in random directions/don’t travel in straight lines OWTT
 M2(gas particles)collide with air/other particles
 M3(gas particles)collide with the walls/sides(of the tube) OWTTE</td><td>ALLOW air/other particles slow them down
 IGNORE any references to rate of reaction/collisions</td><td>2</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(a)</td><td>Results are the same at the end</td><td>ALLOW there is a constant volume in the tube
 ALLOW the volume of gas stops decreasing
 ALLOW no change after4/5 minutes
@@ -99,7 +75,6 @@ M2(11.5÷48.5)x100
 M323.7%</td><td>Correct answer to1 dp with or without working scores3
 ALLOW ecf fromM1
 M3 must be to1dp</td><td>3</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">6(a)(i)</td><td>magnesium is more reactive than copper</td><td>ALLOW magnesium can displace copper
 ALLOW magnesium is higher than copper in the reactivity series
 REJECT magnesium is more reactive than copper(II) or Cu2+ or copper sulfate</td><td>1</td></tr><tr><td>magnesium sulfate + copper</td><td>Both are required for the mark. Either order.
@@ -110,7 +85,6 @@ IGNORE negative sign</td><td></td></tr><tr><td rowspan="4">(ii)</td><td>An expla
 ALLOW polystyrene is a poor conductor of heat</td><td></td></tr><tr><td>M2(so) reduces heat loss(to the surroundings)
 OWTTE</td><td>ALLOW prevents heat loss
 ALLOW keeps heat in</td><td></td></tr><tr><td>M3 temperature rise/change/reading will be closer to true value OWTTE</td><td>ALLOW temperature rise/change/reading will be more accurate/valid</td><td></td></tr></table>
-
 <table border="1"><tr><td>(c)(i)</td><td>M1 calculate the amount, in moles, of zinc
 M2 divide Q by the amount in moles
 M3 give the answer to three significant figures with a - sign
@@ -129,15 +103,12 @@ M3 Cu2+ gains electrons</td><td>ALLOW zinc is oxidised and copper(sulfate) is re
 ALLOW oxidation and reduction occur
 ALLOW references to changes in oxidation number for M2 and M3
 Must mention copper ions for M3</td><td>3</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">7</td><td>(a)(i)</td><td>Measuring cylinder / burette / (volumetric) pipette</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>Neutralisation</td><td>ACCEPT exothermic
 IGNORE base or alkali</td><td>1</td></tr><tr><td rowspan="3">(b)(i)</td><td rowspan="3">(ii)(iii)</td><td>12.4</td><td></td><td>1</td></tr><tr><td>15cm3-red/orange
 30cm3-blue/purple</td><td></td><td>2</td></tr><tr><td>OH-/hydroxide(ion)</td><td>REJECT OH</td><td>1</td></tr><tr><td rowspan="3">(c)</td><td rowspan="3"></td><td>M1 the reaction is exothermic(therefore the temperature rises)</td><td>ALLOW the reaction gives out heat(energy) or thermal energy
 IGNORE energy alone</td><td>3</td></tr><tr><td>M2(after25cm3of sodium hydroxide)the reaction is complete OWTTE</td><td>ALLOW(after25cm3of sodium hydroxide)neutralisation happens</td><td></td></tr><tr><td>M3so adding more sodium hydroxide/liquid/solution cools the mixture down</td><td>ALLOW so no more heat(energy) or thermal energy is given out OWTTE
 IGNORE energy alone</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">8(a)</td><td>M1 calcium loses electrons</td><td>IGNORE references to redox</td><td>3</td></tr><tr><td>M2 chlorine gains electrons</td><td>Allow 1 mark from M1 and M2 for electron transfer from chlorine to calcium</td><td></td></tr><tr><td>M3 two atoms of chlorine each gain one electron OR</td><td>If chlorine molecules are gaining electrons do not award M3</td><td></td></tr><tr><td>M3 calcium loses 2 electrons and chlorine gains 1 electron</td><td>Any reference to sharing electrons or covalent or metallic bonding scores 0</td><td></td></tr><tr><td rowspan="7">(b)</td><td>(test for Ca2+ ions)</td><td></td><td>4</td></tr><tr><td>M1 flame test(allow description of a flame test)</td><td></td><td></td></tr><tr><td>M2 orange-red flame colour</td><td>ALLOW brick-red IGNORE orange / red alone M2 dep on M1</td><td></td></tr><tr><td></td><td>ALLOW M1 add sodium hydroxide</td><td></td></tr><tr><td></td><td>ALLOW M2 (slight) white precipitate (reject precipitate dissolves in excess sodium hydroxide)</td><td></td></tr><tr><td>(test for Cl- ions)</td><td></td><td></td></tr><tr><td></td><td>IGNORE reference to nitric acid REJECT hydrochloric acid or sulfuric acid</td><td></td></tr><tr><td></td><td>M4 white precipitate</td><td>M4 dep on silver nitrate in M3</td><td></td></tr></table>
-
 <table border="1"><tr><td>(c)(i)</td><td>M1 and M2 all points correct ± half a square
 M3 2 straight lines of best fit ignoring the anomalous point
 图</td><td>One plotting error scores M1</td><td>3</td></tr><tr><td>(c)(ii)</td><td>the conductivity is (directly) proportional (to the number of spatulas of calcium chloride added)
@@ -146,7 +117,6 @@ the conductivity increases (as the number of spatulas of calcium chloride increa
 M1 The student took the reading before adding the calcium chloride
 M2 The student forgot to stir the mixture OR did not stir the mixture properly</td><td>IGNORE any references to human error</td><td>1</td></tr><tr><td>(d)</td><td>M1 Heat (the calcium chloride)
 M2 until molten / melts</td><td>IGNORE references to electrons / ions</td><td>2</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">9</td><td rowspan="4">(a)(i)</td><td>M1(Empirical formula)CH2</td><td>ALLOW sub and super script numbers for M1 and M2</td><td>2</td></tr><tr><td>M2(General formula)CnH2n</td><td>ALLOW letters other than n
 ALLOW capital letters</td><td></td></tr><tr><td>Any two from:</td><td></td><td>2</td></tr><tr><td>M1 each member differs from the next by a CH2 group OWTTE
 M2(each member has) same functional group
@@ -158,7 +128,6 @@ REJECT condensation</td><td>1</td></tr><tr><td>M1 Single bond between the two ca
 M2 trailing bonds through the brackets and the n to the right</td><td>ALLOW n in any position outside the bracket to the right of the structure.
 ALLOW capital N</td><td></td></tr><tr><td rowspan="3">(iii)</td><td rowspan="3">(iii)</td><td>Any 5 points from:</td><td>If only advantages or disadvantages given, max 3 marks</td><td>5</td></tr><tr><td>M1 Poly(ethene) is cheaper than polymers from corn starch</td><td>IGNORE durable</td><td></td></tr><tr><td>M2 Poly(ethene) is stronger than polymers from corn starch
 M3 Poly(ethene) frees up land to grow food crops</td><td></td><td></td></tr></table>
-
 <table border="1"><tr><td></td><td>M4 Poly(ethene) comes from (cracking of certain fractions from) crude oil
 M5 Poly(ethene) is non-renewable OR ethene is a finite source
 M6 Poly(ethene) is inert
@@ -171,15 +140,11 @@ IGNORE bond angles
 IGNORE n
 IGNORE brackets
 REJECT trailing bonds</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">10(a)(i)</td><td>M1 four electrons between the carbon and each oxygen</td><td></td><td>2</td></tr><tr><td>M2 rest of molecule correct</td><td>M2 dep on M1</td><td></td></tr><tr><td>M1 shared pair(s) of electrons</td><td></td><td>2</td></tr><tr><td rowspan="7">(b)(i)</td><td>M2 attracted to (two) nuclei</td><td>REJECT nucleus. Must be plural for M2.M2 dep on mention of electrons in M1</td><td></td></tr><tr><td>M1 Graphite has delocalised electrons</td><td>IGNORE sea of electronsIGNORE free electronsIGNORE number of electrons</td><td>2</td></tr><tr><td>M2 (delocalised electron(s)) can move or flow (throughout the structure)</td><td>IGNORE references to carrying a charge or currentIGNORE references to layersM2 dep on mentioning electrons in M1Any mention of ions scores 0</td><td></td></tr><tr><td>M1 (diamond) giant covalent</td><td>ALLOW macromolecularALLOW giant structure if M2 is scoredIGNORE tetrahedral structureREJECT molecules of diamond</td><td>5</td></tr><tr><td>M2 (in melting diamond) covalent bonds are broken</td><td>ALLOW description of covalent bonds</td><td></td></tr><tr><td>M3(C60)(simple) molecular structure</td><td>ALLOW molecules of C60</td><td></td></tr><tr><td>M4(in melting C60) intermolecular forces (of attraction) are overcome</td><td></td><td></td></tr><tr><td></td><td>M5 more energy is needed to break covalent bonds(in diamond) than intermolecular forces(in C60)</td><td>ALLOW strong covalent bonds and weak intermolecular forces(or attraction)</td><td></td></tr></table>
-
 <table border="1"><tr><td></td><td></td><td>ACCEPT breaking bonds in C60 if intermolecular forces clearly mentioned
 Mention of intermolecular forces in diamond no M2 or M5
 Mention of breaking covalent bonds in C60 no M4 or M5</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>11(a)</td><td>4 CuO(s)+CH4(g)→4 Cu(s)+CO2(g)+2H2O(l/g)M1 correct balancingM2 correct state symbols</td><td>ALLOW multiples and fractions</td><td>2</td></tr><tr><td>(b)(i)</td><td>M1 Mass copper 3.18g and mass oxygen 0.40gM2 Moles copper=3.18/63.5OR0.0500molesM3 Moles oxygen=0.40/16OR0.025molesM4 Ratio of moles Cu:O is2:1</td><td>M2 and M3 allow ecf from M1M4 is dep on M2 and M3</td><td>4</td></tr><tr><td>(ii)</td><td>Any one from:M1 Use a safety screenM2 Position the class some distance from the apparatusM3 Do the experiment in a fume cupboardM4 Set fire to the (excess) methane gas straight away</td><td>ALLOW tie hair backALLOW wear heat-proof gloves</td><td>1</td></tr><tr><td>(c)(i)</td><td>(Iron(III)oxide)loses oxygen</td><td>ALLOW iron loses oxygenIGNORE any reference to electrons.</td><td>1</td></tr><tr><td>(ii)</td><td>Carbon monoxide is poisonous/toxic OR carbon monoxide reduces the ability of the blood to carry oxygen</td><td>ALLOW carbon monoxide binds to haemoglobin in the blood</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>(iii)</td><td>calculate $ M_{r} $ of $ Fe_{2}O_{3} $
 calculate the amount, in moles, of $ Fe_{2}O_{3} $
 calculate the amount, in moles, of Fe
