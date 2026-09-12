@@ -40,356 +40,166 @@ Calculator</td></tr><tr><td colspan="3">Total Marks</td></tr></table>
 
 Turn over
 
-<div style='text-align: center;'><img src='assets/crop_1_1789069581249.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789069581304.png' alt='OCR图片'/></div>
-
 <div align="center">
-
 The Periodic Table of the Elements
-
 </div>
-
 <table border="1"><tr><td>7Li lithium3</td><td>9Be beryllium4</td><td colspan="12">Key</td><td>4He helium2</td></tr><tr><td>23Na sodium11</td><td>24Mg magnesium12</td><td colspan="12">relative atomic mass atomic symbol atomic (proton) number</td><td>20Ne neon10</td></tr><tr><td>39K potassium19</td><td>40Ca calcium20</td><td>45Sc scandium21</td><td>48Ti titanium22</td><td>51V vanadium23</td><td>52Cr chromium24</td><td>55Mn manganese25</td><td>56Fe iron26</td><td>59Co cobalt27</td><td>59Ni nickel28</td><td>63.5Cu copper29</td><td>65Zn zinc30</td><td>70Ga gallium31</td><td>73Ge germanium32</td><td>75As arsenic33</td><td>79Se selenium34</td><td>80Br bromine35</td><td>84Kr krypton36</td></tr><tr><td>85Rb rubidium37</td><td>88Sr strontium38</td><td>89Y yttrium39</td><td>91Zr zirconium40</td><td>93Nb niobium41</td><td>96Mo molybdenum42</td><td>[98]Tc technetium43</td><td>101Ru ruthenium44</td><td>103Rh rhodium45</td><td>106Pd palladium46</td><td>108Ag silver47</td><td>112Cd cadmium48</td><td>115In indium49</td><td>119Sn tin50</td><td>122Sb antimony51</td><td>128Te tellurium52</td><td>127I iodine53</td><td>131Xe xenon54</td></tr><tr><td>133Cs caesium55</td><td>137Ba barium56</td><td>139La* lanthanum57</td><td>178Hf hafnium72</td><td>181Ta tantalum73</td><td>184W tungsten74</td><td>186Re rhenium75</td><td>190Os osmium76</td><td>192Ir iridium77</td><td>195Pt platinum78</td><td>197Au gold79</td><td>201Hg mercury80</td><td>204Tl thallium81</td><td>207Pb lead82</td><td>209Bi bismuth83</td><td>[209]Po polonium84</td><td>[210]At astatine85</td><td>[222]Rn radon86</td></tr><tr><td>[223]Fr francium87</td><td>[226]Ra radium88</td><td>[227]Ac* actinium89</td><td>[261]Rf rutherfordium104</td><td>[262]Db dubnium105</td><td>[266]Sg seaborgium106</td><td>[264]Bh bohrium107</td><td>[277]Hs hassium108</td><td>[268]Mt meitnerium109</td><td>[271]Ds darmstadtium110</td><td>[272]Rg roentgenium111</td><td colspan="6">Elements with atomic numbers 112-116 have been reported but not fully authenticated</td></tr></table>
-
 $ ^{*} $ The lanthanoids (atomic numbers 58-71) and the actinoids (atomic numbers 90-103) have been omitted.
-
 The relative atomic masses of copper and chlorine have not been rounded to the nearest whole number.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581309.png' alt='OCR图片'/></div>
-
 ## Answer ALL questions.
-
 1 This question is about gases in the atmosphere.
-
 (a) The box gives the names of some gases in the atmosphere.
-
 argon carbon dioxide helium nitrogen oxygen
-
 Use gases from the box to answer the questions.
-
 Each gas may be used once, more than once or not at all.
-
 (i) Identify the two noble gases.
-
 (ii) Identify the gas that is a compound.
-
 (iii) Identify the most abundant gas in the atmosphere.
-
 (iv) Identify the greenhouse gas.
-
 (b) Describe the test for oxygen.
-
 (Total for Question 1 = 5 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581316.png' alt='OCR图片'/></div>
-
 2 The diagram represents an atom of boron.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789069581323.png' alt='OCR图片'/></div>
-
 (a) Use information from the diagram to complete the table.
-
 The first row has been done for you.
-
 <div align="center">
-
 (5) 
-
 </div>
-
 <table border="1"><tr><td>atomic number</td><td>5</td></tr><tr><td>mass number</td><td></td></tr><tr><td>number of neutrons</td><td></td></tr><tr><td>group in the Periodic Table that contains boron</td><td></td></tr><tr><td>period in the Periodic Table that contains boron</td><td></td></tr><tr><td>electronic configuration of an atom of boron</td><td></td></tr></table>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789069581350.png' alt='OCR图片'/></div>
-
 <div style='text-align: center;'><img src='assets/crop_3_1789069581356.png' alt='OCR图片'/></div>
-
 (b) Boron has two isotopes, boron-10 and boron-11.
-
 A sample of boron contains 18.7% of boron-10 and 81.3% of boron-11.
-
 Calculate the relative atomic mass of this sample of boron.
-
 relative atomic mass=
-
 (Total for Question 2 = 7 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581362.png' alt='OCR图片'/></div>
-
 (a) The diagram shows crude oil being separated into different fractions.
-
 3 Crude oil is an important source of organic compounds.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789069581385.png' alt='OCR图片'/></div>
-
 (i) Name the process used to separate crude oil into different fractions.
-
 <div align="center">
-
 (1) 
-
 </div>
-
 (ii) State what happens to the crude oil at X.
-
 <div align="center">
-
 (1) 
-
 </div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789069581390.png' alt='OCR图片'/></div>
-
 (iii) Describe the differences between fraction B and fraction E. In your answer, refer to
-
 - size of the molecules
-
 - boiling point
-
 - colour
-
 - viscosity
-
 (b) Crude oil often contains sulfur as an impurity.
-
 Explain why this is a problem when using crude oil fractions as fuels.
-
 (Total for Question 3 = 8 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581398.png' alt='OCR图片'/></div>
-
 <div style='text-align: center;'><img src='assets/crop_1_1789069581404.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789069581412.png' alt='OCR图片'/></div>
-
 4 This question is about the halogens and their compounds.
-
 (a) The table gives the colour and physical state at room temperature of the halogens.
-
 Complete the table by predicting the colour of astatine and the physical state of fluorine at room temperature.
-
 <table border="1"><tr><td>Halogen</td><td>Colour</td><td>Physical state at room temperature</td></tr><tr><td>fluorine</td><td>pale yellow</td><td></td></tr><tr><td>chlorine</td><td>pale green</td><td>gas</td></tr><tr><td>bromine</td><td>red-brown</td><td>liquid</td></tr><tr><td>iodine</td><td>dark grey</td><td>solid</td></tr><tr><td>astatine</td><td></td><td>solid</td></tr></table>
-
 (b) Chlorine gas is bubbled into a colourless solution of potassium bromide. Explain why the solution turns orange.
-
 (c) Potassium bromide is an ionic compound.
-
 Draw diagrams to show the outer electrons in a potassium ion and in a bromide ion Include the charges on the ions.
-
 <div align="center">
-
 (3) 
-
 </div>
-
 <table border="1"><tr><td>potassium ion</td><td>bromide ion</td></tr><tr><td></td><td></td></tr></table>
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581419.png' alt='OCR图片'/></div>
-
 (d) A student sets up a circuit to test the electrical conductivity of water, solid sodium chloride and aqueous sodium chloride.
-
 The table shows the student's results.
-
 <table border="1"><tr><td>Substance</td><td>Conducts electricity?</td></tr><tr><td>water</td><td>no</td></tr><tr><td>solid sodium chloride</td><td>no</td></tr><tr><td>aqueous sodium chloride</td><td>yes</td></tr></table>
-
 Explain these results, with reference to the structure and bonding of the substances.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581427.png' alt='OCR图片'/></div>
-
 (e) A concentrated aqueous solution of sodium chloride is electrolysed using graphite electrodes.
-
 Chlorine is formed at the positive electrode (anode).
-
 (i) Give an ionic half-equation for the formation of chlorine at the positive electrode.
-
 (ii) State why this ionic half-equation represents an oxidation reaction.
-
 (iii) Which substance is formed at the negative electrode (cathode)?
-
 A hydrogen
-
 B oxygen
-
 C sodium
-
 D water
-
 (Total for Question 4 = 15 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581434.png' alt='OCR图片'/></div>
-
 5 This question is about the reactions of carboxylic acids.
-
 (a) Carboxylic acids react with solutions of metal carbonates.
-
 (i) Complete the chemical equation for the reaction of ethanoic acid, $ \mathrm{C H_{3} C O O H} $ with potassium carbonate solution.
-
 $$
 2 \mathrm {C H} _ {3} \mathrm {C O O H} + \mathrm {K} _ {2} \mathrm {C O} _ {3} \rightarrow
 $$
-
 (ii) State what you would see in this reaction.
-
 (b) The ester, ethyl ethanoate, can be prepared by reacting ethanol with ethanoic acid. This is the method for the preparation.
-
 - mix equal amounts of ethanoic acid and ethanol in a boiling tube
-
 - add a few drops of concentrated sulfuric acid
-
 - place the boiling tube in a hot water bath for several minutes
-
 (i) State the role of concentrated sulfuric acid in this reaction.
-
 (ii) Suggest why the mixture is heated in a water bath rather than directly with a Bunsen burner flame.
-
 (iii) State how you would know that ethyl ethanoate has formed.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581439.png' alt='OCR图片'/></div>
-
 (c) Another ester, methyl propanoate, can be prepared by reacting methanol with propanoic acid.
-
 (i) Draw the displayed formulae of methanol, propanoic acid and the ester, methyl propanoate.
-
 <table border="1"><tr><td>methanol</td><td>propanoic acid</td></tr><tr><td></td><td></td></tr></table>
-
 methyl propanoate
-
 (ii) Give the name of the other product of this reaction.
-
 (d) Give one use of esters.
-
 (Total for Question 5 = 11 marks)
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581443.png' alt='OCR图片'/></div>
-
 <div style='text-align: center;'><img src='assets/crop_1_1789069581489.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789069581514.png' alt='OCR图片'/></div>
-
 6 When a bottle of wine is left open for several days, some of the ethanol in the wine turns to ethanoic acid, $ \mathrm{C H_{3} C O O H} $
-
 (a) A scientist uses a titration method to investigate how much ethanoic acid is formed if a bottle of white wine is left open for one week.
-
 She uses this method.
-
 - fill a burette with the white wine and record the reading
-
 - add $ 2 5. 0 \mathrm{c m}^{3} $ of sodium hydroxide solution to a conical flask
-
 - add a few drops of phenolphthalein indicator to the flask
-
 - swirl the flask continuously while adding wine from the burette
-
 - add the wine drop by drop near the end point
-
 - record the reading at the end point
-
 (i) Name the piece of apparatus that would be most suitable for measuring the $ 2 5. 0 \mathrm{c m}^{3} $ of sodium hydroxide solution.
-
 (ii) Suggest why red wine would not be suitable to use for this investigation.
-
 (iii) State why she swirls the flask continuously.
-
 (iv) State why she adds the wine drop by drop near the end point.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581521.png' alt='OCR图片'/></div>
-
 (b) The diagram shows the burette readings at the start and end of one of the titrations.
-
 <div style='text-align: center;'><img src='assets/crop_1_1789069581532.png' alt='OCR图片'/></div>
-
 <div style='text-align: center;'><img src='assets/crop_2_1789069581547.png' alt='OCR图片'/></div>
-
 Use the readings to complete the table.
-
 Give your values to the nearest 0.05 $ cm^{3}. $
-
 <div align="center">
-
 (3) 
-
 </div>
-
 <table border="1"><tr><td>burette reading at end</td><td></td></tr><tr><td>burette reading at start</td><td></td></tr><tr><td>volume of wine added in $ \mathrm{c m}^{3} $</td><td></td></tr></table>
-
 (c) The scientist repeats the titration four more times.
-
 The table shows her results for these four titrations.
-
 <table border="1"><tr><td>titration number</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>volume of wine added in $ \mathrm{c m^{3}} $</td><td>20.40</td><td>20.10</td><td>20.35</td><td>20.45</td></tr><tr><td>concordant results</td><td></td><td></td><td></td><td></td></tr></table>
-
 Concordant results are those within $ 0. 2 0 \mathrm{c m}^{3} $ of each other.
-
 (i) Add ticks ( $ \surd $ ) to the table to show the concordant results.
-
 (ii) Use your ticked results to calculate the mean (average) volume of wine added.
-
-<div style='text-align: center;'><img src='assets/crop_3_1789069581553.png' alt='OCR图片'/></div>
-
 (d) Another scientist repeats the titration with a different bottle of white wine that has been left open for a week.
-
 The equation for the reaction that occurs in this titration is
-
 $$
 \mathrm {C H} _ {3} \mathrm {C O O H} + \mathrm {N a O H} \rightarrow \mathrm {C H} _ {3} \mathrm {C O O N a} + \mathrm {H} _ {2} \mathrm {O}
 $$
-
 The mean volume of wine added is $ 1 9. 5 0 \mathrm{c m}^{3}. $
-
 (i) The concentration of the sodium hydroxide solution is $ 0. 0 5 0 0 \mathrm{m o l} / \mathrm{d m}^{3}. $
-
 Calculate the amount, in moles, of NaOH in $ 2 5. 0 \mathrm{c m}^{3} $ of sodium hydroxide solution.
-
 $$
 \mathrm {a m o u n t o f N a O H} =
 $$
-
 (ii) Deduce the amount, in moles, of $ \mathrm{C H_{3} C O O H} $ in $ 1 9. 5 0 \mathrm{c m}^{3} $ of the wine.
-
 $$
 \mathrm {a m o u n t o f C H _ {3} C O O H} =
 $$
-
 (iii) Calculate the concentration, in mol/dm $ ^{3} $ , of $ \mathrm{C H_{3} C O O H} $ in the wine.
-
 concentration of $ \mathrm{C H_{3} C O O H}= $
-
 $$
 \mathrm {m o l / d m ^ {3}}
 $$
-
 $$
 (\mathrm {T o t a l f o r Q u e s t i o n 6 = 1 5 m a r k s})
 $$
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581557.png' alt='OCR图片'/></div>
-
 7 Hydrogen gas can be produced by reacting a mixture of methane and steam in the presence of a nickel catalyst.
-
 The reaction conditions are a temperature of $ 7 0 0^{\circ} \mathrm{C} $ and a pressure of 5 atmospheres. The equation for the reaction is
-
 $$
 \mathrm {C H} _ {4} (\mathrm {g}) + \mathrm {H} _ {2} \mathrm {O} (\mathrm {g}) \rightleftharpoons \mathrm {C O} (\mathrm {g}) + 3 \mathrm {H} _ {2} (\mathrm {g}) \quad \Delta H = + 2 0 6 \mathrm {k J / m o l}
 $$
-
 (a) What does the symbol $ \rightleftharpoons $ represent?
-
 (b) (i) The mixture of methane and steam is heated to a temperature greater than $ 7 0 0^{\circ} \mathrm{C} $ but the pressure is kept at 5 atmospheres.
-
 Predict the effect of this change on the yield of hydrogen at equilibrium, giving a reason for your answer.
-
 (ii) The mixture of methane and steam is kept at the same temperature of $ 7 0 0^{\circ} \mathrm{C} $ but the pressure is increased to more than 5 atmospheres.
-
 Predict the effect of this change on the yield of hydrogen at equilibrium, giving a reason for your answer.
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581564.png' alt='OCR图片'/></div>
-
 (c) Calculate the volume, in $ \mathrm{d m}^{3} $ of hydrogen gas at rtp that is produced when 10 tonnes of methane gas completely react with steam.
-
 <table><tr><td>10 tonnes of methane gas completely react with steam.</td></tr><tr><td>[molar volume of hydrogen at rtp is 24 dm³]</td></tr><tr><td>Give your answer in standard form.</td></tr><tr><td>(4)</td></tr><tr><td>volume of hydrogen = dm³</td></tr><tr><td>(Total for Question 7 = 9 marks)</td></tr><tr><td>TOTAL FOR PAPER = 70 MARKS</td></tr></table>
-
-<div style='text-align: center;'><img src='assets/crop_1_1789069581571.png' alt='OCR图片'/></div>
-
 <div style='text-align: center;'><img src='assets/crop_1_1789069581575.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789069581586.png' alt='OCR图片'/></div>

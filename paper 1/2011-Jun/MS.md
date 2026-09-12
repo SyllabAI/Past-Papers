@@ -129,8 +129,3 @@ For more information on Edexcel qualifications, please visit www.edexcel.com
 
 Alternatively, you can contact Customer Services at www.edexcel.com/ask or on + 44 1204 770 696
 
-<div style='text-align: center;'><img src='assets/crop_1_1789046583984.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_2_1789046583994.png' alt='OCR图片'/></div>
-
-<div style='text-align: center;'><img src='assets/crop_3_1789046583999.png' alt='OCR图片'/></div>

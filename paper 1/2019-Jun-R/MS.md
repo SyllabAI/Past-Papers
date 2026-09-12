@@ -1,53 +1,27 @@
-<div style='text-align: center;'><img src='assets/crop_1_1789054823087.png' alt='OCR图片'/></div>
-
 PMT
-
 Pearson Edexcel
-
 ## Mark Scheme (Results)
-
 Summer 2019
-
 Pearson Edexcel International GCSE in Chemistry (4CH1) Paper 1CR
-
 ## Edexcel and BTEC Qualifications
-
 Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
-
 ## Pearson: helping people progress, everywhere
-
 Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
-
 Summer 2019
-
 Publications Code 4CH1_1CR_msc_20190822 All the material in this publication is copyright $ \textcircled{c} $ Pearson Education Ltd 2019
-
 ## General Marking Guidance
-
 - All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
-
 - Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
-
 - Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
-
 - There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
-
 - All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
-
 - Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
-
 - When examiners are in doubt regarding the application of the mark scheme to a candidate's response,the team leader must be consulted.
-
 - Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1 a (i)</td><td>melting</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>evaporation</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>sublimation</td><td></td><td>1</td></tr><tr><td>b</td><td>A description that refers to three of the following pointsM1(particles) close togetherM2(particles) regularly arrangedM3(particles) do not move aroundM4(particles) vibrate(about a fixed position)</td><td>ALLOW tightly packed/touchingALLOW arranged in a latticeM1 and M2 can be scored from a diagramALLOW do not move freelyIGNORE references to fixed shape and volume</td><td>3Total 6</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">2 a l</td><td>potassium reacts more vigorously with water than sodium</td><td>√</td><td rowspan="7"></td><td rowspan="7">3</td></tr><tr><td>potassium sinks to the bottom of the water</td><td></td></tr><tr><td>bubbles of oxygen gas are produced</td><td></td></tr><tr><td>a lilac flame is seen</td><td>√</td></tr><tr><td>potassium moves around</td><td>√</td></tr><tr><td>potassium oxide solution is formed</td><td></td></tr><tr><td>b (i)</td><td>any value or range between 11 and 14</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>OH-</td><td></td><td>ACCEPT HO-</td><td>1</td></tr><tr><td>c</td><td>4Na+ (1)O2→2Na2O</td><td></td><td>ACCEPT multiples or fractions</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td>Total 6</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="7">3 a</td><td>A description/diagram which makes reference to the following points</td><td>ALLOW water for solvent throughout</td><td rowspan="7">4</td></tr><tr><td>M1 put (separate) spots of each of the inks on the (pencil) line. OWTTE</td><td>If diagram shows solvent above pencil line only M1 and M2 can be scored</td></tr><tr><td>M2 pour some solvent into the bottom of the beaker OWTTE</td><td></td></tr><tr><td>M3 place the paper in the beaker so that the spots are (just) above the level of the solvent OWTTE</td><td>DO NOT ALLOW M3 if words and diagram contradict each other</td></tr><tr><td rowspan="3">M4 leave until the solvent has risen up the paper (to the top/near the top and then take paper out) OWTTE</td><td>ALLOW leave until inks stopped separating OWTTE</td></tr><tr><td>ALLOW leave until spots/dyes stopped moving OWTTE</td></tr><tr><td>IGNORE references to leaving for a specified length of time</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="6">3b</td><td>An explanation which links the following two points</td><td></td><td></td></tr><tr><td>M1 ink would/might dissolve in the solvent OR pencil would not dissolve in the solvent</td><td>ALLOW water for solvent</td><td></td></tr><tr><td>M2 ink would interfere with/contaminate the results OWTTE</td><td>ALLOW would produce spots/other colours/get mixed up with inks/move up the paper OWTTE</td><td></td></tr><tr><td>OR</td><td>IGNORE smudge/run</td><td></td></tr><tr><td>pencil would not interfere with/contaminate the results OWTTE</td><td>ALLOW pencil would not produce spots/not produce other colours/not get mixed up with the inks/not move up the paper OWTTE</td><td>2</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">3</td><td rowspan="2">c(i)</td><td>For all parts of 3c an explanation which links each of the two points</td><td>ALLOW blob/dot/mark OWTTE for spot</td><td rowspan="2">2</td></tr><tr><td>M1 V
 M2 as it stayed on the start line/did not move</td><td>ACCEPT did not produce spots/did not separate
 ALLOW has Rf value of 0
@@ -55,19 +29,13 @@ M2 DEP on M1</td></tr><tr><td rowspan="2">(ii)</td><td rowspan="2">(ii)</td><td>
 ALLOW have highest Rf value(s)
 M2 DEP on M1</td><td rowspan="2">2</td></tr><tr><td>M2 as they both have a dye/spot that travelled the furthest (up the paper)</td></tr><tr><td rowspan="2">(iii)</td><td rowspan="2">(iii)</td><td>M1 V and W</td><td rowspan="2">ACCEPT as W only has one spot and cannot tell about V (as it does not move/is insoluble)</td><td rowspan="2">2</td></tr><tr><td>M2 as they both only form one spot (on the paper)</td></tr><tr><td></td><td></td><td></td><td>ACCEPT reference to the other inks/X, Y, Z form more than one spot
 M2 DEP on M1</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="5">3 d</td><td>Working or equation for Rf valueCalculating the Rf valueGiving the answer to 2 significant figures</td><td></td><td>3</td></tr><tr><td>M1 4.36.5</td><td>Award one mark if correct equation for finding Rf value seen</td><td></td></tr><tr><td>M2 0.6615</td><td>ACCEPT any number of sig fig</td><td></td></tr><tr><td rowspan="4">M3 0.66</td><td>must be 2 sig fig</td><td></td></tr><tr><td>0.66 with no working scores 3correct answer given to 3 or more sig fig with no working scores 2M3 subsumes M2can score M2 and M3ECF provided use 4.3 and 6.5 and do a division</td><td></td></tr><tr><td></td><td>Total15</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">4 a</td><td>M1(a compound containing the elements/atoms) hydrogen and carbon</td><td>ALLOW molecule/substance for compound</td><td rowspan="3">2</td></tr><tr><td></td><td>REJECT element/atom/mixture for compound</td></tr><tr><td>M2 only</td><td>REJECT ions/molecules for elements/atoms</td></tr><tr><td rowspan="3">b(i)</td><td>C5H12+8O2→5CO2+6H2O</td><td>ACCEPT other equivalent words eg solely</td><td rowspan="3">2</td></tr><tr><td>M1 all formulae correct</td><td>ALLOW fractions/multiples</td></tr><tr><td>M2 balancing of correct formulae</td><td>IGNORE state symbols</td></tr><tr><td rowspan="3">(ii)</td><td>Any two from</td><td></td><td rowspan="3">2</td></tr><tr><td>M1 carbon monoxide</td><td>ACCEPT correct formulae/symbol</td></tr><tr><td>M2 carbon</td><td>ALLOW soot for carbon</td></tr><tr><td rowspan="3">(iii)</td><td>reduces/limits capacity of blood to transport oxygen OWTTE</td><td>ACCEPT prevents blood from carrying oxygen OWTTE</td><td rowspan="3">1</td></tr><tr><td></td><td>ACCEPT correct references to haemoglobin eg prevents haemoglobin from carrying oxygen</td></tr><tr><td>M1</td><td></td><td>2</td></tr></table>
-
 <table border="1"><tr><td>b(iv)</td><td>Chemical structure of b(iv)</td><td></td><td></td></tr><tr><td></td><td>M2
 Chemical structure of M2</td><td>in either order</td><td></td></tr><tr><td rowspan="3">c(i)(ii)(iii)</td><td>CnH2n
 (contains a carbon to carbon) double bond</td><td>ALLOW (contains a carbon to carbon) multiple bond</td><td>1</td></tr><tr><td>A description linking the following two points</td><td></td><td>1</td></tr><tr><td>M1 add bromine water/solutionM2 (bromine water/solution) is decolourised/turns (from orange to) colourless</td><td>ALLOW Br2(aq)IGNORE clearREJECT discolouredIf initial colour of bromine water given it must be correct-ALLOW any combination of orange/yellow/brownM2 dep on M1 or near missALLOWM1 add acidified potassium manganate(VII)M2 (potassium manganate(VII)) is decolourised/turns (from purple to) colourlessREJECT any other initial colour</td><td>Total13</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="5">5</td><td rowspan="5">a (i)</td><td>An explanation linking the following two points</td><td></td><td></td></tr><tr><td>M1 to stop acid (spray) leaving the flask OWTTE</td><td>ALLOW so that only gas can escape (from flask) OWTTE</td><td></td></tr><tr><td></td><td>ALLOW so the only cause of mass loss is gas (escaping)</td><td></td></tr><tr><td></td><td>REJECT stops gas escaping</td><td>2</td></tr><tr><td>M2 as (without cotton wool) mass loss would be too large OWTTE</td><td>REJECT references to substances/impurities/gases entering flask</td><td></td></tr><tr><td rowspan="2">a (ii)</td><td rowspan="2">B gas is given off</td><td></td><td></td></tr><tr><td>A is incorrect as particles moving does not result in mass lossC is incorrect as heat energy being produced does not result in mass lossD is incorrect as marble chips dissolving does not result in mass loss</td><td>1</td></tr><tr><td rowspan="2">b</td><td rowspan="2">CaCO3(s)+2HCl(aq)→CaCl2(aq)+H2O(l)+CO2(g)</td><td>ALLOW upper case</td><td></td></tr><tr><td>All 5 correct scores24,3 correct scores1</td><td>2</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="8">5</td><td rowspan="2">c</td><td>M1 curve steeper than the original curve</td><td></td><td>2</td></tr><tr><td>M2 levels off at the same mass loss/place as original curve</td><td></td><td></td></tr><tr><td rowspan="6">d</td><td>An explanation linking the following three points</td><td></td><td>3</td></tr><tr><td>M1 (rate) increases</td><td></td><td></td></tr><tr><td>M2 more particles in the same volume</td><td>ALLOW particles closer together</td><td></td></tr><tr><td>M3 more (successful) collisions per unit time/more frequent (successful) collisions</td><td>If reference to particles move faster/have more energy MAX1</td><td>3</td></tr><tr><td></td><td>IGNORE references to increased chance/probability of collisions</td><td></td></tr><tr><td rowspan="4">(ii)</td><td>An explanation linking the following three points</td><td></td><td></td></tr><tr><td>M1 (rate) increases</td><td></td><td></td></tr><tr><td>M2 (mean kinetic) energy of particles increases</td><td>ALLOW particles move faster</td><td></td></tr><tr><td>M3 more successful collisions per unit time/more frequent successful collisions OWTTE</td><td>ALLOW reference to more frequent collisions between particles having ≥ activation energy</td><td></td></tr><tr><td></td><td></td><td></td><td>Total 13</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="3">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(a)</td><td colspan="3">Dividing percentages by atomic masses
 Correct results of divisions
 Obtaining ratio by dividing results by smallest value</td><td>0 marks if division by atomic numbers or calculation upside down</td><td>3</td></tr><tr><td></td><td>M1</td><td>C
@@ -92,9 +60,7 @@ Evaluation of correct percentages</td></tr><tr><td></td><td colspan="5">M1 C2H3C
 35.5
 62.5</td><td></td></tr><tr><td></td><td colspan="5">M3 all x 100
 =38.4(%)4.8(%)56.8(%)</td></tr></table>
-
 <table border="1"><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">Question Number</td><td colspan="2">Answer</td><td colspan="2">Notes</td><td>Marks</td></tr><tr><td>(b)</td><td>(i)</td><td colspan="2">FeCl3</td><td colspan="2">REJECT incorrect use of upper and lower case letters, and superscript ACCEPT correct formula as ions Fe3+(Cl-)3</td><td>1</td></tr><tr><td>(ii)</td><td></td><td colspan="2">to increase the rate of the reaction/ to speed up the reaction</td><td colspan="2">ALLOW references to (providing reaction pathway of) lower activation energy</td><td>1</td></tr><tr><td>(iii)</td><td></td><td colspan="2">gives out heat (energy)</td><td colspan="2">ACCEPT thermal energy NOT energy alone</td><td>1</td></tr><tr><td>(iv)</td><td></td><td colspan="2">A additionB is incorrect as this is not a displacement reactionC is incorrect as this is not a neutralisation reactionD is incorrect as this is not a substitution reaction</td><td colspan="2">IGNORE reference to negative△H</td><td>1</td></tr><tr><td>(v)</td><td></td><td colspan="2">C2H4Cl2→C2H3Cl+HCl</td><td colspan="2">IGNORE incorrect use of lower/upper case and superscripts</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(c)(i)</td><td>M1 displayed formula of chloroethene
 C=CCl
 H
@@ -112,9 +78,7 @@ H
 H</td><td>ACCEPT any combination of dots and crosses.
 IGNORE inner shells even if incorrect
 M2 DEP on M1</td><td>2</td></tr><tr><td></td><td></td><td></td><td>Total 13</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">7</td><td rowspan="2">a (i)</td><td>M1 Mg2+</td><td></td><td>2</td></tr><tr><td>M2 NO3-</td><td></td><td></td></tr><tr><td rowspan="5">7</td><td rowspan="5">a (ii)</td><td>Part 1 making magnesium nitrate solution-a description linking any three of the following points</td><td></td><td>6</td></tr><tr><td>M1 warm/heat the acid(in a beaker/flask)</td><td>REJECT boil</td><td></td></tr><tr><td>M2 add magnesium oxide(to acid a little at a time) until in excess/no more dissolves</td><td></td><td></td></tr><tr><td>M3 stir</td><td>M3 DEP on use of acid and oxide</td><td></td></tr><tr><td>M4 filter to remove excess magnesium oxide/excess solid</td><td></td><td></td></tr></table>
-
 <table border="1"><tr><td></td><td>Part 2 using (magnesium nitrate) solution/filtrate - a description linking any three of the following points
 M5 heat/boil (magnesium nitrate solution/filtrate)
 M6 until crystals form in a cooled sample/on glass rod
@@ -127,11 +91,8 @@ ACCEPT decant the (excess) solution IGNORE references to washing the crystals
 REJECT hot oven or any method of direct heating e.g. Bunsen
 ALLOW leave to dry but not just dry the crystals M9 DEP M8
 No M9 if then wash crystals after drying</td></tr></table>
-
 <table border="1"><tr><td>7(b)(i)</td><td>24+(2x14)+(6x16)+(12x1)+(6x16)or equivalent working</td><td>Some working must be seenALLOW24+124+108</td><td>1</td></tr><tr><td>(ii)</td><td>Calculate moles of magnesium nitrateSetting out of calculation of massFinal answerM1moles=(0.05/2)OR0.025M2mass=0.025x256M36.4(g)</td><td>6.4(g)with no working scores3onlyALLOWECFM2fromM1</td><td>3</td></tr><tr><td>(iii)</td><td>Setting out of calculationFinal answerM14.8x1006.4M275(%)ORM14.8x1006M280(%)</td><td>75(%)with or without working scores2marks</td><td>2</td></tr><tr><td></td><td></td><td>80(%)with or without working scores2marksALLOWECFfromb(ii)6.4x1004.8AND6x1004.8both score0</td><td></td></tr><tr><td></td><td></td><td>Answers of25%和20%score1</td><td>Total14</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td colspan="2">8(a)(i)</td><td colspan="2">sodium hydroxide+nitric acid→sodium nitrate+water</td><td>ACCEPTcorrectchemicalequationIGNOREionicequation</td><td>1</td></tr><tr><td colspan="2">(ii)</td><td colspan="2">An explanation which links the following two pointsM1 polystyrene is an insulatorM2 less heat is lost(to the surroundings)</td><td>ALLOWpoor/non-conductor of heatALLOWno heat lostALLOW(polystyrene)retains more heatALLOWreversearguments for glass beaker</td><td>2</td></tr><tr><td colspan="2">(iii)</td><td colspan="2">Any one from(she should)wear eye protection(she should)wear gloves</td><td>ACCEPT(safety)gogglesALLOWsafetyglasses</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>(b)</td><td>(i)</td><td>M1 all points plotted correctly to +/- half a square
 M2 first best fit line drawn with a ruler
 M3 second best fit line drawn with a ruler</td><td>Award MAX 1 if ruler not used for both
@@ -145,9 +106,7 @@ DO NOT PENALISE HERE IF LINES DO NOT CROSS</td><td>3</td></tr><tr><td></td><td>c
 40</td><td></td><td></td></tr><tr><td>(ii)</td><td>(ii)</td><td>M1 volume reading read from graph +/- 0.5(cm3)
 M2 temp reading read from graph to +/- 0.1(℃)</td><td>Award 1 mark if values correct but reversed.
 If lines do not meet or cross or a curve is drawn between the lines 0 marks for (ii)</td><td>2</td></tr><tr><td></td><td></td><td></td><td></td><td>Total 9</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">9(a)</td><td>An explanation linking the following three points</td><td></td><td>3</td></tr><tr><td>M1 covalent bonds are strong</td><td>ACCEPT strong (electrostatic) forces of attraction between the nuclei of atoms and the bonding electrons</td><td></td></tr><tr><td>M2 many (covalent) bonds (need to be broken)</td><td></td><td></td></tr><tr><td>M3 a large amount of (thermal/heat) energy is needed to break the bonds</td><td>IGNORE more energyNOT just heatAny mention of intermolecular forces/forces between molecules or ions/ionic bonding /metallic bonding scores 0 out of 3</td><td></td></tr></table>
-
 <table border="1"><tr><td>(b)(i)</td><td>An explanation linking the following two points
 M1 the intermolecular forces (of attraction) are weak
 M2 therefore little/less (thermal/heat) energy needed to overcome the forces (of attraction)</td><td>ACCEPT London forces/dispersion forces/dipole-dipole forces/Van der Waals forces
@@ -160,7 +119,6 @@ Any mention of (breaking of) covalent/ionic/metallic bonds scores 0 out of 2</td
 (the C60 molecule/it) will not react with the blood/medicine
 (the C60 molecule/it) is non-toxic</td><td>ALLOW any other sensible suggestion
 eg C60 molecule/it is inert/unreactive</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td></tr></table>
-
 <table border="1"><tr><td>(c)</td><td>An explanation linking any five of the following six points but must include M3 and M6 for full marks (graphite is soft because)
 M1 the structure is in layers
 M2 there are weak forces/attractions between the layers (of atoms)
@@ -181,9 +139,6 @@ IGNORE sea of electrons
 IGNORE references to carrying charge/current
 To score M6 the term delocalised electrons must be seen somewhere
 If reference to ions for conduction of electricity no M4 M5 M6</td><td>Total 11</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">10</td><td>(a)(i)</td><td>(because) the zinc (powder) is in excess</td><td>ALLOW (because) not all zinc is used up/reacts ALLOW (because) some zinc is left over ALLOW because copper sulfate is limiting reagent/all reacted/all used up</td><td>1</td></tr><tr><td>(ii)</td><td>M1 blue</td><td>ALLOW qualifiers such as dark/light but no other colours</td><td>2</td></tr><tr><td>(b)(i)</td><td>Calculation of temperature increase Substitution into Q=mcΔT Evaluation Example calculationM1(31.5-19.0)OR12.5M2Q=25x4.18x12.5M3Q=1310(J)</td><td>IGNORE clear ALLOW no colour ALLOW decolourised REJECT discoloured</td><td>3</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table>
-
 <table border="1"><tr><td>(ii)</td><td>n(CuSO4)=(2.00÷159.5)=0.0125</td><td>ACCEPT any number of sig figs except 1</td><td>1</td></tr><tr><td>(iii)</td><td>Division of Q by nEvaluation including conversion of J to kJAnswer given with - signExample calculationM1 Q OR 1300 OR answer to b(i)n0.0125 answer to b(ii)M2 ΔH=(-)104(kJ/mol)M3 Negative sign included</td><td>ACCEPT any number of sig figs in the numerator except 1ACCEPT any number of sig figsALLOW ECF from M1Correct answer with no working and no sign or incorrect sign scores 2Correct answer with no working and correct sign scores 3104.5(04)104.48104.8105 all score 2-104.5(04)-104.48-104.8-105 all score 3</td><td>3Total10</td></tr></table>
-
 Total marks 110

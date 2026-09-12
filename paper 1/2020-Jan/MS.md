@@ -1,43 +1,23 @@
 PMT
 
-<div style='text-align: center;'><img src='assets/crop_1_1789044956249.png' alt='OCR图片'/></div>
-
 ## Mark Scheme (Results)
-
 January 2020
-
 Pearson Edexcel International GCSE in Chemistry (4CH1) Paper 1C
-
 ## Edexcel and BTEC Qualifications
-
 Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
-
 ## Pearson: helping people progress, everywhere
-
 Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
-
 January 2020 Publications Code 4CH1_1C_msc_2020305 All the material in this publication is copyright $ \textcircled{c} $ Pearson Education Ltd 2020
-
 ## General Marking Guidance
-
 - All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
-
 - Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
-
 - Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
-
 - There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
-
 - All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
-
 - Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
-
 - When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
-
 - Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1(a)(i)</td><td>argon/helium</td><td>ACCEPT Ar/He</td><td>1</td></tr><tr><td>(ii)</td><td>nitrogen</td><td>ACCEPT N2</td><td>1</td></tr><tr><td>(iii)</td><td>carbon dioxide</td><td>ACCEPT CO2</td><td>1</td></tr><tr><td>(iv)</td><td>carbon dioxide</td><td>ACCEPT CO2</td><td>1</td></tr><tr><td>(b)(i)</td><td>S+O2→SO2</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>acid rain</td><td>ACCEPT an adverse effect of acid rain e.g. kills fish, damages plants, corrodes limestone/marble buildings/statues etc.IGNORE toxic/pollutant</td><td>1</td></tr><tr><td></td><td></td><td></td><td>Total 6</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="5">2(a)</td><td>name of the part of the atom labelled Z</td><td>nucleus</td><td rowspan="5">ACCEPT +2 / Mg2+</td><td rowspan="5">5</td></tr><tr><td>number of protons in this atom</td><td>12</td></tr><tr><td>number of the group that contains this element</td><td>2</td></tr><tr><td>number of the period that contains this element</td><td>3</td></tr><tr><td>charge on the ion formed from this atom</td><td>2+</td></tr><tr><td>(b)</td><td colspan="2">·calculate sum of mass numbers multiplied by percentage abundances
 ·divide answer by 100
 ·give answer to one decimal place
@@ -48,16 +28,12 @@ M324.3</td><td>REJECT if correct working given but incorrectly evaluated
 ALLOW ECF from M1(24×0.792)+(25×0.100)+(26×0.108)OR24.316 with or without working scores M1 and M2
 ALLOW ECF from M2 if calculated answer is to 1dp</td><td>3
 Total 8</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>3</td><td>(a)</td><td>galvanising</td><td>ACCEPT galvanisation</td><td>1</td></tr><tr><td></td><td>(b)(i)</td><td>rust</td><td></td><td>1</td></tr><tr><td></td><td>(ii)</td><td>M1 oxygen/air</td><td>ACCEPT O2IGNORE O</td><td>2</td></tr><tr><td></td><td></td><td>M2 water</td><td>ACCEPT H2O/moistureACCEPT in either order</td><td></td></tr><tr><td>(c)(i)</td><td>(a reaction which) gives out/produces/releases heat(energy)/thermal energy</td><td>IGNORE energy without mention of heat or thermal</td><td>1</td><td></td></tr><tr><td></td><td>(ii)</td><td>An explanation that links the following two pointsM1 aluminium/Al is more reactive than iron/Fe</td><td>ACCEPT aluminium/Al is higher in reactivity series than iron/FeACCEPT reverse argument</td><td>2</td></tr><tr><td></td><td></td><td>M2 (because) aluminium/Al displaces iron/Fe(from its oxide)</td><td>ALLOW replaces/takes place of</td><td></td></tr><tr><td>(iii)</td><td>An explanation that links the following three pointsM1 aluminium is oxidised and iron/iron oxide is reducedM2 aluminium gains oxygenM3 iron oxide/iron loses oxygen</td><td>ALLOW both oxidation and reduction occurALLOW aluminium/Al loses electronsALLOW iron ions/Fe3+ gains electronsALLOW correct references to changes in oxidation number for M2 and M3</td><td>3</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Total 10</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="3">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">4(a)(i)</td><td></td><td>Mg2+</td><td>Al3+</td><td rowspan="4">1 mark for each correct formula</td><td>3</td></tr><tr><td>S2-</td><td>MgS</td><td>Al2S3</td><td></td></tr><tr><td>NO3-</td><td>Mg(NO3)2</td><td>Al(NO3)3</td><td>NH4NO3</td></tr><tr><td>CO32-</td><td>MgCO3</td><td>Al2(CO3)3</td><td>(NH4)2CO3</td></tr><tr><td>(ii)</td><td colspan="3">ammonium nitrate</td><td></td><td>1</td></tr><tr><td rowspan="4">(b)(i)</td><td colspan="3">M1 electrostatic (force of) attraction</td><td>ALLOW electrostatic force</td><td>2</td></tr><tr><td colspan="3">M2 between oppositely charged ions</td><td>ACCEPT between positive and negative ions
 ACCEPT between cations and anions</td><td>3</td></tr><tr><td colspan="3">[ ]+ [ ]2- [ ]+</td><td>If only outer shells shown correctly scores 1 mark</td><td></td></tr><tr><td colspan="3">M1 correct electron arrangement of both sodium ions
 M2 correct electron arrangement of the oxide ion
 M3 correct charges on all ions (with or without brackets)</td><td>ACCEPT dots in place of crosses or any combination of dots and crosses for M1 and M2</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>Total 9</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">5</td><td>(a)(i)</td><td>S</td><td></td><td>1</td></tr><tr><td>(ii)</td><td>T and U</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>U</td><td></td><td>1</td></tr><tr><td rowspan="11">(b)</td><td rowspan="11"></td><td>A description that makes reference to the following three points</td><td></td><td></td></tr><tr><td>M1(add) bromine water</td><td>ACCEPT Br2(aq)</td><td></td></tr><tr><td>M2 no change / stays orange</td><td>ALLOW no reaction</td><td></td></tr><tr><td></td><td>If initial colour of bromine water is given in M2 or M3 it must be correct-ALLOW any combination of orange/yellow/brown-but penalise once only</td><td></td></tr><tr><td></td><td>If bromine given for M1 then in M2 and M3 allow any combination of red/orange/brown/yellow</td><td></td></tr><tr><td></td><td>M2 and M3 dep on bromine water/bromine in M1</td><td></td></tr><tr><td></td><td>If no reagent and correct M2 and M3-score 1</td><td></td></tr><tr><td></td><td>if incorrect reagent and correct M2 and M3 score 0</td><td></td></tr><tr><td rowspan="4">M3(bromine water) decolourised / changes(from orange) to colourless</td><td>IGNORE clear</td><td></td></tr><tr><td>REJECT discoloured</td><td></td></tr><tr><td>ALLOW M1 acidified potassium manganate(VII)M2 no change/stays purpleM3 decolourised / goes colourless</td><td></td><td>3</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(c)</td><td>Any two of the following points
 M1(can be represented by a) general formula
 M2 each member differs from the next by aCH2group OWTTE
@@ -70,27 +46,20 @@ H-C-C=C-C-H
 H</td><td>ACCEPT cis or trans isomer</td><td>1</td></tr><tr><td></td><td>Or
 H-C-C=C-H
 H</td><td>REJECT displayed formulae of cyclic alkanes</td><td></td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="4">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="5">5 (e)(i)</td><td colspan="4">·Divide percentages by relative atomic masses
 ·Divide results by smallest value to obtain ratio</td><td rowspan="5">0 marks if division by atomic numbers or upside down calculation</td><td rowspan="5">2</td></tr><tr><td colspan="4">Example calculation</td></tr><tr><td>M1</td><td>C36.3612</td><td>H6.061</td><td>F57.5819</td></tr><tr><td>M2</td><td>3.033.03</td><td>6.063.03</td><td>3.033.03</td></tr><tr><td>OR</td><td>1</td><td>2</td><td>1</td></tr><tr><td rowspan="4">(ii)</td><td colspan="4">·divide relative molecular mass by empirical formula mass
 ·correct molecular formula</td><td rowspan="4">ACCEPT symbols in any order
 correct answer without working scores 2 marks.
 2CH2F scores 1</td><td rowspan="4">2</td></tr><tr><td colspan="4">Example calculation</td></tr><tr><td>M1</td><td>6612+2+19</td><td>OR</td><td>6633</td></tr><tr><td>M2</td><td>C2H4F2</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Total 14</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td colspan="2">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="4">6(a)(b)</td><td colspan="2">zinc+hydrochloric acid→zinc chloride+hydrogen</td><td>ACCEPT fully correct chemical equation</td><td>1</td></tr><tr><td>temperature in $ ^{\circ} \mathrm{C} $ after adding zinc</td><td>22.4</td><td rowspan="3">If readings are correct but in wrong order award 1 mark for M1 and M2</td><td rowspan="3">3</td></tr><tr><td>temperature in $ ^{\circ} \mathrm{C} $ before adding zinc</td><td>17.7</td></tr><tr><td>temperature change in $ ^{\circ} \mathrm{C} $</td><td>4.7</td></tr><tr><td rowspan="4">(c)(i)</td><td colspan="2">M1 22.4</td><td rowspan="3">ALLOW ECF for M3 if M1 and/or M2 incorrect If answers not given to nearest $ 0.1 \mathrm{^\circ} \mathrm{C} $ penalise once only</td><td rowspan="3"></td></tr><tr><td colspan="2">M2 17.7</td></tr><tr><td colspan="2">M3 (+)4.7</td></tr><tr><td rowspan="4">(ii)</td><td colspan="2">An explanation that links any two of the following points</td><td>ALLOW is not a(good) conductor of heatALLOW is a poor conductor of heat</td><td></td></tr><tr><td colspan="2">M1 polystyrene is an insulator</td><td>ALLOW prevents heat lossALLOW keeps heat in</td><td></td></tr><tr><td colspan="2">M2 (so) reduces heat loss</td><td>ALLOW temperature rise/change/reading will be closer to true value OWTTE</td><td>2</td></tr><tr><td colspan="2">Any three from</td><td>ALLOW size / surface area of metal</td><td></td></tr><tr><td rowspan="4">(ii)</td><td colspan="2">M1 amount/mass of metal</td><td>ALLOW amount of acid</td><td></td></tr><tr><td colspan="2">M2 concentration of acid</td><td></td><td></td></tr><tr><td colspan="2">M3 volume of acid</td><td></td><td></td></tr><tr><td colspan="2">M4 (speed/time of) stirring</td><td></td><td></td></tr><tr><td></td><td colspan="2">M5 external / room temperature</td><td>ALLOW initial /starting temperature</td><td>3</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(d)(i)</td><td>no reaction(occurred between copper and hydrochloric acid)</td><td>IGNORE copper is unreactive ALLOW copper is less reactive than hydrogen</td><td>1</td></tr><tr><td>(ii)</td><td>Any value between1.5and5.0℃inclusive</td><td></td><td>1</td></tr><tr><td>(iii)</td><td>most reactive magnesium zinc iron tin copper</td><td>ACCEPT symbols</td><td>1</td></tr><tr><td></td><td></td><td></td><td>Total12</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Marks</td></tr><tr><td>7(a)(i)</td><td>B bromine</td><td>1</td></tr><tr><td rowspan="2">(ii)</td><td>A is incorrect as astatine is a solid</td><td rowspan="2">1</td></tr><tr><td>C is incorrect as chlorine is a gas</td></tr><tr><td rowspan="8">(iii)</td><td>D is incorrect as iodine is a solid</td><td rowspan="8">1</td></tr><tr><td>C chlorine (as it is pale green)</td></tr><tr><td>A is incorrect as astatine is black</td></tr><tr><td>B is incorrect as bromine is brown</td></tr><tr><td>C is incorrect as iodine is dark grey</td></tr><tr><td>A astatine</td></tr><tr><td>B is incorrect as bromine is more reactive than astatine</td></tr><tr><td>C is incorrect as chlorine is more reactive than astatine</td><td>D is incorrect as iodine is more reactive than astatine</td></tr></table>
-
 <table border="1"><tr><td>(b)(i)</td><td>M1(colourless solution turns) brown
 M2(solution stays) brown/no change</td><td>ALLOW no reaction</td><td>2</td></tr><tr><td>(ii)</td><td>bromine would not react with(sodium) bromide/bromine cannot displace itself OWTTE</td><td>ALLOW bromine cannot react withitself
 ALLOW both containbromine/sameelement/samehalogen
 ALLOW because no reaction would occurREJECT bromine cannot displacebromide</td><td>1</td></tr><tr><td>(iii)</td><td>Br2+2NaI→2NaBr+I2</td><td>ACCEPT correctionic equationBr2+2I-→2Br-+I2
 ALLOW multiplesand fractions</td><td>1</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="11">7(c)</td><td>A description that makes reference to the following6 points</td><td></td><td></td></tr><tr><td>Test for cation</td><td></td><td></td></tr><tr><td>M1 add sodium hydroxide(solution)</td><td>ALLOW ammonia solution</td><td></td></tr><tr><td>M2 if blue precipitate forms solution containscopper(II) ion(s)/containsCu2+/is a coppercompound</td><td>IGNORE qualifiersREJECT other colours</td><td></td></tr><tr><td>M3 if green precipitate forms solution containsiron(II) ion(s)/containsFe2+/is an iron compound</td><td>IGNORE qualifiersREJECT other colours</td><td></td></tr><tr><td></td><td>If no reagent orincorrect reagent butcorrectM2 and M3score1</td><td></td></tr><tr><td></td><td>ALLOWM1 flame test ordescription of flame test</td><td></td></tr><tr><td></td><td>M2 if blue-green(flame)solution containscopper(II) ion(s)/containsCu2+/is a coppercompound</td><td></td></tr><tr><td></td><td>No M3 for this test</td><td></td></tr><tr><td></td><td>ALLOWM1 addition of suitablemetal aboveCu inreactivity series</td><td></td></tr><tr><td></td><td>M2 brown/pink/pink-brown solid forms</td><td></td><td></td></tr><tr><td></td><td></td><td>No M3 for this test</td><td></td></tr></table>
-
 <table border="1"><tr><td>Test for anion
 M4 add silver nitrate (solution)
 M5 if white precipitate forms solution contains chloride ion(s) contains Cl- is a chloride
@@ -101,12 +70,10 @@ ALLOW
 M4 add chlorine water (to solution)
 M5 if turns orange/yellow/brown solution contains bromide ion(s) contains Br- is a bromide
 No M6 for this test</td><td>Total 13</td></tr></table>
-
 <table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>8</td><td>(a)(i)</td><td>sublimation / subliming</td><td></td><td>1</td></tr><tr><td></td><td>(ii)</td><td>M1 (add to/bubble into) limewater</td><td></td><td>2</td></tr><tr><td></td><td></td><td>M2 (limewater) turns cloudy/milky</td><td>ACCEPT forms white precipitate
 M2 DEP M1</td><td></td></tr><tr><td>(b)</td><td></td><td>An explanation that links the following two points</td><td></td><td></td></tr><tr><td></td><td></td><td>M1 weak forces (of attraction) between molecules / weak intermolecular forces (of attraction)</td><td>ALLOW weak intermolecular bonds
 ALLOW weak intermolecular attractions</td><td></td></tr><tr><td></td><td></td><td>M2 little energy needed to overcome the (intermolecular) forces</td><td>IGNORE less energy
 ALLOW little energy needed to separate the molecules</td><td></td></tr><tr><td></td><td></td><td></td><td>M2 DEP M1 correct or missing</td><td>2</td></tr></table>
-
 <table border="1"><tr><td>(c)</td><td>Any explanation that links any three of the following points for diamond
 M1 each (carbon) atom is (covalently) bonded to four other (carbon) atoms
 M2 in a (giant) tetrahedral lattice /network/ structure
@@ -128,9 +95,7 @@ ALLOW sheets
 ALLOW slippery
 If mention of intermolecular forces in graphite MAX 2 for graphite
 If mention of ions in graphite only M9 can be scored</td><td>6</td></tr><tr><td></td><td></td><td></td><td>Total 11</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>9(a)</td><td>to minimise/prevent (mass loss by) evaporation of the (liquid) fuel OWTTE</td><td>ALLOW to find mass of fuel used/burned</td><td>1</td></tr><tr><td>(b)(i)</td><td>soot/carbon</td><td>REJECT copper oxide</td><td>1</td></tr><tr><td>(ii)</td><td>An explanation that links the following two points.M1 incomplete combustion (occurs)M2 (because) the air/oxygen supply is limited OWTTE</td><td>ALLOW mark for soot/carbon if not seen in(i), unless copper oxide is mentioned in(i)If copper oxide in(i)ALLOW 1 mark for(because) copper reacts with oxygen(in air)</td><td>2</td></tr><tr><td>(c)(i)</td><td> substitution intoQ=mcΔT calculation of heat energy in Joules conversion to kJExample calculationM1Q=100x4.2x30M2=12600(J)M3=12.6kJ</td><td>12600(J) with no working scores M1 and M2M2 ECF M1ALLOW approximately=13kJ12.6kJ with no working scores3</td><td>3</td></tr></table>
-
 <table border="1"><tr><td>(ii)</td><td>calculate the amount, in moles, of methanol
 divide Q by the amount in moles
 give the answer with the correct sign
@@ -140,9 +105,6 @@ M2 12.6÷0.03 OR 420(kJ/mol)
 M3-420(kJ/mol)</td><td>ACCEPT 13÷0.03
 OR 430/433 for M2
 AND-430/433 for M3</td><td>3</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>9(d)(i)</td><td>M1 all points plotted correctlyM2 line of best fit drawn with a ruler</td><td>does not need to start at(0,0)</td><td>2</td></tr><tr><td></td><td>(ii)M1 straight line extrapolated up to 6 carbon atomsM2 value of ΔH read from their graph</td><td>ALLOW extra point shown at 6 carbon atomsnegative sign needed</td><td>2</td></tr><tr><td></td><td>(iii)The greater the number of carbon atoms(per molecule) the greater(the magnitude/value of) ΔH</td><td>ALLOW ΔH is(directly) proportional to the number of carbon atoms per moleculeALLOW The greater the number of carbon atoms(per molecule) the more exothermic the ΔH value</td><td>1</td></tr><tr><td></td><td></td><td></td><td>Total 15</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>10(a)(i)</td><td>$4\text{NH}_{3}+5\text{O}_{2}\rightleftharpoons 4\text{NO}+6\text{H}_{2}\text{O}$</td><td>ACCEPT multiples and fractions</td><td>1</td></tr><tr><td>(ii)</td><td>reversible (reaction)</td><td>ACCEPT reaction that goes both ways / both forwards and backwards reactions occur</td><td></td></tr><tr><td>(iii)</td><td>to increase the rate of the reaction / to speed up the reaction OWTTE</td><td>IGNORE references to equilibrium</td><td>1</td></tr><tr><td>(b)</td><td>$2\text{NO}+\text{O}_{2}\rightarrow 2\text{NO}_{2}$</td><td>IGNORE references to lowering the activation energy</td><td>1</td></tr><tr><td>(c)(i)</td><td>calculate $M_{\mathrm{r}}$ of $\text{NO}_{2}$ and $\text{HNO}_{3}$calculate the amount, in moles, of $\text{NO}_{2}$calculate the amount, in moles, of $\text{HNO}_{3}$calculate the mass in tonnes of $\text{HNO}_{3}$Example calculationM1 $M_{\mathrm{r}}$ of $\text{NO}_{2}=46$ $M_{\mathrm{r}}$ of $\text{HNO}_{3}=63$M2 $n(\text{NO}_{2})=11.5\times 10^{6}\div 46$ OR 250 000 (mol)M3 $n(\text{HNO}_{3})=\frac{2\times 250000}{3}$ OR 167 000 / 170 000ALLOW working in megamoles i.e. 11.5÷46 OR 0.25ALLOW ECF from incorrect Mr of $\text{NO}_{2}$calculator answer 166666.66ALLOW working in megamoles i.e. $\frac{2\times 0.25}{3}$ OR 0.167 / 0.17ALLOW ECF from M2M4 (167 000 x 63 g)=10.5 (tonnes)10.5 (tonnes) with no working scores 4ACCEPT 10.7 (if 170 000 used)ALLOW ECF from M3ALLOW ECF from incorrect $M_{\mathrm{r}}$ of $\text{HNO}_{3}$can be (re)used in stage 2 / to make more nitrogen dioxide (in stage 2) / can be used to make more nitric acidIGNORE can be recycled/reused unless qualified</td><td>4</td></tr></table>
-
 <table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>10(d)</td><td>calculate the amount, in moles, of copper(II) nitratecalculate the theoretical yield, in moles, of copper(II) nitratecalculate the percentage yieldExample calculationM1nCu(NO3)2formed=15.3÷187.5OR0.0816M2theoreticalnCu(NO3)2=0.200÷2OR0.100M3(% yield)=(0.0816x100)/(0.100)81.6(%)40.8 scores2Alternative methodcalculate the theoretical yield, in moles, of copper(II) nitratecalculate the theoretical mass of copper nitrate that should be formedcalculate the percentage yieldExample calculationM1theoreticalnCu(NO3)2=0.200÷2OR0.100M2theoretical mass of copper nitrate=0.1x187.5=18.75M3(% yield)=(15.3/18.75)x100=81.6(%)81.6(%) with no working scores3 marksTotal12</td><td>ALLOW0.0823ACCEPT82(%)Mark M3 CSQ on M1and M240.8 scores2ALLOW18.8ACCEPT82(%)Mark M3 CSQ on M1and M240.8 scores281.6(%) with no working scores3 marks</td><td></td></tr></table>
