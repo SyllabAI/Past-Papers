@@ -64,13 +64,11 @@ stage 3
 <div align="center">
 (1) 
 </div>
-b) (i) A liquid that dis
 A solute
 B solution
 C solvent
 D suspension
 (ii) The clear liquid that forms in stage 1 is a
-(ii) The clear liquid
 A solute
 B solution
 C solvent

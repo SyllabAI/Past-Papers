@@ -211,7 +211,8 @@ Concentration
 Explanation
 <table border="1"><tr><td>Rate of reaction in $ \mathrm{c m^{3}/min} $</td><td>4.0</td><td>9.0</td><td>13.5</td><td>18.5</td><td>23.0</td></tr><tr><td>Concentration of acid in mol/dm3</td><td>0.4</td><td>0.8</td><td>1.2</td><td>1.6</td><td>2.0</td></tr></table>
 <div align="center">
-Plot these results on the grid. Draw a straight line of best fit through the points.
+(d)
+(i) Plot these results on the grid. Draw a straight line of best fit through the points.
 </div>
 Rate of reaction in $ \mathrm{c m^{3} / m i n} $
 <div style='text-align: center;'><img src='assets/crop_1_1789047129258.png' alt='OCR图片'/></div>

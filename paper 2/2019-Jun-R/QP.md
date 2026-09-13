@@ -72,8 +72,8 @@ A sample of boron contains 18.7% of boron-10 and 81.3% of boron-11.
 Calculate the relative atomic mass of this sample of boron.
 relative atomic mass=
 (Total for Question 2 = 7 marks)
-(a) The diagram shows crude oil being separated into different fractions.
 3 Crude oil is an important source of organic compounds.
+(a) The diagram shows crude oil being separated into different fractions.
 <div style='text-align: center;'><img src='assets/crop_1_1789069581385.png' alt='OCR图片'/></div>
 (i) Name the process used to separate crude oil into different fractions.
 <div align="center">
