@@ -108,7 +108,7 @@ $$
 (d) Although the thermite reaction is exothermic, it only begins after a lot of heat energy is supplied.
 How is this heat energy supplied?
 (Total for Question 3 = 5 marks)
-<div style='text-align: center;'><img src='assets/crop_1_1789069376369.png' alt='OCR图片'/></div>
+
 4 (a) Ethanol can be manufactured by two different processes.
 Process 1 sucrose $ \xrightarrow[]{stage1} $ glucose $ \xrightarrow[]{stage2} $ ethanol
 Process 2 ethene $ \longrightarrow $ ethanol

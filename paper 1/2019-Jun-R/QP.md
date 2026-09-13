@@ -238,4 +238,4 @@ $$
 Include a sign in your answer.
 (Total for Question 10 = 10 marks)
 TOTAL FOR PAPER = 110 MARKS
-<div style='text-align: center;'><img src='assets/crop_1_1789054868286.png' alt='OCR图片'/></div>
+

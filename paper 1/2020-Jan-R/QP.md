@@ -205,7 +205,7 @@ Explain the shape of graph 2.
 <div align="center">
 (3) 
 </div>
-<div style='text-align: center;'><img src='assets/crop_2_1789044667685.png' alt='OCR图片'/></div>
+
 8 (a) The diagram shows the arrangement of electrons in an atom of calcium and in an atom of chlorine.
 <div style='text-align: center;'><img src='assets/crop_1_1789044667697.png' alt='OCR图片'/></div>
 <div style='text-align: center;'><img src='assets/crop_2_1789044667721.png' alt='OCR图片'/></div>
