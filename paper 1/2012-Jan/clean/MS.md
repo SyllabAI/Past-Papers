@@ -1,39 +1,3 @@
-PMT
-
-edexcel
-
-Mark Scheme (Results)
-
-January 2012
-
-International GCSE Chemistry (4CH0)
-Paper 1C
-Science Double Award (4SC0) Paper
-1C
-
-ALWAYS LEARNING PEARSON
-
-PMT
-
-Edexcel and BTEC Qualifications
-Edexcel and BTEC qualifications come from Pearson, the world's leading learning company. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information, please call our GCE line on 0844 576 0025, our GCSE team on 0844 576 0027, or visit our qualifications website at www.edexcel.com. For information about our BTEC qualifications, please call 0844 576 0026, or visit our website at www.btec.co.uk.
-
-If you have any subject specific questions about this specification that require the help of a subject specialist, you may find our Ask The Expert email service helpful.
-
-Ask The Expert can be accessed online at the following link:
-
-http://www.edexcel.com/Aboutus/contact-us/
-
-Alternatively, you can speak directly to a subject specialist at Pearson about Edexcel qualifications on our dedicated Science telephone line: 0844 576 0037
-
-Pearson: helping people progress, everywhere
-Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
-
-January 2012
-Publications Code UG030278
-All the material in this publication is copyright
-© Pearson Education Ltd 2012
-
 INTERNATIONAL GCSE CHEMISTRY 4CH0 4SC0 /1C – JANUARY 2012
 
 <table border="1">
@@ -1232,25 +1196,3 @@ Total 11 marks
 PMT
 
 PMT
-
-Further copies of this publication are available from
-Edexcel Publications, Adamsway, Mansfield, Notts, NG18 4FN
-
-Telephone 01623 467467
-Fax 01623 450481
-Email publication.orders@edexcel.com
-Order Code xxxxxxxx January 2012
-
-For more information on Edexcel qualifications, please visit
-www.edexcel.com/quals
-
-Pearson Education Limited. Registered company number 872828
-with its registered office at Edinburgh Gate, Harlow, Essex CM20 2JE
-
-Ofqual
-
-Llywodraeth Cynulliad Cymru
-Welsh Assembly Government
-
-cea
-Rewarding Learning
