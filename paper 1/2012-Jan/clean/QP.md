@@ -1,97 +1,3 @@
-Write your name here
-
-<table border="1"><tr><td>Surname</td><td>Other names</td></tr></table>
-
-Edexcel
-International GCSE
-
-Centre Number
-[ ] [ ] [ ] [ ] [ ]
-
-Candidate Number
-[ ] [ ] [ ] [ ] [ ]
-
-Chemistry
-Unit: 4CH0
-Science (Double Award) 4SC0
-Paper: 1C
-
-Friday 13 January 2012 – Morning
-Time: 2 hours
-
-Paper Reference
-4CH0/1C
-4SC0/1C
-
-You must have:
-Ruler
-Calculator.
-
-Total Marks
-[ ]
-
-Instructions
-- Use black ink or ball-point pen.
-- Fill in the boxes at the top of this page with your name, centre number and candidate number.
-- Answer all questions.
-- Answer the questions in the spaces provided – there may be more space than you need.
-- Show all the steps in any calculations and state the units.
-
-Information
-- The total mark for this paper is 120.
-- The marks for each question are shown in brackets – use this as a guide as to how much time to spend on each question.
-
-Advice
-- Read each question carefully before you start to answer it.
-- Keep an eye on the time.
-- Write your answers neatly and in good English.
-- Try to answer every question.
-- Check your answers if you have time at the end.
-
-Turn over
-
-P40126A
-©2012 Pearson Education Ltd.
-1/1/11/
-
-P 4 0 1 2 6 A 0 1 2 8
-
-PEARSON
-
-THE PERIODIC TABLE
-
-Group
-1 2 3 4 5 6 7 0
-
-Period
-
-1 H Hydrogen 1 He Helium 4 2
-
-2 Li Lithium 3 Be Beryllium 4 B Boron 5 C Carbon 6 N Nitrogen 7 O Oxygen 8 F Fluorine 9 Ne Neon 10
-
-3 Na Sodium 11 Mg Magnesium 12 Al Aluminium 13 Si Silicon 14 P Phosphorus 15 S Sulfur 16 Cl Chlorine 17 Ar Argon 18
-
-4 K Potassium 19 Ca Calcium 20 Sc Scandium 21 Ti Titanium 22 V Vanadium 23 Cr Chromium 24 Mn Manganese 25 Fe Iron 26 Co Cobalt 27 Ni Nickel 28 Cu Copper 29 Zn Zinc 30 Ga Gallium 31 Ge Germanium 32 As Arsenic 33 Se Selenium 34 Br Bromine 35 Kr Krypton 36
-
-5 Rb Rubidium 37 Sr Strontium 39 Y Yttrium 40 Zr Zirconium 41 Nb Niobium 42 Mo Molybdenum 43 Tc Technetium 44 Ru Ruthenium 45 Rh Rhodium 46 Pd Palladium 47 Ag Silver 48 Cd Cadmium 49 In Indium 50 Sn Tin 51 Sb Antimony 52 Te Tellurium 53 I Iodine 54 Xe Xenon 55
-
-6 Cs Caesium 55 Ba Barium 56 La Lanthanum 57 Hf Hafnium 72 Ta Tantalum 73 W Tungsten 74 Re Rhenium 75 Os Osmium 76 Ir Iridium 77 Pt Platinum 78 Au Gold 79 Hg Mercury 80 Tl Thallium 81 Pb Lead 82 Bi Bismuth 83 Po Polonium 84 At Astatine 85 Radon 86
-
-7 Fr Francium 87 Ra Radium 88 Ac Actinium 89
-
-Key
-
-Relative atomic mass
-Symbol
-Name
-Atomic number
-
-BLANK PAGE
-
-PMT
-
-Answer ALL questions.
-
 1 Salt is soluble in water, but sand is insoluble in water. This difference allows a mixture of salt and sand to be separated using this apparatus.
 
 Step 1
@@ -278,7 +184,6 @@ Precaution .....................................................................
 
 (Total for Question 3 = 13 marks)
 
-PMT
 
 4 A student set up the following apparatus.
 
@@ -675,7 +580,6 @@ The remainder is oxygen.
 ...........................................................................................................................
 (Total for Question 9 = 18 marks)
 
-PMT
 
 10 Like other metals, iron is malleable and is a good conductor of electricity.
 
@@ -810,7 +714,6 @@ Give your answer to one decimal place.
 
 Rate = .........................
 
-PMT
 
 (d) Another group of students used the same method but with different solutions of sodium thiosulfate and hydrochloric acid. They calculated the rate of reaction for each experiment they did. Their results are shown on the following graph.
 
@@ -840,7 +743,3 @@ Concentration of sodium thiosulfate solution in g/dm³
 (Total for Question 11 = 11 marks)
 
 TOTAL FOR PAPER = 120 MARKS
-
-BLANK PAGE
-
-BLANK PAGE

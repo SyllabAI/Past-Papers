@@ -179,7 +179,7 @@ Calculate the maximum mass, in tonnes, of sulfur trioxide that can be produced i
 Describe two experiments the student could perform, using some of the solutions, to show the order of reactivity of bromine, chlorine and iodine.
 Your answer should include the observations that the student would expect to make, and a chemical equation for one of the reactions.
 (Total for Question 8 = 5 marks)
-<div style='text-align: center;'><img src='assets/crop_1_1789063974947.png' alt='OCR图片'/></div>
+
 9 Nitrogen dioxide $ \left( \mathrm{N O}_{2} \right) $ is a brown gas.
 Dinitrogen tetraoxide $ \left(\mathrm{N}_{2} \mathrm{O}_{4}\right) $ is a colourless gas.
 The two gases can exist together in dynamic equilibrium according to the equation

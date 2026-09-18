@@ -698,25 +698,16 @@
     "QP": {
      "original_name": "June 2014 (R) QP - Paper 2C Edexcel Chemistry IGCSE-2026-09-10_19-43-05.md",
      "path": "QP.md",
-     "sha256": "78d67bd9c00a214071d645902eff11b3055f3b95643ab64a40e7623df40fd6c6"
+     "sha256": "682b67c88046c069c57b11ea4d6a03d3c4c8aaa7bb90a9fcbb91beeac9254da7"
     }
    },
-   "image_count": 5,
+   "image_count": 4,
    "images": {
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034236383bc0e277a744e3%2Fcrop_1_1789069376359.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=RH%2FZOz8n%2BwjWbhMHbwVs%2Bk%2B9YGY%3D&Expires=1789674176": {
      "saved_as": "crop_1_1789069376359.png",
      "bytes": 36085,
      "format": "jpeg",
      "sha256": "3d8eb118ab584f217b0258429ad12357bca972e85e7ce8c9a8c4db232acb4046",
-     "referenced_by": [
-      "QP.md"
-     ]
-    },
-    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034236383bc0e277a744e3%2Fcrop_1_1789069376369.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=vHpUaZ65EHzRNmLRc5lDK65Qies%3D&Expires=1789674176": {
-     "saved_as": "crop_1_1789069376369.png",
-     "bytes": 109158,
-     "format": "jpeg",
-     "sha256": "da1bfadc8abfc74fbe5975be38f3ddef48f24198b5026631f13dd67e24ca6e5c",
      "referenced_by": [
       "QP.md"
      ]
@@ -760,10 +751,10 @@
     "QP": {
      "original_name": "January 2015 QP - Paper 2C Edexcel Chemistry IGCSE-2026-09-10_18-12-57.md",
      "path": "QP.md",
-     "sha256": "d72903ee825831ea03c0d0ba4f1887ddfddc06dd7ee1e7281fb69c883be6adc9"
+     "sha256": "39ea89014200c2913012d27a5248aa59e617447dab39a4e2f1af0f0c756e6979"
     }
    },
-   "image_count": 8,
+   "image_count": 7,
    "images": {
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911021238a32f8769e5ca4ec2%2Fcrop_1_1789063974792.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=m6Z8GtuuHs3nAvkagddPRPiHiM0%3D&Expires=1789668774": {
      "saved_as": "crop_1_1789063974792.png",
@@ -810,15 +801,6 @@
       "QP.md"
      ]
     },
-    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911021238a32f8769e5ca4ec2%2Fcrop_1_1789063974947.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=sTC741yLMM511K%2B5wKTsITgO6LU%3D&Expires=1789668774": {
-     "saved_as": "crop_1_1789063974947.png",
-     "bytes": 104873,
-     "format": "jpeg",
-     "sha256": "d843c16e87b4ec7bd6021e6f17552edfb3152859d8055a86d14e41ef517357d3",
-     "referenced_by": [
-      "QP.md"
-     ]
-    },
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911021238a32f8769e5ca4ec2%2Fcrop_2_1789063974865.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=y%2BCeC5H%2FRWrbMP7%2BcVyqtBwdDPQ%3D&Expires=1789668774": {
      "saved_as": "crop_2_1789063974865.png",
      "bytes": 13236,
@@ -849,10 +831,10 @@
     "QP": {
      "original_name": "June 2015 QP - Paper 2C Edexcel Chemistry IGCSE-2026-09-10_19-44-10.md",
      "path": "QP.md",
-     "sha256": "face72f4a8764f5f66c2bfd57e38e7887ec4a46c9b67672d54827404a5bc39fe"
+     "sha256": "cf86dcb6d961469df2c939ed2af67ffe72b11c656d32461b5e76482c64fc20d5"
     }
    },
-   "image_count": 9,
+   "image_count": 8,
    "images": {
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034317b7d77c5d23774de8%2Fcrop_1_1789069430789.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=I1yeq4WZL9BGxi2RcuP39rzBnUo%3D&Expires=1789674230": {
      "saved_as": "crop_1_1789069430789.png",
@@ -895,15 +877,6 @@
      "bytes": 16415,
      "format": "jpeg",
      "sha256": "93fc086598867502f6cf1ffaba084d4e14c112577dca7c3d14a97352d2366c6b",
-     "referenced_by": [
-      "QP.md"
-     ]
-    },
-    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034317b7d77c5d23774de8%2Fcrop_1_1789069430991.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=hvC4l6rJyQAM%2F1iC9EozjD4VfYQ%3D&Expires=1789674230": {
-     "saved_as": "crop_1_1789069430991.png",
-     "bytes": 104911,
-     "format": "jpeg",
-     "sha256": "548dfed42829bea79b5a0ea3ee96e2a1adc15e11f6522562ba694ff20f1a6f6e",
      "referenced_by": [
       "QP.md"
      ]
@@ -1009,7 +982,8 @@
     "QP": {
      "original_name": "June 2016 QP - Paper 2C Edexcel Chemistry IGCSE-2026-09-10_19-44-40.md",
      "path": "QP.md",
-     "sha256": "431606b12abc8c3039e4b4396a24431f328dfff53e1704975f7d71b60e4b3099"
+     "sha256": "821c1d9f59677ffd1a6c48c1c5305bde636d863603696027e6bd268290b74088",
+     "post_correction_sha256_of": "431606b12abc8c3039e4b4396a24431f328dfff53e1704975f7d71b60e4b3099"
     }
    },
    "image_count": 13,
@@ -2071,10 +2045,11 @@
     "QP": {
      "original_name": "June 2019 (R) QP-2026-09-10_19-46-25.md",
      "path": "QP.md",
-     "sha256": "b5524ad345abad0fe9765a0a508fb9ba4be38fea11e55e8d9d67774f925f6063"
+     "sha256": "018dc797a48327677eb3cc823ebb85665a8d82edf3a5997042f3fad28256c837",
+     "post_correction_sha256_of": "169ef8cc2c47fbf9f19770685d94f714328da9e2391d471ac5a18d7eba237e29"
     }
    },
-   "image_count": 8,
+   "image_count": 5,
    "images": {
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034552474d3ed262994640%2Fcrop_1_1789069581323.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=%2FJJHNB%2FegKQuBP%2FcWDuIO60ahlg%3D&Expires=1789674381": {
      "saved_as": "crop_1_1789069581323.png",
@@ -2094,38 +2069,11 @@
       "QP.md"
      ]
     },
-    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034552474d3ed262994640%2Fcrop_1_1789069581404.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=MVZqhJjpvAtaIuF%2F%2BYv8HYCc%2Bek%3D&Expires=1789674381": {
-     "saved_as": "crop_1_1789069581404.png",
-     "bytes": 301250,
-     "format": "jpeg",
-     "sha256": "8b168008e02ae4bb7982b29ded9fe7b06b7ed46e25c54de0af5d1f2892a27d41",
-     "referenced_by": [
-      "QP.md"
-     ]
-    },
-    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034552474d3ed262994640%2Fcrop_1_1789069581489.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=8yJRQwneFahDNYpbfAV0LBy8GRA%3D&Expires=1789674381": {
-     "saved_as": "crop_1_1789069581489.png",
-     "bytes": 294004,
-     "format": "jpeg",
-     "sha256": "89fe1629d57336edc681af51bcf8a19c7d9abba0e06f5762d08d96d69efda5e7",
-     "referenced_by": [
-      "QP.md"
-     ]
-    },
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034552474d3ed262994640%2Fcrop_1_1789069581532.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=0lUTYikgMtlCvetTB6J7m%2BtzzzU%3D&Expires=1789674381": {
      "saved_as": "crop_1_1789069581532.png",
      "bytes": 12453,
      "format": "jpeg",
      "sha256": "a0474725cdc8a3987a3ff9635d36fb13d413d4766cdf4d9e8266692dcaba5d0d",
-     "referenced_by": [
-      "QP.md"
-     ]
-    },
-    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034552474d3ed262994640%2Fcrop_1_1789069581575.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=mLtrDamkZZrfq1Glk3GsK1RQMhM%3D&Expires=1789674381": {
-     "saved_as": "crop_1_1789069581575.png",
-     "bytes": 182517,
-     "format": "jpeg",
-     "sha256": "41fc6ac0186041225338bc6e97862b0ba5bc5c1b558f363e0b027776532801a9",
      "referenced_by": [
       "QP.md"
      ]
@@ -3554,7 +3502,8 @@
     "QP": {
      "original_name": "June 2024 (R) QP-2026-09-10_19-50-15.md",
      "path": "QP.md",
-     "sha256": "be35905e00ebd13d4c7b6572568454b886c7fd80bd5b34ded7bde7bd4aa127c8"
+     "sha256": "98c01335384bb9d14aaf42f25236b0fe3b9df2da0627a88d2b1f2a5060d314e0",
+     "post_correction_sha256_of": "be35905e00ebd13d4c7b6572568454b886c7fd80bd5b34ded7bde7bd4aa127c8"
     }
    },
    "image_count": 8,
@@ -4628,6 +4577,25 @@
    "Specimen-2017": [
     "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F202609111330010aaf5e21cf6945e3%2Fcrop_1_1789104627895.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=CF8ZxrBwlEEopFAOEedZHk6dU2o%3D&Expires=1789709427"
    ]
+  },
+  "corrections": {
+   "2026-09-13 commit 88507eb (part-numbering fixes, MS-witnessed)": {
+    "detail": "QP sha256 refreshed after OCR part-numbering corrections; pre-correction hash preserved per file entry in post_correction_sha256_of. MS.md untouched.",
+    "files": {
+     "2016-Jun/QP.md": {
+      "before": "431606b12abc8c3039e4b4396a24431f328dfff53e1704975f7d71b60e4b3099",
+      "after": "821c1d9f59677ffd1a6c48c1c5305bde636d863603696027e6bd268290b74088"
+     },
+     "2019-Jun-R/QP.md": {
+      "before": "169ef8cc2c47fbf9f19770685d94f714328da9e2391d471ac5a18d7eba237e29",
+      "after": "018dc797a48327677eb3cc823ebb85665a8d82edf3a5997042f3fad28256c837"
+     },
+     "2024-Jun-R/QP.md": {
+      "before": "be35905e00ebd13d4c7b6572568454b886c7fd80bd5b34ded7bde7bd4aa127c8",
+      "after": "98c01335384bb9d14aaf42f25236b0fe3b9df2da0627a88d2b1f2a5060d314e0"
+     }
+    }
+   }
   }
  },
  "structural_repair": {
@@ -4639,5 +4607,28 @@
    "2015-Jun/QP.md",
    "2020-Jan-R/QP.md"
   ]
+ },
+ "operator_cleanup_2": {
+  "date_utc": "2026-09-13 03:50:36 UTC",
+  "description": "Second operator review pass (commit aa9cfe6): 9 residual page-furniture crops deleted (answer-line strips, BLANK PAGE frames, do-not-write borders) that the first pass missed. MD image references were removed programmatically in this commit; QP/MS checksums recomputed; manifest entries dropped and image_count updated. Original GLM-OCR URLs of the removed files are preserved below per session.",
+  "removed_image_count": 6,
+  "removed_images": {
+   "2014-Jun-R": [
+    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260910214030feef264d92c54c4f%2Fcrop_2_1789047663863.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=Dj96n7gX8pZucajV8ezgvhgAhe8%3D&Expires=1789652463",
+    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034236383bc0e277a744e3%2Fcrop_1_1789069376369.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=vHpUaZ65EHzRNmLRc5lDK65Qies%3D&Expires=1789674176"
+   ],
+   "2015-Jan": [
+    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911021238a32f8769e5ca4ec2%2Fcrop_1_1789063974947.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=sTC741yLMM511K%2B5wKTsITgO6LU%3D&Expires=1789668774"
+   ],
+   "2015-Jun": [
+    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034317b7d77c5d23774de8%2Fcrop_1_1789069430991.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=hvC4l6rJyQAM%2F1iC9EozjD4VfYQ%3D&Expires=1789674230"
+   ],
+   "2019-Jun-R": [
+    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F202609102340396949d6bad574481c%2Fcrop_1_1789054868286.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=aGHHleir8UWJmFz1xk2OQf2XISg%3D&Expires=1789659668",
+    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034552474d3ed262994640%2Fcrop_1_1789069581404.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=MVZqhJjpvAtaIuF%2F%2BYv8HYCc%2Bek%3D&Expires=1789674381",
+    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034552474d3ed262994640%2Fcrop_1_1789069581489.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=8yJRQwneFahDNYpbfAV0LBy8GRA%3D&Expires=1789674381",
+    "https://maas-watermark-prod-new.cn-wlcb.ufileos.com/ocr%2Fcrop%2F20260911034552474d3ed262994640%2Fcrop_1_1789069581575.png?UCloudPublicKey=TOKEN_6df395df-5d8c-4f69-90f8-a4fe46088958&Signature=mLtrDamkZZrfq1Glk3GsK1RQMhM%3D&Expires=1789674381"
+   ]
+  }
  }
 }

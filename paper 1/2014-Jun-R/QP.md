@@ -267,7 +267,7 @@ Balance reading in grams
 (i) Which one of the experiments, R, S or T, was the fastest?
 (ii) The concentration of the hydrogen peroxide solution in experiment S was $ 0. 4 0 \mathrm{m o l} / \mathrm{d m}^{3}. $ Use the graph to deduce the concentration of the hydrogen peroxide solution in experiment T.
 State how you deduced your answer.
-<div style='text-align: center;'><img src='assets/crop_2_1789047663863.png' alt='OCR图片'/></div>
+
 (e) Another student repeated the investigation.
 She recorded the time for the total mass of the beaker and contents to decrease by 0.50 g in each experiment. She then converted the times to relative rates of reaction.
 The table shows the concentrations she used and the relative rates of reaction she calculated.

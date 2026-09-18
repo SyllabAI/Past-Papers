@@ -72,8 +72,8 @@ A sample of boron contains 18.7% of boron-10 and 81.3% of boron-11.
 Calculate the relative atomic mass of this sample of boron.
 relative atomic mass=
 (Total for Question 2 = 7 marks)
-(a) The diagram shows crude oil being separated into different fractions.
 3 Crude oil is an important source of organic compounds.
+(a) The diagram shows crude oil being separated into different fractions.
 <div style='text-align: center;'><img src='assets/crop_1_1789069581385.png' alt='OCR图片'/></div>
 (i) Name the process used to separate crude oil into different fractions.
 <div align="center">
@@ -91,7 +91,7 @@ relative atomic mass=
 (b) Crude oil often contains sulfur as an impurity.
 Explain why this is a problem when using crude oil fractions as fuels.
 (Total for Question 3 = 8 marks)
-<div style='text-align: center;'><img src='assets/crop_1_1789069581404.png' alt='OCR图片'/></div>
+
 4 This question is about the halogens and their compounds.
 (a) The table gives the colour and physical state at room temperature of the halogens.
 Complete the table by predicting the colour of astatine and the physical state of fluorine at room temperature.
@@ -138,7 +138,7 @@ methyl propanoate
 (ii) Give the name of the other product of this reaction.
 (d) Give one use of esters.
 (Total for Question 5 = 11 marks)
-<div style='text-align: center;'><img src='assets/crop_1_1789069581489.png' alt='OCR图片'/></div>
+
 6 When a bottle of wine is left open for several days, some of the ethanol in the wine turns to ethanoic acid, $ \mathrm{C H_{3} C O O H} $
 (a) A scientist uses a titration method to investigate how much ethanoic acid is formed if a bottle of white wine is left open for one week.
 She uses this method.
@@ -202,4 +202,4 @@ Predict the effect of this change on the yield of hydrogen at equilibrium, givin
 Predict the effect of this change on the yield of hydrogen at equilibrium, giving a reason for your answer.
 (c) Calculate the volume, in $ \mathrm{d m}^{3} $ of hydrogen gas at rtp that is produced when 10 tonnes of methane gas completely react with steam.
 <table><tr><td>10 tonnes of methane gas completely react with steam.</td></tr><tr><td>[molar volume of hydrogen at rtp is 24 dm³]</td></tr><tr><td>Give your answer in standard form.</td></tr><tr><td>(4)</td></tr><tr><td>volume of hydrogen = dm³</td></tr><tr><td>(Total for Question 7 = 9 marks)</td></tr><tr><td>TOTAL FOR PAPER = 70 MARKS</td></tr></table>
-<div style='text-align: center;'><img src='assets/crop_1_1789069581575.png' alt='OCR图片'/></div>
+

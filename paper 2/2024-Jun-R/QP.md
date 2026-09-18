@@ -179,10 +179,10 @@ The table gives the bond energies.
 (iii) Draw an energy level diagram for the reaction between ethene and steam.
 Label the enthalpy change, $ \Delta H. $
 Energy
-(i) Complete the equation by adding the displayed formula of ester A.
 (c) Ethanoic acid reacts with ethanol to form ester A and water.
 <div style='text-align: center;'><img src='assets/crop_1_1789069812205.png' alt='OCR图片'/></div>
 ester A
+(i) Complete the equation by adding the displayed formula of ester A.
 (ii) Give the name of ester A.
 (Total for Question 7 = 15 marks)
 TOTAL FOR PAPER = 70 MARKS

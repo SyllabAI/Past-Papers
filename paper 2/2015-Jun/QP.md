@@ -178,7 +178,7 @@ Calculate the amount, in moles, of lithium iodide in 6.3 g.
 Complete the energy level diagram to show the position of the lithium iodide solution.
 Label the diagram to show $ \Delta H $ , the molar enthalpy change.
 <div style='text-align: center;'><img src='assets/crop_1_1789069430979.png' alt='OCR图片'/></div>
-<div style='text-align: center;'><img src='assets/crop_1_1789069430991.png' alt='OCR图片'/></div>
+
 6 Magnesium and its compounds have many uses.
 Magnesium is never found as an element in the Earth's crust, but its compounds occur naturally in rocks and seawater.
 (a) Suggest why magnesium is not found as an element in the Earth's crust.
