@@ -1,0 +1,618 @@
+<table><tr><td colspan="2">Please check the examination details below before entering your candidate information</td></tr><tr><td>Candidate surname</td><td>Other names</td></tr><tr><td>Centre Number</td><td>Candidate Number</td></tr><tr><td colspan="2">Pearson Edexcel International GCSE (9-1)</td></tr><tr><td colspan="2">Thursday 25 May 2023</td></tr><tr><td>Morning (Time: 2 hours)</td><td>Paper reference 4PH1/1PR 4SD0/1PR</td></tr><tr><td colspan="2">Physics
+UNIT: 4PH1
+Science (Double Award) 4SD0
+PAPER: 1PR</td></tr><tr><td colspan="2">You must have:
+Ruler, calculator, Equation Booklet (enclosed)</td></tr><tr><td colspan="2">Total Marks</td></tr></table>
+
+## Instructions
+
+- Use black ink or ball-point pen.
+
+- If pencil is used for diagrams/sketches/graphs it must be dark (HB or B).
+
+- Fill in the boxes at the top of this page with your name, centre number and candidate number.
+
+- Answer all questions.
+
+- Answer the questions in the spaces provided
+
+- there may be more space than you need.
+
+- Show all the steps in any calculations and state the units.
+
+## Information
+
+- The total mark for this paper is 110.
+
+- The marks for each question are shown in brackets
+
+- use this as a guide as to how much time to spend on each question.
+
+## Advice
+
+- Read each question carefully before you start to answer it.
+
+- Write your answers neatly and in good English.
+
+- Try to answer every question.
+
+- Check your answers if you have time at the end.
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724573878.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724573927.png' alt='OCR图片'/></div>
+
+## FORMULAE
+
+You may find the following formulae useful.
+
+$$
+\mathrm {e n e r g y t r a n s f e r r e d} = \mathrm {c u r r e n t} \times \mathrm {v o l t a g e} \times \mathrm {t i m e}
+$$
+
+$$
+E = I \times V \times t
+$$
+
+$$
+\mathrm {f r e q u e n c y} = \frac {1}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+f = \frac {1}{T}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {w o r k d o n e}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {e n e r g y t r a n s f e r r e d}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {o r b i t a l s p e e d} = \frac {2 \pi \times \mathrm {o r b i t a l r a d i u s}}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+v = \frac {2 \times \pi \times r}{T}
+$$
+
+(final speed) $ ^{2} $ = (initial speed) $ ^{2} $ + (2 $ \times $ acceleration $ \times $ distance moved)
+
+$$
+v ^ {2} = u ^ {2} + (2 \times a \times s)
+$$
+
+$$
+\mathrm {p r e s s u r e} \times \mathrm {v o l u m e} = \mathrm {c o n s t a n t}
+$$
+
+$$
+p _ {1} \times V _ {1} = p _ {2} \times V _ {2}
+$$
+
+$$
+\frac {\mathrm {p r e s s u r e}}{\mathrm {t e m p e r a t u r e}} = \mathrm {c o n s t a n t}
+$$
+
+$$
+\frac {p _ {1}}{T _ {1}} = \frac {p _ {2}}{T _ {2}}
+$$
+
+Where necessary, assume the acceleration of free fall, $ g=1 0 \mathrm{~ m} / \mathrm{s}^{2}. $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724573933.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724573940.png' alt='OCR图片'/></div>
+
+## Answer ALL questions.
+
+Some questions must be answered with a cross in a box. If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
+
+1 This question is about the electromagnetic spectrum.
+
+(a) The table gives some statements about the electromagnetic spectrum.
+
+Place three ticks ( $ \checkmark $ ) in the table to show which statements are correct.
+
+<table border="1"><tr><td>Statement</td><td>Correct</td></tr><tr><td>all electromagnetic waves are longitudinal</td><td></td></tr><tr><td>all electromagnetic waves travel at the same speed in free space</td><td></td></tr><tr><td>radio waves have the longest wavelength in the electromagnetic spectrum</td><td></td></tr><tr><td>x-rays have the highest frequency in the electromagnetic spectrum</td><td></td></tr><tr><td>all electromagnetic waves transfer energy</td><td></td></tr><tr><td>all electromagnetic waves can cause cancer</td><td></td></tr></table>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724573947.png' alt='OCR图片'/></div>
+
+(b) Electromagnetic waves can be useful, but can also be harmful.
+
+(i) Give one use and one harmful effect of microwaves.
+
+use
+
+harmful effect
+
+(ii) Give one use and one harmful effect of gamma rays.
+
+use
+
+harmful effect
+
+(Total for Question 1 = 7 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724573958.png' alt='OCR图片'/></div>
+
+2 The photograph shows the International Space Station (ISS) in orbit around the Earth.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724573963.png' alt='OCR图片'/></div>
+
+(Source: $ \textcircled{c} $ Dima Zel/Shutterstock)
+
+(a) The ISS orbits the Earth in a circular orbit Which of these also orbits the Earth?
+
+A a comet
+
+B Mars
+
+the Moon
+
+D the Sun
+
+(b) Which of these forces causes the ISS to orbit the Earth?
+
+A air resistance
+
+B electrostatic
+
+C friction
+
+Gravitational D
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724573969.png' alt='OCR图片'/></div>
+
+(c) The ISS completes one orbit of the Earth in a time period of 93 minutes.
+
+(i) The orbital radius of the ISS is $ 6. 8 \times1 0^{3} $ km.
+
+Calculate the orbital speed of the ISS in km/s.
+
+$$
+\mathrm {o r b i t a l s p e e d} =
+$$
+
+(ii) Show that the ISS completes approximately 15 orbits of the Earth each day.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574012.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574019.png' alt='OCR图片'/></div>
+
+3 A model electric motor is used to lift a load through a vertical height.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574024.png' alt='OCR图片'/></div>
+
+(a) The load has a mass of 400g and gains 3.2J of energy in its gravitational store when lifted.
+
+(i) State the formula linking gravitational potential energy, mass, gravitational field strength (g) and height.
+
+(ii) Calculate the height the load is lifted.
+
+(iii) State the amount of useful work done on the load by the motor when the load is lifted through this height.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574057.png' alt='OCR图片'/></div>
+
+(b) The load is lifted at a constant speed.
+
+Diagram 1 shows the lifting force acting on the load as it is lifted.
+
+Draw a labelled arrow on diagram 1 to show the other force acting on the load.
+
+Ignore the effects of air resistance.
+
+lifting force
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574067.png' alt='OCR图片'/></div>
+
+## Diagram 1
+
+(c) A joulemeter measures the amount of energy transferred electrically to the motor as the motor lifts the load.
+
+The joulemeter displays a reading of 11.0 J when the load has gained 3.2 J of energy in its gravitational store.
+
+(i) Calculate the efficiency of the motor.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574071.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789724574091.png' alt='OCR图片'/></div>
+
+(ii) Justify why 7.8 J of energy must be dissipated into the thermal store of the surroundings as the load is lifted.
+
+(iii) Diagram 2 is an incomplete Sankey diagram. Complete the Sankey diagram to show the energy transferred by the motor.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574097.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574105.png' alt='OCR图片'/></div>
+
+4 This question is about magnets.
+
+(a) Which of these substances is not attracted to a bar magnet?
+
+A cobalt
+
+B copper
+
+iron C
+
+D nickel
+
+(b) Diagram 1 shows a bar magnet.
+
+N
+
+## Diagram 1
+
+Draw magnetic field lines on diagram 1 to show the shape and direction of the magnetic field around the bar magnet.
+
+(c) Some bar magnets are made of steel.
+
+Explain why steel is a good material for making bar magnets.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574111.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574116.png' alt='OCR图片'/></div>
+
+(d) Diagram 2 shows a cross-section through a wire placed between two magnetic poles.
+
+The direction of the current in the wire is out of the page.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574124.png' alt='OCR图片'/></div>
+
+## Diagram 2
+
+(i) Draw an arrow on diagram 2 to show the direction of the force on the wire due to the magnetic field.
+
+Assume that the magnetic field is uniform.
+
+(ii) State two changes that could be made that would decrease the magnitude of the force on the wire in diagram 2.
+
+<div align="center">
+
+(Total for Question 4 = 10 marks)
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574146.png' alt='OCR图片'/></div>
+
+5 A car is travelling in a straight line along a road.The car passes a person standing at the side of the road.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574152.png' alt='OCR图片'/></div>
+
+Before passing the person, the driver of the car presses the car's horn. The horn makes a loud sound of constant frequency.
+
+The horn continues to make a sound until after the car has passed the person.
+
+Discuss the differences in the frequencies of the sound heard by
+
+- the driver of the car
+
+- the person at the side of the road
+
+(Total for Question 5 = 6 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574169.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789724574199.png' alt='OCR图片'/></div>
+
+6 A student investigates how the current in a 60 $ \Omega $ resistor varies with the voltage across the resistor.
+
+- connecting wires
+
+(a) The student has access to this equipment
+
+- 12 V battery
+
+- variable resistor
+
+- ammeter and voltmeter
+
+- Draw a circuit diagram to show how the student could connect this equipment to carry out the investigation.
+
+- 60 $ \Omega $ resistor
+
+- switch
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574215.png' alt='OCR图片'/></div>
+
+(b) Describe a suitable method the student could use for this investigation.
+
+(c) (i) Complete the current-voltage graph by drawing a line that shows the expected results of the investigation.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574237.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574272.png' alt='OCR图片'/></div>
+
+(ii) The student repeats their investigation with a 120 $ \Omega $ resistor.
+
+Explain how a current-voltage graph for a 120 $ \Omega $ resistor compares with the current-voltage graph for the 60 $ \Omega $ resistor.
+
+(Total for Question 6 = 14 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574279.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574291.png' alt='OCR图片'/></div>
+
+7 Protactinium is an element with several different radioactive isotopes.
+
+(a) Protactinium-234 has a half-life of 6.7 hours.
+
+A sample of protactinium-234 has an initial activity of 800 units.
+
+(i) Give a suitable unit for activity.
+
+(ii) On the axes below, sketch a graph for the decay of the sample of protactinium-234 during its first three half-lives.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574308.png' alt='OCR图片'/></div>
+
+(iii) When protactinium-234 undergoes beta $ \beta^{-} $ decay it becomes uranium-234. The incomplete nuclear equation shows this process.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574322.png' alt='OCR图片'/></div>
+
+Complete the nuclear equation to show the beta decay of protactinium-234. Write your answers in the dashed boxes.
+
+<div style='text-align: center;'><img src='assets/crop_3_1789724574341.png' alt='OCR图片'/></div>
+
+(b) A student suggests an experiment to determine the type of radiation emitted by a different isotope of protactinium, protactinium-231.
+
+This is the suggested method.
+
+Step 1 connect a suitable radiation detector to a radiation counter
+
+Step 2 place a source of protactinium-231 at a fixed distance of 3 cm from the radiation detector
+
+Step 3 record the count of detected radiation for a time of one minute
+
+Step 4 place a sheet of paper between the source and detector
+
+Step 5 record the count of detected radiation for a time of one minute
+
+Step 6 repeat Steps 4 and 5 using a sheet of aluminium and then a sheet of lead instead of the sheet of paper
+
+The table shows the results of the investigation when it is done by a teacher.
+
+<table border="1"><tr><td>Material between source and detector</td><td>Count</td></tr><tr><td>no material</td><td>261</td></tr><tr><td>paper</td><td>14</td></tr><tr><td>aluminium</td><td>11</td></tr><tr><td>lead</td><td>13</td></tr></table>
+
+(i) Which of these is the dependent variable in the investigation?
+
+A count measured by the detector
+
+B distance between source and detector
+
+C material between source and detector
+
+D time the count is measured
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574347.png' alt='OCR图片'/></div>
+
+(ii) The student's method does not allow for background radiation.
+
+Describe how the student's method should be modified to allow for background radiation.
+
+(iii) Describe how the student's method could be modified to improve the reliability of the results.
+
+(iv) Evaluate the data from the experiment to conclude the type of radiation emitted by protactinium-231.
+
+(Total for Question 7 = 15 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574353.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574380.png' alt='OCR图片'/></div>
+
+8 Diagram 1 shows a set of masses attached to a spring, which is suspended from a support.
+
+<div align="center">
+
+support
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574387.png' alt='OCR图片'/></div>
+
+## Diagram 1
+
+The student measures the extension of the spring as 11.5 cm.
+
+(a) After the masses are added,the length of the spring is 14.6 cm.
+
+(i) Calculate the original length of the spring.
+
+original length=
+
+(ii) The student removes the masses and notices that the spring does not show elastic behaviour.
+
+Predict a value for the new length of the spring after the masses have been removed.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574396.png' alt='OCR图片'/></div>
+
+(b) The student puts the masses back on the spring.
+
+The student then pulls the masses down and releases them.
+
+The masses vibrate up and down in a vertical direction, as shown in diagram 2.
+
+<div align="center">
+
+support
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574408.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Diagram 2
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574422.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789724574429.png' alt='OCR图片'/></div>
+
+The distance-time graph shows how the distance between the top of the masses and the support changes with time as the masses vibrate.
+
+Distance
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574433.png' alt='OCR图片'/></div>
+
+(i) Explain how the gradient of the graph shows that the masses accelerate as they vibrate.
+
+(ii) Add crosses (X) to the distance-time graph to show all the times when the masses are not moving.
+
+(Total for Question 8 = 7 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574457.png' alt='OCR图片'/></div>
+
+9 The driver of a racing car makes a pit stop during a race to change the tyres on the racing car.
+
+The area where the tyres are changed is called the pit lane.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574468.png' alt='OCR图片'/></div>
+
+(Source: $ \textcircled{c} $ Hafiz Johari/Shutterstock)
+
+(a) Before entering the pit lane, the speed of the car must decrease for safety reasons.
+
+(i) The mass of the racing car is 830kg.
+
+The maximum braking force is 41000 N.
+
+Show that the maximum deceleration of the racing car is approximately $ 5 0 \mathrm{m} / \mathrm{s}^{2}. $
+
+(ii) The racing car is travelling at an initial speed of 72 m/s.
+
+Calculate the minimum distance needed to decrease the speed of the racing car from 72m/s to 26m/s.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574478.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789724574489.png' alt='OCR图片'/></div>
+
+(b) The racing car slows down using its brakes.
+
+The brakes work using friction.
+
+The brakes become very hot when the racing car slows down.
+
+Using ideas about energy, explain why the brakes become hot.
+
+(c) The tyres of the racing car also get very hot during a race.
+
+A mechanic has to handle the hot tyres during the pit stop.
+
+They wear protective gloves which have several layers of insulating materials.
+
+Explain how the layers of insulating materials in the gloves reduce the risk of the mechanic burning their hands on the hot tyres.
+
+(Total for Question 9 = 11 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574508.png' alt='OCR图片'/></div>
+
+10 A dam is a structure designed to hold water in a reservoir.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574541.png' alt='OCR图片'/></div>
+
+(a) The water in the reservoir has a depth of 35 m.
+
+(i) State the formula linking pressure difference, height, density and g.
+
+(ii) Atmospheric pressure at the surface of the reservoir is 100 kPa. Calculate the total pressure at the bottom of the reservoir. [for water, density = 1000kg/m $ ^{3} $]
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574553.png' alt='OCR图片'/></div>
+
+(b) An underwater camera is used in the water reservoir. The camera lens experiences a force of 430N at a pressure of 260 kPa.
+
+(i) State the formula linking pressure, force and area.
+
+(ii) Calculate the area of the camera lens. Give a suitable unit.
+
+(c) Sea water has a density of $ 1 0 3 0 \mathrm{k g} / \mathrm{m}^{3}. $
+
+Explain how the design of the dam would need to be changed to hold the same depth of sea water safely.
+
+(Total for Question 10 = 11 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574562.png' alt='OCR图片'/></div>
+
+11 The gravitational field strength of a planet decreases with increasing distance from the planet.
+
+The table shows the value of the gravitational field strength of Mars at different distances from the centre of Mars.
+
+<table border="1"><tr><td>Distance from centre of Mars inkm</td><td>Gravitational field strength inN/kg</td></tr><tr><td>4000</td><td>2.66</td></tr><tr><td>5000</td><td>1.70</td></tr><tr><td>6000</td><td>1.18</td></tr><tr><td>7000</td><td>0.87</td></tr><tr><td>8000</td><td>0.67</td></tr><tr><td>9000</td><td>0.53</td></tr></table>
+
+(a) A student finds this formula in a textbook, which links distance from the centre of a planet to its gravitational field strength
+
+gravitational field strength $ \times $ distance $ ^{2} $ = constant
+
+Use data from the table to justify this formula.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574567.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574577.png' alt='OCR图片'/></div>
+
+(b) Olympus Mons is the tallest mountain on Mars.
+
+The distance between the centre of Mars and the peak of Olympus Mons is 3410km.
+
+Calculate the gravitational field strength at the peak of Olympus Mons.
+
+(Total for Question 11 = 7 marks)
+
+## TOTAL FOR PAPER=110 MARKS
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574589.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574594.png' alt='OCR图片'/></div>
+
+<table border="1"><tr><td>Morning(Time:2hours)</td><td>Paper reference</td><td>4PH1/1PR 4SD0/1PR</td></tr><tr><td colspan="3">Physics
+UNIT:4PH1
+Science(Double Award)4SD0
+PAPER:1PR</td></tr><tr><td colspan="3">Equation Booklet
+Do not return this Booklet with the question paper.</td></tr></table>
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574627.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724574631.png' alt='OCR图片'/></div>
+
+These equations may be required for both International GCSE Physics (4PH1) and International GCSE Combined Science (4SD0) papers.
+
+<table border="1"><tr><td colspan="2">1. Forces and Motion</td></tr><tr><td colspan="2">average speed $=\frac{distance\ moved}{time\ taken}$</td></tr><tr><td>acceleration $=\frac{change\ in\ velocity}{time\ taken}$</td><td>$a=\frac{(v-u)}{t}$</td></tr><tr><td colspan="2">$(final\ speed)^2=(initial\ speed)^2+(2\times acceleration\times distance\ moved)$
+$v^2=u^2+(2\times a\times s)$</td></tr><tr><td>force $=$ mass $\times$ acceleration</td><td>F=m$\times$a</td></tr><tr><td>weight $=$ mass $\times$ gravitational field strength</td><td>W=m$\times$g</td></tr><tr><td colspan="2">2. Electricity</td></tr><tr><td>power $=$ current $\times$ voltage</td><td>P=I$\times$V</td></tr><tr><td>energy transferred $=$ current $\times$ voltage $\times$ time</td><td>E=I$\times$V$\times$t</td></tr><tr><td>voltage $=$ current $\times$ resistance</td><td>V=I$\times$R</td></tr><tr><td>charge $=$ current $\times$ time</td><td>Q=I$\times$t</td></tr><tr><td>energy transferred $=$ charge $\times$ voltage</td><td>E=Q$\times$V</td></tr><tr><td colspan="2">3. Waves</td></tr><tr><td>wave speed $=$ frequency $\times$ wavelength</td><td>v=f$\times$λ</td></tr><tr><td>frequency $=\frac{1}{time\ period}$</td><td>f=$\frac{1}{T}$</td></tr><tr><td>refractive index $=\frac{\sin(\angle\ of\ incidence)}{\sin(\angle\ of\ refraction)}$</td><td>n=$\frac{\sin i}{\sin r}$</td></tr><tr><td>$\sin(\mathrm{critical\ angle})=\frac{1}{\mathrm{refractive\ index}}$</td><td>$\sin c=\frac{1}{n}$</td></tr></table>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574642.png' alt='OCR图片'/></div>
+
+<table border="1"><tr><td colspan="2">4. Energy resources and energy transfers</td></tr><tr><td colspan="2">efficiency $=\frac{\text{useful energy output}}{\text{total energy output}}\times100\%$</td></tr><tr><td>work done $=\text{force}\times\text{distance moved}$</td><td>$W=F\times d$</td></tr><tr><td colspan="2">gravitational potential energy $=\text{mass}\times\text{gravitational field strength}\times\text{height}$</td></tr><tr><td colspan="2">GPE $=m\times g\times h$</td></tr><tr><td>kinetic energy $=\frac{1}{2}\times\text{mass}\times\text{speed}^{2}$</td><td>$KE=\frac{1}{2}\times m\times v^{2}$</td></tr><tr><td>power $=\frac{\text{work done}}{\text{time taken}}$</td><td>$P=\frac{W}{t}$</td></tr><tr><td colspan="2">5. Solids, liquids and gases</td></tr><tr><td>density $=\frac{\text{mass}}{\text{volume}}$</td><td>$\rho=\frac{m}{V}$</td></tr><tr><td>pressure $=\frac{\text{force}}{\text{area}}$</td><td>$p=\frac{F}{A}$</td></tr><tr><td colspan="2">pressure difference $=\text{height}\times\text{density}\times\text{gravitational field strength}$</td></tr><tr><td colspan="2">$p=h\times\rho\times g$</td></tr><tr><td>$\frac{\text{pressure}}{\text{temperature}}=\text{constant}$</td><td>$\frac{p_{1}}{T_{1}}=\frac{p_{2}}{T_{2}}$</td></tr><tr><td>pressure $\times$ volume $=\text{constant}$</td><td>$p_{1}\times V_{1}=p_{2}\times V_{2}$</td></tr><tr><td colspan="2">8. Astrophysics</td></tr><tr><td>orbital speed $=\frac{2\times\pi\times\text{orbital radius}}{\text{time period}}$</td><td>$v=\frac{2\times\pi\times r}{T}$</td></tr></table>
+
+The equations on the following page will only be required for International GCSE Physics.
+
+<table border="1"><tr><td colspan="2">1. Forces and Motion</td></tr><tr><td>momentum=mass×velocity</td><td>p=m×v</td></tr><tr><td>force=$\frac{\text{change in momentum}}{\text{time taken}}$</td><td>F=$\frac{(mv-mu)}{t}$</td></tr><tr><td colspan="2">moment=force×perpendicular distance from the pivot</td></tr><tr><td colspan="2">5. Solids, liquids and gases</td></tr><tr><td colspan="2">change in thermal energy=mass×specific heat capacity×change in temperature
+$\Delta Q=m\times c\times \Delta T$</td></tr><tr><td colspan="2">6. Magnetism and electromagnetism</td></tr><tr><td colspan="2">relationship between input and output voltages for a transformer
+$\frac{\text{input (primary) voltage}}{\text{output (secondary) voltage}}=\frac{\text{primary turns}}{\text{secondary turns}}$</td></tr><tr><td colspan="2">input power=output power
+$V_{p}I_{p}=V_{s}I_{s}$
+for 100% efficiency</td></tr><tr><td colspan="2">8. Astrophysics</td></tr><tr><td>$\frac{\text{change in wavelength}}{\text{reference wavelength}}=\frac{\text{velocity of a galaxy}}{\text{speed of light}}$</td><td>$\frac{\lambda-\lambda_{0}}{\lambda_{0}}=\frac{\Delta\lambda}{\lambda_{0}}=\frac{v}{c}$</td></tr></table>
+
+END OF EQUATION LIST
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724574666.png' alt='OCR图片'/></div>

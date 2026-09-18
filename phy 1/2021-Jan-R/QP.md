@@ -1,0 +1,501 @@
+<table><tr><td colspan="3">Please check the examination details below before entering your candidate information</td></tr><tr><td>Candidate surname</td><td colspan="2">Other names</td></tr><tr><td colspan="3">Centre Number Candidate Number</td></tr><tr><td colspan="3">Pearson Edexcel International GCSE (9-1)</td></tr><tr><td colspan="3">Tuesday 12 January 2021</td></tr><tr><td>Morning (Time: 2 hours)</td><td colspan="2">Paper Reference 4PH1/1PR 4SD0/1PR</td></tr><tr><td colspan="3">Physics
+Unit: 4PH1
+Science (Double Award) 4SD0
+Paper: 1PR</td></tr><tr><td colspan="2">You must have:
+Ruler, protractor, calculator</td><td>Total Marks</td></tr></table>
+
+## Instructions
+
+- Use black ink or ball-point pen.
+
+- Fill in the boxes at the top of this page with your name, centre number and candidate number.
+
+- Answer all questions.
+
+- Show all steps in any calculations and state the units.
+
+- Some questions must be answered with a cross in a box . If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
+
+## Information
+
+- The total mark for this paper is 110.
+
+- The marks for each question are shown in brackets
+
+- use this as a guide as to how much time to spend on each question.
+
+## Advice
+
+- Read each question carefully before you start to answer it.
+
+- Write your answers neatly and in good English.
+
+- Try to answer every question.
+
+- Check your answers if you have time at the end.
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723237650.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723237700.png' alt='OCR图片'/></div>
+
+## FORMULAE
+
+You may find the following formulae useful.
+
+$$
+\mathrm {e n e r g y t r a n s f e r r e d} = \mathrm {c u r r e n t} \times \mathrm {v o l t a g e} \times \mathrm {t i m e}
+$$
+
+$$
+E = I \times V \times t
+$$
+
+$$
+\mathrm {f r e q u e n c y} = \frac {1}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+f = \frac {1}{T}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {w o r k d o n e}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {e n e r g y t r a n s f e r r e d}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {o r b i t a l s p e e d} = \frac {2 \pi \times \mathrm {o r b i t a l r a d i u s}}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+v = \frac {2 \times \pi \times r}{T}
+$$
+
+(final speed) $ ^{2} $ = (initial speed) $ ^{2} $ + (2 $ \times $ acceleration $ \times $ distance moved)
+
+$$
+v ^ {2} = u ^ {2} + (2 \times a \times s)
+$$
+
+$$
+\mathrm {p r e s s u r e} \times \mathrm {v o l u m e} = \mathrm {c o n s t a n t}
+$$
+
+$$
+p _ {1} \times V _ {1} = p _ {2} \times V _ {2}
+$$
+
+$$
+\frac {\mathrm {p r e s s u r e}}{\mathrm {t e m p e r a t u r e}} = \mathrm {c o n s t a n t}
+$$
+
+$$
+\frac {p _ {1}}{T _ {1}} = \frac {p _ {2}}{T _ {2}}
+$$
+
+Where necessary, assume the acceleration of free fall, $ g=1 0 \mathrm{~ m} / \mathrm{s}^{2}. $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723237754.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723237789.png' alt='OCR图片'/></div>
+
+## Answer ALL questions.
+
+1 (a) The boxes give some situations and some energy stores.
+
+Draw one straight line from each situation to the energy store that decreases for that situation.
+
+The first one has been done for you.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723237803.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723237849.png' alt='OCR图片'/></div>
+
+(b) Energy is transferred when a filament lamp is connected to a battery.
+
+(i) Which method of energy transfer takes place between the battery and the lamp?
+
+B heating
+
+electrical
+
+机械
+
+(ii) Which method of energy transfer takes place between the lamp and the surroundings?
+
+D radiation
+
+A electrical
+
+B light radiation
+
+机械
+
+D sound radiation
+
+(Total for Question 1 = 6 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723237857.png' alt='OCR图片'/></div>
+
+2 The diagram shows the apparatus used to demonstrate the existence of electromagnetic radiation just beyond the visible spectrum.
+
+Electromagnetic radiation from the Sun passes through a slit and a prism.
+
+The electromagnetic radiation refracts through the prism onto the screen.
+
+Five thermometers are placed in front of the screen.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723237861.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723237893.png' alt='OCR图片'/></div>
+
+(a) Complete the table to show the missing parts of the electromagnetic spectrum.
+
+<table border="1"><tr><td>Thermometer</td><td>Part of electromagnetic spectrum</td></tr><tr><td>P</td><td></td></tr><tr><td>Q</td><td>red light</td></tr><tr><td>R</td><td></td></tr><tr><td>S</td><td>violet light</td></tr><tr><td>T</td><td></td></tr></table>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789723237932.png' alt='OCR图片'/></div>
+
+(b) Suggest why the lower part of each thermometer should be painted black.
+
+(c) The equipment is left for a short period of time.
+
+The thermometers now show higher temperatures than before.
+
+State the part of the electromagnetic spectrum in this demonstration that would give the largest temperature increase.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723237986.png' alt='OCR图片'/></div>
+
+3 The diagram shows two objects orbiting a star.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238004.png' alt='OCR图片'/></div>
+
+(a) Object X has a circular orbit around the star.
+
+State the type of object that has a circular orbit around a star.
+
+(b) Object Y has an elliptical orbit around the star.
+
+State the type of object that has an elliptical orbit around a star.
+
+(c) Object X completes an orbit of the star in 35 days.
+
+The radius of its orbit is $ 1. 5 \times1 0^{1 1} \mathrm{~ m} $.
+
+Calculate the orbital speed of object X.
+
+orbital speed =
+
+(Total for Question 3 = 5 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238101.png' alt='OCR图片'/></div>
+
+4 The diagram shows apparatus used to investigate how the pressure of a gas varies with temperature.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238108.png' alt='OCR图片'/></div>
+
+(a) The volume of the gas is kept constant by the flask.
+
+The volume of the gas is a control variable.
+
+State why it is important to keep a control variable constant throughout the investigation.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238193.png' alt='OCR图片'/></div>
+
+(b) The pressure of the gas changes as its temperature increases.
+
+The graph shows the results.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238218.png' alt='OCR图片'/></div>
+
+$$
+^{\circ} C
+$$
+
+(i) Explain how these results show that there is a linear, but not proportional, relationship between the pressure of the gas and its temperature in $ ^{\circ} \mathrm{C}. $
+
+(ii) Use the graph to determine the value for absolute zero.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238304.png' alt='OCR图片'/></div>
+
+(iii) Explain how the pressure of the gas changes as its temperature increases Include ideas about particles in your answer.
+
+(c) The pressure of the gas is 112kPa when its temperature is $ 3 5^{\circ} \mathrm{C}. $ The gas is heated to $ 3 4 0^{\circ} \mathrm{C} $ using some different apparatus.
+
+(i) Calculate the pressure of the gas when its temperature is $ 3 4 0^{\circ} \mathrm{C} $ Assume the gas has a constant volume.
+
+## pressure=
+
+(ii) The volume of the gas is constant in the investigation.
+
+Give the name of the other quantity that must be constant for the calculation to be correct.
+
+(Total for Question 4 = 13 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238325.png' alt='OCR图片'/></div>
+
+5 A student does an investigation to show how the velocity of a toy car changes when the car rolls down a ramp onto a table and hits a wooden block.
+
+The graph shows how the velocity of the toy car changes with time.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238334.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+(a) Calculate the distance travelled by the car during the first 0.4 seconds.
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238367.png' alt='OCR图片'/></div>
+
+(b) (i) Calculate the acceleration of the car between 0.40 s and 0.45 s.
+
+$$
+\mathrm {a c c e l e r a t i o n} =
+$$
+
+(ii) State the formula linking resultant force, mass and acceleration.
+
+(iii) The car has a mass of 0.13 kg.
+
+Calculate the resultant force on the car as it slows down.
+
+(c) A piece of soft material is fixed to the front of the toy car.
+
+Explain how this will affect the gradient of the velocity-time graph after the car hits the block.
+
+(Total for Question 5 = 13 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238415.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238460.png' alt='OCR图片'/></div>
+
+6 The diagram shows a ray of light travelling from air into glass.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238546.png' alt='OCR图片'/></div>
+
+(a) Use a protractor to determine the angle of refraction.
+
+$$
+\mathrm {a n g l e o f r e f r a c t i o n} =
+$$
+
+(b) State the formula linking refractive index, angle of incidence and angle of refraction.
+
+(c) Calculate the refractive index of this glass.
+
+refractive index=
+
+(Total for Question 6 = 5 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238553.png' alt='OCR图片'/></div>
+
+7 A glass contains fizzy water.
+
+Bubbles of carbon dioxide form at the bottom of the glass and rise to the surface.
+
+(a) The graph shows the relationship between the volume of a bubble and the pressure of the gas in the bubble.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238581.png' alt='OCR图片'/></div>
+
+(i) Describe the relationship shown by the graph.
+
+(ii) State the formula linking pressure difference, height, gravitational field strength and density.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238600.png' alt='OCR图片'/></div>
+
+(iii) The depth of the fizzy water in the glass is 22 cm.
+
+The density of the fizzy water is $ 1 0 8 0 \mathrm{k g} / \mathrm{m}^{3}. $
+
+Calculate the pressure difference at the bottom of the glass due to the fizzy water.
+
+## pressure difference=
+
+(iv) Calculate the pressure of the gas in the bubble when the bubble is at the bottom of the glass.
+
+[atmospheric pressure = 101000 Pa]
+
+## pressure=
+
+(v) When a bubble is at the top of the glass,the pressure of the gas in the bubble is equal to 101000 Pa and the bubble has a volume of $ 0. 0 8 4 \mathrm{c m}^{3}. $
+
+Calculate the volume of the gas in the bubble when the bubble is at the bottom of the glass.
+
+Assume the temperature of the gas remains constant.
+
+volume = ... cm $ ^{3} $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238667.png' alt='OCR图片'/></div>
+
+(b) A force called upthrust acts vertically upwards on the bubble.
+
+When the bubble is released, it accelerates vertically upwards.
+
+Draw two labelled arrows on the diagram to show the forces on the bubble as it is released.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238682.png' alt='OCR图片'/></div>
+
+(Total for Question 7 = 12 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238754.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238760.png' alt='OCR图片'/></div>
+
+8 (a) The diagram shows a bar magnet.
+
+Draw four magnetic field lines around the bar magnet.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238772.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238777.png' alt='OCR图片'/></div>
+
+(b) The diagram shows a loop of wire connected to the terminals of a voltmeter.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238840.png' alt='OCR图片'/></div>
+
+Explain why the voltmeter reading changes from zero when the magnet is moved near the loop of wire.
+
+(Total for Question 8 = 5 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238867.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238924.png' alt='OCR图片'/></div>
+
+9 The diagram shows two students holding a piece of string with a box attached.
+
+The box has a buzzer inside and can move along the string.
+
+student A
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238932.png' alt='OCR图片'/></div>
+
+student B
+
+The buzzer in the box emits a loud sound of constant frequency.
+
+The box moves away from student A at a constant speed.
+
+Explain why the sound heard by student A has a different frequency to the sound emitted by the buzzer.
+
+(Total for Question 9 = 5 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723238940.png' alt='OCR图片'/></div>
+
+10 (a) Uranium-235 captures a neutron and undergoes nuclear fission in a chain reaction.
+
+The equation shows a possible nuclear fission reaction.
+
+$$
+{ } _ { 9 2 } ^ { 2 3 5 } \mathrm { U } + { } _ { 0 } ^ { 1 } \mathrm { n } \rightarrow { } _ { 4 0 } ^ { 9 7 } \mathrm { Z r } + { } _ { 5 2 } ^ { 1 3 5 } \mathrm { T e } + \mathrm { x } _ { 0 } ^ { 1 } \mathrm { n }
+$$
+
+Calculate x, the number of neutrons released by this fission reaction.
+
+(b) Describe what is meant by a chain reaction.
+
+(c) lodine-129 is an isotope found in radioactive waste from nuclear power stations. lodine-129 has a half-life of approximately 15 million years.
+
+A sample of iodine-129 has an activity of 72 kBq.
+
+Show that the time required for the sample to have an activity less than 5 kBq is approximately 60 million years.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238945.png' alt='OCR图片'/></div>
+
+(d) Some radioactive waste from nuclear power stations has a very long half-life. Discuss precautions that must be taken when disposing of this radioactive waste.
+
+## (Total for Question 10 = 13 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723238967.png' alt='OCR图片'/></div>
+
+11 A student uses this apparatus to investigate the force needed to pull a block along a ramp.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723239000.png' alt='OCR图片'/></div>
+
+(a) (i) State the formula linking work done, force and distance moved in the direction of the force.
+
+(ii) The student pulls the block 0.89m along the ramp with a force of 26N. Show that the work done on the block by the 26N force is about 23 J.
+
+(iii) The block has a mass of 1.3 kg and moves vertically upwards 0.11 m.
+
+Calculate the increase in the gravitational potential energy (GPE) store of the block between the bottom and the top of the ramp.
+
+increase in GPE=
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723239016.png' alt='OCR图片'/></div>
+
+(iv) Explain why the work done to move the block along the ramp is greater than the increase in the GPE store of the block.
+
+(b) The student suggests it is better to use a less steep ramp to raise the block through the same vertical height.
+
+Discuss an advantage and a disadvantage of using a less steep ramp.
+
+## (Total for Question 11 = 12 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723239107.png' alt='OCR图片'/></div>
+
+12 The diagram shows some apparatus used to find the mass of an object.
+
+The two pieces of metal foil act as a variable resistor.
+
+When more mass is added, the elastic string stretches and the small piece of metal foil moves to the right.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723239131.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723239140.png' alt='OCR图片'/></div>
+
+(a) (i) Draw the circuit diagram for this electrical circuit. The variable resistor has been drawn for you.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723239170.png' alt='OCR图片'/></div>
+
+(ii) Draw a voltmeter on the diagram to measure the voltage of the variable resistor.
+
+(b) Explain how the voltage across the variable resistor changes if more mass is added to the end of the elastic string.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789723239186.png' alt='OCR图片'/></div>
+
+(c) The student extends the investigation by keeping the mass constant and replacing the cell with a variable power supply.
+
+The student measures the current in the circuit for different voltages.
+
+These are the results.
+
+<table border="1"><tr><td>Voltage inV</td><td>Current inmA</td></tr><tr><td>0.0</td><td>0.0</td></tr><tr><td>2.0</td><td>4.0</td></tr><tr><td>4.0</td><td>7.0</td></tr><tr><td>6.0</td><td>11.0</td></tr><tr><td>8.0</td><td>14.0</td></tr></table>
+
+(i) State the independent variable in the student's investigation.
+
+(ii) Plot the student's results on the grid.
+
+(iii) Draw a line of best fit.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723239250.png' alt='OCR图片'/></div>
+
+(Total for Question 12 = 15 marks)
+
+TOTAL FOR PAPER = 110 MARKS
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723239256.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789723239262.png' alt='OCR图片'/></div>

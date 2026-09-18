@@ -1,0 +1,96 @@
+<div style='text-align: center;'><img src='assets/crop_1_1789736376239.png' alt='OCR图片'/></div>
+
+PMT
+
+Pearson Edexcel
+
+Mark Scheme (Results)
+
+January 2021
+
+Pearson Edexcel International GCSE In Physics (4PH1) Paper 2P
+
+## Edexcel and BTEC Qualifications
+
+Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
+
+## Pearson: helping people progress, everywhere
+
+Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
+
+January 2021 Publications Code 4PH1_2P_2101_MS All the material in this publication is copyright $ \textcircled{c} $ Pearson Education Ltd 2021
+
+- All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
+
+- Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
+
+- Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
+
+- There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
+
+- All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
+
+- Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
+
+- When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
+
+- Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1(a)</td><td>any two from:
+MP1. light waves are transverse and sound waves are longitudinal;
+MP2. light travels faster than sound;
+MP3. light can travel through vacuum but sound waves can’t;</td><td>ignore references to frequency and wavelength
+condone‘different speeds’</td><td>2</td></tr><tr><td>(b)(i)</td><td colspan="2">B(microwaves);
+A is incorrect because gamma rays have a shorter wavelength than infrared
+C is incorrect because ultraviolet rays have a shorter wavelength than infrared
+D is incorrect because visible light waves have a shorter wavelength than infrared</td><td>1</td></tr><tr><td>(ii)</td><td colspan="2">B(heating lamps);
+A is incorrect because ultraviolet rays are used in fluorescent lamps
+C is incorrect because there is too much interference from the Earth for infrared to be used for satellite transmissions
+D is incorrect because gamma rays are used to sterilise medical equipment</td><td>1</td></tr><tr><td>(iii)</td><td colspan="2">D(skin burns);
+A is incorrect because infrared is not absorbed by the retina
+B is incorrect because infrared is non-ionising
+C is incorrect because infrared cannot penetrate into the body to cause internal heating</td><td>1</td></tr></table>
+
+<table border="1"><tr><td>(c)</td><td>trace drawn with higher amplitude throughout;
+trace drawn with higher frequency throughout;
+e.g.
+图</td><td>allow variable amplitude
+allow variable amplitude</td><td>2</td></tr></table>
+
+Total for Question 1 = 7 marks
+
+<table border="1"><tr><td>Question number</td><td colspan="3">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>2(a)</td><td colspan="3">2;</td><td></td><td>1</td></tr><tr><td rowspan="4">(b)</td><td colspan="3">all rows correct;any 2 rows correct;e.g.</td><td rowspan="4"></td><td rowspan="4">2</td></tr><tr><td>Constituent</td><td>Parent nucleus</td><td>Daughter nucleus</td></tr><tr><td>strontium-94</td><td></td><td>√</td></tr><tr><td>uranium-236</td><td>√</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(c)</td><td colspan="3">any two from:MP1. neutrons absorbed by another nucleusMP2. uranium-235 namedMP3. nucleus splits, releasing more neutrons(and process repeats);</td><td>do not penalize use of atom for nucleus for more than one mark</td><td>2</td></tr></table>
+
+Total for question 2 = 5 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>3(a)</td><td>(metre) rule(r)/(metal) tape measure;</td><td>allow(Vernier) caliper(s)</td><td>1</td></tr><tr><td>(b)(i)</td><td>3.6;</td><td>allow3.7</td><td>1</td></tr><tr><td>(ii)</td><td>idea that the reading would be larger than the range of the instrument;</td><td></td><td>1</td></tr><tr><td>(c)(i)</td><td>suitable linear scale chosen(&gt;50% of grid used); axes labelled with quantities and units; plotting correct to nearest half square;</td><td>ignore plotting of 45cm point</td><td>3</td></tr><tr><td>(ii)</td><td>line(curve) of best fit acceptable;</td><td>allowECF from plotting i.e. smooth curve with points evenly distributed about it</td><td>1</td></tr><tr><td>(d)</td><td>any four from:
+MP1. as distance increases, force decreases;
+MP2.(because) moment = force x distance;
+MP3. any one calculated moment value from results table or graph;
+MP4. a second calculated moment value from results table or graph;
+MP5. evidence shows moments are not all the same;
+MP6.(but) no pattern in the data(so could be attributed to experimental errors);</td><td>no mark for simply‘student is right/wrong’
+allow evidence shows moments are similar allow consistent conclusion i.e. variation isn’t large enough</td><td>4</td></tr></table>
+
+Total for Question 3 = 11 marks
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">4</td><td>(a)(i)</td><td>idea that it will run out / cannot be replaced;</td><td>ignore renewed/re-used</td><td>1</td></tr><tr><td>(ii)</td><td>any two correct readings taken from graph; evaluation of total; e.g.(proportion=)27.5+35+19.5(proportion=)82(%)</td><td>allow81-83(%)</td><td>2</td></tr><tr><td colspan="2">(b)</td><td>a named effect e.g. global warming, acid rain; a named pollutant e.g. carbon dioxide, sulphur dioxide, nitrogen(di)oxide;</td><td>-1 for incorrectly linked effect and pollutant</td><td>2</td></tr><tr><td rowspan="3">(c)(i)</td><td>correct reading of solar from graph; evaluation;</td><td>seen anywhere in working</td><td>2</td><td></td></tr><tr><td>(ii)correct use of ratio; evaluation;</td><td></td><td>2</td><td></td></tr><tr><td>(iii)any three from:MP1. land area needed is much less than total land area of USA / there is enough space;MP2. land area needed is (much) less than 1% of total land area;MP3. idea that Sun doesn&#x27;t shine all the time;MP4. idea that some areas of land may not be suitable for solar power;</td><td>allow1.904...×109(m2)no mark for simple yes/no for suitability allow ecf from(ii)also scores MP1allow idea of competing land uses e.g. housing/agriculture</td><td>3</td><td></td></tr></table>
+
+Total for question 4 = 12 marks
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">5</td><td>(a)(i)</td><td>(soft) iron;</td><td>accept other suitable ferromagnetic materials</td><td>1</td></tr><tr><td>(ii)</td><td>input power = output power;ORprimary voltage × primary current=secondary voltage × secondary current;</td><td>allow·formula in words or symbols·standard abbreviations:i.e.s,p,in,out,1,2</td><td>1</td></tr><tr><td>(iii)</td><td>substitution;rearrangement;evaluation;e.g.275000×Ip=230×95(Ip=)230×95/275000(Ip=)0.079(A)</td><td>-1 for POT error79.45...(A) scores 2 marksallow0.07945...</td><td>3</td></tr><tr><td>(b)</td><td>any five from:MP1. step-up transformer used before transmission;MP2. voltage is increased before transmission;MP3. current is reduced before transmission;MP4. less heating in transmission cables;MP5. less energy wasted in transmission cables;MP6. step-down transformer used after transmission;MP7. voltage is decreased after transmission for safety;</td><td>allow any mark if clear from diagram</td><td>5</td></tr></table>
+
+Total for question 5 = 10 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(a)</td><td>W marked between+10and+15absolute magnitude and between blue and white/yellow colour marks;</td><td></td><td>1</td></tr><tr><td>(b)</td><td>X marked between0and-5absolute magnitude and between yellow/red and end of colour scale;</td><td></td><td>1</td></tr><tr><td>(c)</td><td>Y marked above and to the left of the Sun;</td><td>judge by eye</td><td>1</td></tr><tr><td>(d)</td><td>Z marked vertically in line with and below the Sun;</td><td>judge by eye</td><td>1</td></tr><tr><td>(e)</td><td>Any one from:
+MP1.idea that the Moon does not emit its own light;
+MP2.idea that the Moon is not a star
+MP3.idea that the(surface)temperature of the Moon is too low/does not fit on the scale;</td><td></td><td>1</td></tr></table>
+
+Total for Question 6 = 5 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>7(a)</td><td>substitution into momentum=mass×velocity; evaluation; e.g. p=0.0041×0.15(p=)0.00062(kgm/s)</td><td>allow use of standard symbols e.g. p=m×v-1 for POT error allow decimal or standard form allow 0.000615</td><td>2</td></tr><tr><td>(b)</td><td>velocity of ball increases; momentum increases;</td><td>allow ball speeds up</td><td>2</td></tr><tr><td>(c)</td><td>substitution into F=(mv-mu)/t; rearrangement; evaluation; e.g. 1.3=0.0041×v(-0)/0.0025(v=)1.3×0.0025/0.0041(v=)0.79(m/s)</td><td>-1 for POT error allow 0.79268...</td><td>3</td></tr></table>
+
+Total for Question 7 = 7 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>8(a)</td><td>(force to the) right;(because) opposite charges attract / like charges repel;</td><td>allow ‘towards the positive plate’ or “away from the negative plate”</td><td>2</td></tr><tr><td>(b)</td><td>line drawn showing the ink drop deflecting to the right of the centre and hitting paper below;line drawn starts vertical and becomes increasingly more curved as the ink drop moves towards paper;</td><td>allow ECF from(a) if direction of force to the leftDOP</td><td>2</td></tr><tr><td>(c)(i)</td><td>substitution into force = mass × acceleration;rearrangement;evaluation;e.g.8.5×10-7=1.1×10-10×a(a=)8.5×10-7/1.1×10-10(a=)7700(m/s2)</td><td>-1 for POT errorallow 7727.27...</td><td>3</td></tr><tr><td>(ii)</td><td>use ofv2=u2+(2×a×s);substitution OR rearrangement;evaluation in metres;conversion to mm;e.g.v2=u2+(2×a×s)3.92=0+(2×7700×s)ORs=(v2-u2)/2a(s=)9.9×10-4(m)s=)0.99(mm)</td><td>can be implied from substitutionallow ECF from(i)independent mark award if correct conversion attempted on incorrect answerallow 9.8×10-4-9.9×10-4allow 0.98-0.99</td><td>4</td></tr><tr><td>(d)</td><td>idea of swapping polarities of plates;idea of increasing the amount of charge on plates;</td><td>allow positively charging ink dropallow increasing amount of charge on ink dropallow decreasing{mass or volume} of the ink drop</td><td>2</td></tr></table>

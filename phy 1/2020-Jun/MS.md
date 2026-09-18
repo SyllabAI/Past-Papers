@@ -1,0 +1,148 @@
+<div style='text-align: center;'><img src='assets/crop_1_1789724413641.png' alt='OCR图片'/></div>
+
+PMT
+
+Pearson Edexcel
+
+Mark Scheme (Results)
+
+November 2020
+
+Pearson Edexcel International GCSE In Physcis (4PH1) Paper 1P
+
+## Edexcel and BTEC Qualifications
+
+Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
+
+## Pearson: helping people progress, everywhere
+
+Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
+
+Autumn 2020
+
+Publications Code 4PH1_1P_2011_MS
+
+All the material in this publication is copyright
+
+$ \textcircled{c} $ Pearson Education Ltd 2020
+
+- All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
+
+- Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
+
+- Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
+
+- There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
+
+- All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
+
+- Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
+
+- When examiners are in doubt regarding the application of the mark scheme to a candidate's response, the team leader must be consulted.
+
+- Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>1(a)</td><td>one mark for each correct line drawn;;</td><td>allow line for reflection drawn to first or second example diagram
+allow two lines drawn from reflection to first and second diagrams only
+reject mark if two lines drawn from either TIR or refraction</td><td>3</td></tr><tr><td>(b)</td><td>any two from:
+(all waves) reflect;
+(all waves) refract;
+idea that (all waves) transfer energy (without transferring matter);
+(all waves) have amplitude/wavelength/frequency;</td><td>allow higher level common properties e.g. diffraction, interference etc.
+allow ‘information’ for energy</td><td>2</td></tr></table>
+
+Total for Question 1 = 5 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>2(a)</td><td>any attempt at gradient/reference to correct formula;
+substitution of values from graph;
+evaluation;
+e.g.
+acceleration = change in velocity/time taken
+acceleration =(-)45/39
+acceleration =(-)1.2(m/s2)</td><td>check graph for evidence of working
+ignore minus sign
+allow1.1-1.2(m/s2)</td><td>3</td></tr><tr><td>(b)</td><td>any attempt at or reference to an area;
+correct attempt =1/2×45×39;
+correct evaluation;
+e.g.
+distance travelled = area under graph
+distance =1/2×45×39
+distance =880(m)</td><td>allow alternative method usingv2=u2+2as with answer from(a)
+allowECF of incorrect velocity or time reading if also used in(a)
+allow878,877.5(m)</td><td>3</td></tr><tr><td>(c)</td><td>line showing decreasing velocity from same initial velocity as existing line;
+line drawn is less steep than existing line throughout;</td><td></td><td>2</td></tr></table>
+
+Total for Question 2 = 8 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>3(a)</td><td>any four correctly linked stages in star&#x27;s evolution:
+MP1. nebula to protostar;
+MP2. protostar to main sequence;
+MP3. main sequence to red giant;
+MP4. red giant to white dwarf;
+MP5. white dwarf to black dwarf;</td><td>limit to 2 marks max. if incorrect stages given e.g. red supergiant, supernova, neutron star, black hole allow cloud of dust/gas for nebula allow main stage for main sequence
+allow 1 marking point if stage missing e.g. nebula to main sequence gets either MP1 or MP2 since protostar is missing</td><td>4</td></tr><tr><td>(b)</td><td>stars use fusion, reactor uses fission;
+fusion detail e.g.：
+·(fusion is the) joining of nuclei
+·involves light nuclei e.g. hydrogen
+fission detail e.g.：
+·(fission is the) splitting of nuclei
+·involves heavy nuclei e.g. uranium/plutonium</td><td>both needed
+condone atoms for nuclei
+condone atoms for nuclei</td><td>3</td></tr></table>
+
+Total for Question 3 = 7 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">4(a)(i)(ii)</td><td>idea that extension is (directly) proportional to force or load;up to limit of proportionality;</td><td>condone‘mass’for forceallow up to elastic limit</td><td>2</td></tr><tr><td>line is not straight / eq;so, force and extension cannot be (directly) proportional;</td><td>allow line is curved</td><td>2</td></tr><tr><td>(b)</td><td>mechanical;elastic;kinetic / gravitational;</td><td>allow elastic potentialallow gravitational potential</td><td>3</td></tr><tr><td>(c)</td><td>drag force drawn horizontally left;drag force = thrust force;weight force drawn vertically downwards;weight force = lift force;</td><td>judge by eyeallow air resistance,frictionjudge by eyeignore force labelsjudge by eyeallow gravitational forceignore gravityjudge by eyeignore force labels</td><td>4</td></tr></table>
+
+Total for Question 4 = 11 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(a)</td><td>symbols for cell, variable resistor, ammeter and voltmeter all correct;cell and variable resistor in series with component X;ammeter in series with component X; voltmeter in parallel with component X only;e.g.</td><td>allow higher level potential divider type circuitscondone symbols for more than one cell or batteryallow voltmeter in parallel with component X and ammeter</td><td>4</td></tr><tr><td>(b)(i)</td><td>sensible linear scales;axes labelled with units;</td><td>must have voltage on x-axise.g. occupy&gt;50% of the grid and not multiples of 3 etc.</td><td>3</td></tr></table>
+
+<table class="table table-bordered"><thead><tr><th>Voltage in V</th><th>Current in mA</th></tr></thead><tbody><tr><td>0.00</td><td>0</td></tr><tr><td>0.10</td><td>0</td></tr><tr><td>0.20</td><td>0</td></tr><tr><td>0.30</td><td>0</td></tr><tr><td>0.40</td><td>0</td></tr><tr><td>0.50</td><td>2</td></tr><tr><td>0.60</td><td>8</td></tr><tr><td>0.70</td><td>33</td></tr><tr><td>0.80</td><td>140</td></tr></tbody></table>
+
+Total for Question 5 = 9 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(a)</td><td>use of voltage = current × resistance;
+substitution and rearrangement of formula;
+evaluation of total circuit resistance;
+subtraction of thermistor resistance;
+correct evaluation of fixed resistor resistance;
+e.g.
+voltage = current × resistance
+Rtotal=6.0/6.8(mA)
+Rtotal=882(Ω)
+Rfixed=882-490
+Rfixed=392(.35...)(Ω)</td><td>seen or implied
+allow current in mA or A
+allow ECF from POT error
+accept, for full marks, answers that calculate voltage of thermistor to find voltage of resistor
+voltage = current × resistance
+Vthermistor=6.8(mA)×490(=3.332)V
+Vfixed=(6.0-3.332=)2.668V
+Rfixed=2.668/6.8×10-3
+Rfixed=392(.35...)(Ω)</td><td>5</td></tr><tr><td>(b)</td><td>resistance of thermistor increases;
+current through circuit decreases;
+(so) voltage (across fixed resistor) decreases;</td><td>dependent on scoring one of previous two marking points allow 2 max. as ECF for correct description with incorrect Rtherm change
+allow correct potential divider argument for full marks</td><td>3</td></tr></table>
+
+Total for Question 6 = 8 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>7(a)</td><td>substitution into $v^{2}=u^{2}+2as$;rearrangement;evaluation;e.g.$0^{2}=u^{2}+(2\times-1.8\times92000)$ $u=\sqrt{3.6\times92000}$(initial speed=)580(m/s)</td><td>allow answers in terms of conservation of energy for full marksignore unitscondone poor handling of minus signsallow 575.(499...)(m/s)answer of 331200 gains 2 marksPOT error on distance will give 18.2(m/s) for 2 marks</td><td>3</td></tr><tr><td>(b)(i)</td><td>particles collide with walls;(collisions result in) force on walls;force over area gives pressure;</td><td>ignore collisions between particlesallow momentum argumentsallow p=F/A</td><td>3</td></tr><tr><td>(ii)</td><td>substitution into $p_{1}/T_{1}=p_{2}/T_{2}$;rearrangement;evaluation;e.g.$8.2/1200=p_{2}/1600$ $p_{2}=(1600\times8.2/1200)$ $(p_{2}=)11(kPa)$</td><td>allow pressure in kPa or Paallow 10.9...(kPa)</td><td>3</td></tr><tr><td>(iii)</td><td>any three from:particles have more kinetic energy;particles collide with walls more frequently;idea that particles collide with walls with more force/‘harder’;(average) force increases;</td><td>allow particles move faster/eq.</td><td>3</td></tr><tr><td>(iv)</td><td>any three from:MP1.idea that higher pressure means higher speed;MP2.Tvashtar particles have more (initial) KE;MP3.particles from both chambers experience the same deceleration;MP4.(higher speed with same deceleration) takes longer to reach0m/s;MP5.relevant quantitative argument based on motion formulae;MP6.Tvashtar particles have more GPE (at max. height);</td><td>allow Tvashtar particles have higher speed/RAallow Tvashtar particles take longer to reach max. height/RA</td><td>3</td></tr></table>
+
+Total for Question 7 = 15 marks
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">8</td><td>(a)(i)</td><td>sin(c)=1/n;</td><td>allow rearrangements and/or words for symbols</td><td>1</td></tr><tr><td>(ii)</td><td>substitution;rearrangement;correct evaluation to 5 s.f.;e.g.sin(88.500)=1/nn=1/sin(88.500)n=1.0003</td><td>answer of 1.00034...scores 2 marks</td><td>3</td></tr><tr><td rowspan="4">(b)(i)</td><td rowspan="4">(ii)</td><td>straight line drawn passing into atmosphere above normal line;line bends towards normal;</td><td>DOPaccept any bend towards normal however small</td><td>2</td></tr><tr><td>angle of incidence is zero;</td><td>allow idea that ray‘hits’ atmosphere at 90°,ray is travelling along the normal allow angle of refraction is equal to angle of incidence</td><td>2</td></tr><tr><td>any two from: reference to speed=frequency×wavelength;frequency is constant;speed decreases(so wavelength must decrease);</td><td></td><td>2</td></tr><tr><td>(iv)</td><td>any one from:idea that rays of light from different parts of the Sun refract by different amounts;amount of refraction very large(when Sun is close to the horizon);</td><td></td><td>1</td></tr></table>
+
+Total for Question 8 = 11 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>9(a)</td><td>(turning handle makes) coil turn/rotate;coil cuts through;magnetic field(of the permanent magnets);</td><td>reject if suggested that coil rotation is due to motor effectignore‘interacts with’</td><td>3</td></tr><tr><td>(b)(i)</td><td>speed=frequency×wavelength;</td><td>allow standard symbols and rearrangementsallow v,c,s for speedallow λ for wavelength</td><td>1</td></tr><tr><td>(ii)</td><td>substitution;rearrangement;evaluation;e.g.3.0×108=93×106×wavelengthwavelength=3.0×108/93×106)(wavelength=)3.2(m)</td><td>ignore units until evaluation1 mark may be awarded in the absence of any others for correctly converting MHz to HzPOT error scores 2 marks max.allow 3.2258...(m)</td><td>3</td></tr><tr><td>(c)(i)</td><td>any four from:MP1. loudspeaker(coil)has a current/ magnetic field;MP2. interaction between magnetic fields;MP3. causes a force to be exerted on speaker(cone);MP4. a.c. changes direction;MP5. force on speaker(cone) changes direction;MP6. causes speaker(cone) to vibrate;</td><td>allow‘interferes’ for interacts</td><td>4</td></tr><tr><td>(ii)</td><td>any one from:increase strength of magnet;use a larger current;use more turns of wire on loudspeaker coil;</td><td>ignore references to adding iron coreignore‘increase size of magnet’allow larger voltage(across coil)allow‘more coils of wire’</td><td>1</td></tr></table>
+
+Total for Question 9 = 12 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>10(a)(i)(ii)</td><td>different number of neutrons; technetium-99 has 1 more neutron;43;-1;</td><td>reject if number of protons is given as differentDOPcondone technetium-99 has 99 neutrons and technetium-98 has 98 neutrons</td><td>22</td></tr><tr><td>(b)</td><td>any four max. from:MP1. use of GM tube + counter/GM tube/photographic film;MP2. measure count (rate) without source / find background count;MP3. measure count (rate) with source;MP4. (subtraction to) find corrected count (rate);MP5. repeat readings to obtain mean;MP6. idea that paper / aluminium does not affect count / reading;MP7. idea that lead reduces count rate significantly;PLUSany safety precaution from:MP8. idea of keeping distance from source;MP9. minimise exposure time;MP10. use of shielding;</td><td>allow ‘reading’ for count rate allow Geiger counter;allow lead blocks (all) radiatione.g. tongs/moving away from sourcee.g. keeping source in lead-lined box, use of lead apron / gloves, working in a different room from source</td><td>5</td></tr><tr><td>(c)</td><td>use of one data point;evaluation of distance2×count rate;second data point and second evaluation of distance2×count rate;conclusion reached consistent with the two evaluations;e.g.(1,100) gives12×100=100(4,6) gives16×6=9696 is approximately equal to100 so relationship is verified</td><td>reject idea that evaluations are inconsistent unless there is a significant difference between theme.g. due to ECF(1,100) gives constant=100(2,25) gives constant=100(3,11) gives constant=99(4,6) gives constant=96(5,4) gives constant=100</td><td>4</td></tr></table>
+
+Total for Question 10 = 13 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="2">11(a)(i)</td><td>any one from: satellite orbits a planet/Earth, planet orbits a star/Sun; orbital radius/time period of planet is greater than satellite;</td><td>both aspects of the comparison required allow RA allow planet&#x27;s orbit is larger</td><td>1</td></tr><tr><td>any one from: both orbit a planet/Earth; both have same shape of orbit;</td><td>allow circular or elliptical</td><td>1</td></tr><tr><td rowspan="3">(b)(i)</td><td>substitution into v=2π×r/T; conversion of 24 hours into seconds; rearrangement and evaluation of orbital radius; evaluation of height;</td><td>ignore units allow 86400 seen anywhere</td><td>4</td></tr><tr><td>e.g.3.1=2×π×r/[24×(60×60)]T=(24×60×60=)86400(s)r=42628(km)(height=42628-6400=)36000(km)</td><td>allow 36228.05996(km)</td><td>3</td></tr><tr><td>any three from:MP1. speed of waves constant;MP2. if source moving away, wavefronts spread out/wavelength increases;MP3. speed=frequency×wavelength;MP4. (higher wavelength and constant speed of waves) gives lower frequency;</td><td>allow RA for source approaching allow RA for source approaching</td><td></td></tr><tr><td>(iii)</td><td>idea that there is no(relative) motion between point on Earth&#x27;s surface and satellite;(therefore) no wavelength/frequency change;</td><td>allow distance to satellite from Earth does not changeDOP</td><td>2</td></tr></table>
+
+Total for Question 11 = 11 marks

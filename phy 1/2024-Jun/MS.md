@@ -1,0 +1,203 @@
+<div style='text-align: center;'><img src='assets/crop_1_1789726089731.png' alt='OCR图片'/></div>
+
+PMT
+
+Pearson Edexcel
+
+Mark Scheme (Results)
+
+Summer 2024
+
+Pearson Edexcel International GCSE In Physics (4PH1) Paper 1P
+
+## Edexcel and BTEC Qualifications
+
+Edexcel and BTEC qualifications are awarded by Pearson, the UK's largest awarding body. We provide a wide range of qualifications including academic, vocational, occupational and specific programmes for employers. For further information visit our qualifications websites at www.edexcel.com or www.btec.co.uk. Alternatively, you can get in touch with us using the details on our contact us page at www.edexcel.com/contactus.
+
+## Pearson: helping people progress, everywhere
+
+Pearson aspires to be the world's leading learning company. Our aim is to help everyone progress in their lives through education. We believe in every kind of learning, for all kinds of people, wherever they are in the world. We've been involved in education for over 150 years, and by working across 70 countries, in 100 languages, we have built an international reputation for our commitment to high standards and raising achievement through innovation in education. Find out more about how we can help you and your students at: www.pearson.com/uk
+
+Summer 2024
+
+Question Paper Log Number P75826A
+
+Publications Code 4PH1_1P_2406_MS
+
+All the material in this publication is copyright
+
+$ \textcircled{c} $ Pearson Education Ltd 2024
+
+## General Marking Guidance
+
+- All candidates must receive the same treatment. Examiners must mark the first candidate in exactly the same way as they mark the last.
+
+- Mark schemes should be applied positively. Candidates must be rewarded for what they have shown they can do rather than penalised for omissions.
+
+- Examiners should mark according to the mark scheme not according to their perception of where the grade boundaries may lie.
+
+- There is no ceiling on achievement. All marks on the mark scheme should be used appropriately.
+
+- All the marks on the mark scheme are designed to be awarded. Examiners should always award full marks if deserved, i.e. if the answer matches the mark scheme. Examiners should also be prepared to award zero marks if the candidate's response is not worthy of credit according to the mark scheme.
+
+- Where some judgement is required,mark schemes will provide the principles by which marks will be awarded and exemplification may be limited.
+
+- When examiners are in doubt regarding the application of the mark scheme to a candidate's response,the team leader must be consulted.
+
+- Crossed out work should be marked UNLESS the candidate has replaced it with an alternative response.
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="3">1</td><td>(a)(i)</td><td>labelled diagram showing a moon in circular orbit around Earth;</td><td>allow planet for Earth judge circular by eye ignore attempts at 3D drawing allow planet for Earth</td><td>2</td></tr><tr><td>(ii)</td><td>gravitational (force);</td><td>allow gravity ignore weight centripetal centrifugal reject gravitational potential gravitational field strength</td><td>1</td></tr><tr><td>(iii)</td><td>satellite / space station;</td><td>allow other suitable object e.g. (rocket) debris etc. reject comet</td><td>1</td></tr><tr><td rowspan="3">(b)</td><td></td><td>planet&#x27;s orbit is circular/slightly elliptical but comet&#x27;s orbit is elliptical/oval;</td><td>clear comparison needed allow comet orbit is more elliptical</td><td>1</td></tr><tr><td></td><td>OR</td><td>ignore references to period/length of orbits</td><td></td></tr><tr><td></td><td>planet has constant speed but comet has variable speed;</td><td>allow idea that planet has constant orbital radius but comet has variable orbital radius</td><td></td></tr></table>
+
+Total for Question 1 = 5 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Marks</td></tr><tr><td>2(a)</td><td>A(6 protons,6 neutrons);
+B is not the answer because it is the same isotope
+C is not the answer because it is a different element
+D is not the answer because it is a different element</td><td>1</td></tr><tr><td>(b)</td><td>B(beta);
+A is not the answer because alpha is a helium nucleus
+C is not the answer because gamma is a high frequency EM wave
+D is not the answer because it is not an electron</td><td>1</td></tr><tr><td>(c)</td><td>D(neutron);
+A is not the answer because this would decrease the atomic number and decrease the mass number
+B is not the answer because this would increase the atomic number and keep the mass number the same
+C is not the answer because this would keep the atomic number and mass number the same</td><td>1</td></tr><tr><td>(d)</td><td>A(90);
+B is not the answer because this is a neutral atom
+C is not the answer because it is a negatively charged ion
+D is not the answer because it is a negatively charged ion</td><td>1</td></tr><tr><td>(e)</td><td>C(100Bq);
+A is not the answer because this is 4 half-lives
+B is not the answer because this is 3 half-lives
+D is not the answer because this is 1 half-life</td><td>1</td></tr></table>
+
+Total for Question 2 = 5 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>3(a)</td><td>{skin/eye/tissue} burns;</td><td>allow damage to surface cells, skin damage reject skin cancer, cell mutation, sunburn</td><td>1</td></tr><tr><td>(b)(i)</td><td>any two from:
+• both electromagnetic waves;
+• both transfer energy;
+• both transverse waves;
+• both are non-ionising;
+• both can travel through vacuum;
+• both have same speed(in a vacuum);
+• infrared has longer/higher wavelength;
+• infrared has lower frequency;</td><td>allow EM waves
+allow both part of EM spectrum
+allow both can be reflected/refracted/diffracted
+allow RA
+allow RA condone infrared has lower energy</td><td>2</td></tr><tr><td>(ii)</td><td></td><td>allow RA
+allow RA condone infrared has lower energy</td><td>2</td></tr><tr><td>(c)</td><td>substitution into speed=distance/time; rearrangement; evaluation;
+e.g.
+$3.0\times10^{8}=1.5/\text{time}$
+$time=1.5/3.0\times10^{8}$
+$(time=)5.0\times10^{-9}(\text{s})$</td><td>-1 for POT error
+allow $5\times10^{-9}(\text{s})$,
+0.0000000005(s)</td><td>3</td></tr><tr><td>(d)</td><td>black is a better/good absorber(of infrared radiation);
+idea that more energy/heat transferred to black car(in the same time);</td><td>allow RA e.g. white is a poor absorber
+allow white is a better/good reflector(of infrared radiation)
+allow RA e.g. less energy/heat transferred to white car
+allow black car warms up quicker
+black car absorbs more energy/heat scores 2 marks</td><td>2</td></tr></table>
+
+Total for Question 3 = 10 marks
+
+<table border="1"><tr><td>Question number</td><td colspan="3">Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="6">4(a)</td><td colspan="3">one mark for each correct row; ; ;</td><td rowspan="6">reject mark for row if more than one tick given</td><td rowspan="6">4</td></tr><tr><td>Energy store</td><td>Increases</td><td>Decreases</td><td>Stays the same</td></tr><tr><td>Chemical</td><td></td><td></td><td>√</td></tr><tr><td>Gravitational potential</td><td></td><td>√</td><td></td></tr><tr><td>Nuclear</td><td></td><td></td><td>√</td></tr><tr><td>Thermal</td><td>√</td><td></td><td></td></tr><tr><td>(b)</td><td colspan="3">mass;</td><td>ignore size, weight</td><td>1</td></tr><tr><td>(c)</td><td colspan="3">any four from:
+MP1. red giant has greater brightness than white dwarf;
+MP2. (nuclear) fusion takes place in red giant (core) but not in white dwarf (core);
+MP3. red giant is larger than white dwarf;
+MP4. red giant has lower (surface) temperature than white dwarf;
+MP5. white dwarf is denser than a red giant;
+MP6. white dwarf has a planetary nebula but a red giant does not;</td><td>allow RA for all marking points
+allow absolute magnitude, luminosity, power for brightness
+allow red giant emits more light
+allow red giant has more hydrogen
+condone red giant has more mass than white dwarf
+allow red giant is cooler</td><td>4</td></tr></table>
+
+Total for Question 4 = 9 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>5(a)</td><td>axes labelled “extension”/“elongation” and “load”/“force”/“weight”; straight line of positive gradient drawn throughout; line passes through origin;</td><td>ignore units allow “distance/length stretched” for extension ignore orientation of axes judge by eye condone curve at end of line if clear indication that Hooke&#x27;s law does not apply for that part of the line e.g. “limit of proportionality” marked at end of straight section ignore “elastic limit” allow full marks for axes labelled “length” and “load”/“force”/“weight” if line intersects length axis above zero</td><td>3</td></tr><tr><td>(b)(i)</td><td>magnitude = 1.2(N); direction = up(wards);</td><td>allow arrow pointing up ignore unqualified “north”</td><td>2</td></tr><tr><td>(ii)</td><td>substitution into F = m×a; rearrangement; evaluation; e.g. 1.2=0.20×a a=1.2/0.20(a=)6.0(m/s2)</td><td>allow ecf from(i)-1 for POT error allow 6(m/s2)</td><td>3</td></tr><tr><td>(iii)</td><td>acceleration decreases(to zero); with any two from: spring extension decreases; force from spring/elastic force/upwards force decreases; weight(of object) stays the same; resultant force decreases(to zero);</td><td>ignore decelerates allow spring becomes less stretched ignore other irrelevant forces e.g. upthrust, air resistance etc. allow forces are balanced if clear that this only applies when the mass is at its initial resting position</td><td>3</td></tr></table>
+
+Total for Question 5 = 11 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>6(a)</td><td>arrows drawn on at least two field lines pointing towards the south pole;</td><td>condone if arrows are not drawn on the existing field lines reject if any arrows point away from the south pole</td><td>1</td></tr><tr><td>(b)</td><td>A is incorrect because copper is not a magnetic materialC is incorrect because plastic is not a magnetic materialD is incorrect because zinc is not a magnetic material</td><td></td><td>1</td></tr><tr><td>(c)</td><td>field line spacing/density changes (with distance from south pole); further apart field lines shows weaker field strength;</td><td>allow field lines aren&#x27;t parallel scores both marks allow RA ignore references to forces</td><td>2</td></tr><tr><td>(d)(i)</td><td>idea that a north pole is induced on the side of the iron nearest the bar magnetidea that opposite poles attract;</td><td>allow if shown on diagram allow north attracted to south ignore references to charge</td><td>2</td></tr><tr><td>(ii)</td><td>iron is a soft magnetic material;iron loses its magnetism (when it is removed from the magnetic field);</td><td>ignore iron is a soft magnetignore iron is a temporary magnetallow iron is (easily) demagnetisedallow iron is only magnetic when it is in a field</td><td>2</td></tr></table>
+
+Total for Question 6 = 8 marks
+
+<table border="1"><tr><td colspan="2">Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>7</td><td>(a)</td><td>idea that lamps can be controlled independently;
+(because) circuit is a parallel circuit;</td><td>allow some lights on whilst others off/if one lamp blows the others still work etc.
+allow all lamps get full voltage/230V
+allow idea that lamps are on(three) separate paths/branches of the circuit</td><td>2</td></tr><tr><td rowspan="4"></td><td>(b)(i)</td><td>electron(s);
+substitution into formula;
+conversion from mA to A;
+evaluation to 2 or more s.f.;
+e.g.
+power=230×22(×10-3)
+power=230×0.022
+power=5.1(W)</td><td>allow ion(s), cation(s), anion(s)
+ignore units
+allow if0.022 or÷1000 seen anywhere in working
+condone a calculation of current or voltage given to at least3s.f.using a power of5Wfor full marks</td><td>1</td></tr><tr><td>(ii)</td><td>substitution intoP=E/t;
+rearrangement;
+evaluation;
+e.g.
+5=E/30
+E=5×30
+E=150(J)</td><td>allow5.06(W)
+allow ecf from(ii)
+allow use ofE=V×I×tor other valid methods
+-1 forPOT error
+allow
+E=230×22(×10-3)×30
+allow151.8,152,153</td><td>3</td></tr><tr><td>(c)(i)</td><td>energy(transferred)per unit charge(passed);
+any attempt to add any currents together;(current=)39(mA);</td><td>allowV=E/Qonlyifall terms defined
+allowwork done for energy transferred
+allowcoulombforunit charge</td><td>1</td></tr><tr><td>(ii)</td><td></td><td>60,65,82(mA)scores1mark</td><td>2</td></tr></table>
+
+Total for Question 7 = 12 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td rowspan="8">8</td><td>any six from:</td><td></td><td>6</td></tr><tr><td>MP1. ray A is refracted and changes direction;</td><td>may be shown on diagram by ray passing through boundary ignore reflected rays allow 1 mark max. from MP1 and MP2 if either ray is refracted in the wrong direction</td><td></td></tr><tr><td>MP2. ray B is refracted and changes direction;</td><td>allow 34°-38° for ray A, 58°-62° for ray B</td><td></td></tr><tr><td>MP3. correctly measured angle of incidence for either ray;</td><td>may be shown on diagram allow ecf from angles of incidence expect 24°-28° for A and 39°-42° for B</td><td></td></tr><tr><td>MP4. correctly calculated angle of refraction for either ray A or ray B;</td><td>condone air having a higher (optical) density than water</td><td></td></tr><tr><td>MP5. water and air have different (optical) densities;</td><td>allow RA</td><td></td></tr><tr><td>MP6. light travels slower in water than air;</td><td>allow RA</td><td></td></tr><tr><td>MP7. TIR does not happen because water is more (optically) dense than air;</td><td>ignore calculated values of the critical angle as not relevant</td><td></td></tr></table>
+
+Total for Question 8 = 6 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>9(a)</td><td>80(kPa);</td><td></td><td>1</td></tr><tr><td>(b)</td><td>any two from:
+MP1. pressure(in aeroplane) increases;
+MP2.(resultant) force(inwards) on bottle;
+MP3.idea that decreasing volume(in bottle)increases pressure(in bottle);</td><td>allowidea that pressure outside bottle is greater than inside bottle</td><td>2</td></tr><tr><td>(c)</td><td>any three from:
+MP1.(direction of) movement of molecules is random;
+MP2.molecules collide with the(bottle)surface;
+MP3.exert a force(on the surface);
+MP4.pressure is force on an area;</td><td>allow particles/atoms for molecules
+allow equivalent words for collide e.g.bounce,hit etc.
+ignore‘molecules collide’(with each other)
+allow if given in formula format</td><td>3</td></tr></table>
+
+Total for Question 9 = 6 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>10(a)</td><td>substitution into formula; evaluation;e.g.weight=250(÷1000)×10(weight=)2.5(N)</td><td>ignore units-1 for clear POT error in units of massallow use of g=9.8,9.81allow 2.45,2.4525</td><td>2</td></tr><tr><td>(b)(i)</td><td>independent variable=length(extending beyond table);dependent variable=height;</td><td>allow L/lcondone length of wood(en strip)allow H/h</td><td>2</td></tr><tr><td>(ii)</td><td>any two from:· mass/weight of load;· position of load(on wooden strip);· thickness of wood(en strip);· material/type of wood(en strip);</td><td>ignore“same load”on its ownallow“same wood(en strip)”in the absence of either of these marks</td><td>2</td></tr><tr><td>(iii)</td><td>any two from:MP1. use of(metre) rule;MP2. fixed in place at end of wooden strip;MP3. 0 on rule placed at original height of wooden strip;MP4. method to ensure measurement is vertical e.g. using a plumb line, set square etc.;MP5. measure at eye level;</td><td>allow tape measurecondone metre stickallow alternative valid methodse.g. distance measured up from the ground with and without loadignore unqualified references to parallax error</td><td>2</td></tr></table>
+
+<table border="1"><tr><td>(c)</td><td>(i)</td><td>correct measurement from diagram=3.1(cm);use of scale factor gives31(cm);</td><td>allow between3(.0)和3.2(cm)allow×10seen in workinganswer between30和32(cm)scores both marks</td><td>2</td></tr><tr><td></td><td>(ii)</td><td>suitable linear scale chosen(&gt;50%of grid used);plotting correct to nearest half square;</td><td>allow use of false originallow ecf from(i)reject if non-linear scale used</td><td>2</td></tr><tr><td></td><td></td><td></td><td>Length(L)incmHeight(h)incm</td><td></td></tr><tr><td></td><td></td><td></td><td>202</td><td></td></tr><tr><td></td><td></td><td></td><td>408</td><td></td></tr><tr><td></td><td></td><td></td><td>6018</td><td></td></tr><tr><td></td><td></td><td></td><td>8031</td><td></td></tr><tr><td></td><td></td><td></td><td>10053</td><td></td></tr><tr><td></td><td></td><td></td><td>12071</td><td></td></tr><tr><td></td><td>(iii)</td><td>acceptable curve of best fit drawn for databetween20cm和120cm;</td><td>i.e. smooth curve with pointsdistributed equally either sideall points should be at least1small square from curve unlessthere is a plotting error in(ii)or a measurement error in(i),in which case apply ecf</td><td>1</td></tr><tr><td></td><td>(iv)</td><td>idea that proportionality requires a straight line(through the origin);(graph does not show this so)conclusion/student is incorrect;</td><td>allow idea that relationship is notlinear/gradient is not constantallow idea thath/Lshould be constantDOPscore0marks if any indicationthat the response is proportionalor directly proportional</td><td>2</td></tr></table>
+
+Total for Question 10 = 15 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>11(a)</td><td>conversion of hours into seconds; evaluation; e.g.1 hour=(60×60=)3600(s)(charge=1×3600=)3600(C)</td><td>allow3600or60×60seen in working</td><td>2</td></tr><tr><td>(b)(i)</td><td>substitution OR rearrangement; evaluation in seconds; conversion to minutes; e.g.3.8×103=2.4×tORt=Q/I(t=)1600(s)(t=)26(minutes)</td><td>mark independently and apply ecf allow1580,1583...allow26-27(minutes)</td><td>3</td></tr><tr><td>(ii)</td><td>idea that longer cable has more resistance;(so)charging current will be less AND time taken will increase;</td><td>ignore longer distance both ideas needed for the mark</td><td>2</td></tr><tr><td>(c)</td><td>any four from:MP1. determination of total charge needed for the week;MP2. quantitative comparison to power bank charge;MP3. idea that power bank cannot recharge all devices(from completely flat);MP4. idea that devices will not always be completely empty when recharged;MP5. idea that devices could be used less(which would make them last longer before recharging);MP6. idea that other charging facilities might be available;</td><td>27.8(Ah)or100080C allow27.8is greater than26.8 allow power bank is1Ah less than needed allow ecf from MP1 allow power bank is not suitable/enough allow idea that devices could be partially charged allow idea that power bank could be recharged during trip</td><td>4</td></tr></table>
+
+Total for Question 11 = 11 marks
+
+<table border="1"><tr><td>Question number</td><td>Answer</td><td>Notes</td><td>Marks</td></tr><tr><td>12(a)</td><td>appropriate attempt to draw tangent at 20s on the graph;
+acceleration = gradient;
+acceleration in the range 1.00-1.20(m/s2);
+acceleration in the range 1.05-1.15(m/s2)</td><td>allow if seen explicitly or from a clear attempt to calculate a gradient scores 3 marks total
+scores 4 marks total</td><td>4</td></tr><tr><td>(b)</td><td>distance = area under line;
+suitable method used;
+distance in the range = 3200-4200(m);
+distance in the range = 3500-4000(m);
+distance in the range = 3700-3800(m)</td><td>seen explicitly or implied by working allow
+• use of trapeziums
+• rectangles and triangles
+• counting squares estimation
+scores 3 marks total
+scores 4 marks total
+scores 5 marks total</td><td>5</td></tr><tr><td>(c)</td><td>speed/velocity is constant;
+idea that driving force of car = air resistance;
+resultant force is zero;</td><td>allow terminal velocity
+allow forces are balanced
+allow acceleration is zero</td><td>3</td></tr></table>
+
+Total for Question 12 = 12 marks

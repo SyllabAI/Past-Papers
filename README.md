@@ -10,10 +10,12 @@ content pipeline.
 |---|---|
 | `paper 1/` | Paper 1C — 41 sessions (Jun 2011 → Jun 2024 + Specimen 2017), per-session layout, 2,002 preserved figures |
 | `paper 2/` | Paper 2C — 19 sessions (Jun 2011 → Jan 2023 (R)), per-session layout, 573 preserved figures |
+| `phy 1/` | Paper 1P — 43 sessions (Jun 2011 → Jun 2024 (R) + Nov 2021 + Specimen 2017), per-session layout, 2,336 preserved figures |
+| `phy 2/` | Paper 2P — 43 sessions (Jun 2011 → Jun 2024 (R) + Nov 2021 + Specimen 2017), per-session layout, 1,499 preserved figures |
 | `IAL/`, `IGCSE/` | Raw official QP/MS PDF archive (by qualification/board/subject/unit) |
 | `GLM-markdown-sample/` | First GLM-OCR sample batch + audit README (Session 8) |
 
-## Per-session layout (paper 1 & paper 2)
+## Per-session layout (paper 1, paper 2, phy 1 & phy 2)
 
 ```
 <year>-<Mon>[-R]/     e.g. 2012-Jan, 2013-Jun-R, Specimen-2017

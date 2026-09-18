@@ -1,0 +1,455 @@
+<div style='text-align: center;'><img src='assets/crop_1_1789737404248.png' alt='OCR图片'/></div>
+
+## Instructions
+
+- Use black ink or ball-point pen.
+
+- Fill in the boxes at the top of this page with your name, centre number and candidate number.
+
+- Answer all questions.
+
+- Answer the questions in the spaces provided
+
+- there may be more space than you need.
+
+- Show all the steps in any calculations and state the units.
+
+- Some questions must be answered with a cross in a box . If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
+
+## Information
+
+- The total mark for this paper is 70.
+
+- The marks for each question are shown in brackets
+
+- use this as a guide as to how much time to spend on each question.
+
+## Advice
+
+- Read each question carefully before you start to answer it.
+
+- Write your answers neatly and in good English.
+
+- Try to answer every question.
+
+- Check your answers if you have time at the end.
+
+- Good luck with your examination.
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404263.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789737404268.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_4_1789737404275.png' alt='OCR图片'/></div>
+
+## FORMULAE
+
+You may find the following formulae useful.
+
+$$
+\mathrm {e n e r g y t r a n s f e r r e d} = \mathrm {c u r r e n t} \times \mathrm {v o l t a g e} \times \mathrm {t i m e}
+$$
+
+$$
+E = I \times V \times t
+$$
+
+$$
+\mathrm {f r e q u e n c y} = \frac {1}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+f = \frac {1}{T}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {w o r k d o n e}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {e n e r g y t r a n s f e r r e d}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {o r b i t a l s p e e d} = \frac {2 \pi \times \mathrm {o r b i t a l r a d i u s}}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+v = \frac {2 \times \pi \times r}{T}
+$$
+
+(final speed) $ ^{2} $ = (initial speed) $ ^{2} $ + (2 $ \times $ acceleration $ \times $ distance moved)
+
+$$
+v ^ {2} = u ^ {2} + (2 \times a \times s)
+$$
+
+$$
+\mathrm {p r e s s u r e} \times \mathrm {v o l u m e} = \mathrm {c o n s t a n t}
+$$
+
+$$
+p _ {1} \times V _ {1} = p _ {2} \times V _ {2}
+$$
+
+$$
+\frac {\mathrm {p r e s s u r e}}{\mathrm {t e m p e r a t u r e}} = \mathrm {c o n s t a n t}
+$$
+
+$$
+\frac {p _ {1}}{T _ {1}} = \frac {p _ {2}}{T _ {2}}
+$$
+
+$$
+\mathrm {f o r c e} = \frac {\mathrm {c h a n g e i n m o m e n t u m}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+F = \frac {(m v - m u)}{t}
+$$
+
+$$
+\frac {\mathrm {c h a n g e o f w a v e l e n g t h}}{\mathrm {w a v e l e n g t h}} = \frac {\mathrm {v e l o c i t y o f a g a l a x y}}{\mathrm {s p e e d o f l i g h t}}
+$$
+
+$$
+\frac {\lambda - \lambda_ {0}}{\lambda_ {0}} = \frac {\Delta \lambda}{\lambda_ {0}} = \frac {v}{c}
+$$
+
+change in thermal energy = mass $ \times $ specific heat capacity $ \times $ change in temperature
+
+$$
+\Delta Q = m \times c \times \Delta T
+$$
+
+Where necessary, assume the acceleration of free fall, g=10 m/s $ ^{2}. $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404279.png' alt='OCR图片'/></div>
+
+## Answer ALL questions.
+
+1 This question is about astrophysics.
+
+(a) The table lists some statements about the universe.
+
+Place ticks ( $ \checkmark $ ) in the table to show which statements support the Big Bang theory.
+
+<table border="1"><tr><td>Statement</td><td>Supports the Big Bang theory</td></tr><tr><td>black holes are formed from extremely massive stars</td><td></td></tr><tr><td>cosmic microwave background radiation is detected in all directions</td><td></td></tr><tr><td>cosmic rays from space are detected at the Earth&#x27;s surface</td><td></td></tr><tr><td>each galaxy contains billions of stars</td><td></td></tr><tr><td>most galaxies show a red-shift in the light detected from them</td><td></td></tr></table>
+
+(b) The Sun will become a red giant star when it leaves the main sequence.
+
+Which row correctly describes how the surface temperature and brightness of the Sun will change when it becomes a red giant?
+
+<table border="1"><tr><td></td><td>Surface temperature</td><td>Brightness</td></tr><tr><td>A</td><td>decreases</td><td>decreases</td></tr><tr><td>B</td><td>decreases</td><td>increases</td></tr><tr><td>C</td><td>increases</td><td>decreases</td></tr><tr><td>D</td><td>increases</td><td>increases</td></tr></table>
+
+(c) Astronomical objects can be classified by their absolute magnitude.
+
+State what is meant by the term absolute magnitude.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404293.png' alt='OCR图片'/></div>
+
+2 The photograph shows the Three Gorges Dam in China, one of the largest hydroelectric power stations on Earth.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404297.png' alt='OCR图片'/></div>
+
+PRILL/Shutterstock
+
+(a) State two advantages of generating electricity using hydroelectric power stations.
+
+(b) Water is held in a reservoir on one side of the dam.
+
+The water flows through turbines to a river on the other side of the dam.
+
+The water level of the river is lower than the water level of the reservoir.
+
+(i) State which energy store of the water decreases as the water flows from the reservoir to the river.
+
+(ii) How is energy transferred from the dam to homes and factories in China?
+
+A by heating
+
+B by radiation
+
+electrically
+
+D mechanically
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404310.png' alt='OCR图片'/></div>
+
+(c) The Three Gorges Dam has a larger maximum output power than any other hydroelectric power station on Earth.
+
+(i) State what is meant by the term power.
+
+(ii) The mean energy transferred by the dam each day is $ 9. 7 \times1 0^{1 4} $ J. Calculate the mean output power of the dam.
+
+## mean output power=
+
+(iii) The maximum output power is 22 500 MW Which of these is the same as 22 500 MW?
+
+A 22500000 J
+
+B 22500000 J/s
+
+C 2250000000 J
+
+D 2250000000 J/s
+
+(iv) Suggest why the Three Gorges Dam does not always operate at its maximum output power.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404317.png' alt='OCR图片'/></div>
+
+3 This question is about solids, liquids and gases.
+
+(a) Melting is the process that occurs when a solid changes into a liquid. Using ideas about particles, describe the process of melting.
+
+(b) A sealed metal flask contains air at room temperature.
+
+The flask is then heated.
+
+The graph shows how the pressure of the air increases as its temperature increases.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404321.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404361.png' alt='OCR图片'/></div>
+
+(i) Explain how heating the flask increases the temperature of the air inside the flask.
+
+(ii) Explain why the pressure of the air increases as its temperature increases.
+
+(iii) Using the graph, determine the pressure of the air when its temperature is 400 K.
+
+(iv) The air in the flask is now cooled to a temperature of 230 K. Calculate the new pressure of the air.
+
+(Total for Question 3 = 10 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404372.png' alt='OCR图片'/></div>
+
+4 In extreme conditions, the isotope lithium-6 can be made to undergo nuclear fission.
+
+(a) The lithium-6 nucleus absorbs a neutron and produces an alpha particle and an isotope of hydrogen.
+
+The incomplete nuclear equation for this fission is
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404376.png' alt='OCR图片'/></div>
+
+(i) Complete the nuclear equation by writing the numbers in the boxes.
+
+(ii) Explain why this fission does not cause a chain reaction.
+
+(b) Explain the difference between nuclear fission and nuclear fusion.
+
+(Total for Question 4 = 6 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404380.png' alt='OCR图片'/></div>
+
+5 A student investigates how the support forces acting on a metre rule are affected by the position of a mass hanger.
+
+He uses this apparatus.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404385.png' alt='OCR图片'/></div>
+
+This is the student's method.
+
+- suspend a metre rule from its 10cm and 90cm marks using two newton meters
+
+- place a mass hanger with a weight of 5 N at the 20 cm mark on the metre rule
+
+- adjust the heights of the newton meters until the metre rule is horizontal
+
+- record the readings on both newton meters
+
+The student repeats the method, moving the mass hanger to a different position on the metre rule each time.
+
+(a) (i) State the independent variable in the student's investigation.
+
+(ii) State two control variables in the student's investigation.
+
+(iii) Suggest how the student could improve the quality of his data.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404389.png' alt='OCR图片'/></div>
+
+(b) The table shows the student's results.
+
+<table border="1"><tr><td>Position of mass hanger in cm</td><td>Reading on newton meter A in N</td><td>Reading on newton meter B in N</td></tr><tr><td>20</td><td>5.1</td><td>1.4</td></tr><tr><td>30</td><td>4.5</td><td>2.0</td></tr><tr><td>40</td><td>3.9</td><td>2.6</td></tr><tr><td>50</td><td>3.3</td><td>3.3</td></tr><tr><td>60</td><td>2.6</td><td>3.9</td></tr><tr><td>70</td><td>2.0</td><td>4.5</td></tr><tr><td>80</td><td>1.4</td><td>5.1</td></tr></table>
+
+The graph shows the results for newton meter A.
+
+Reading on newton meter in N
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404393.png' alt='OCR图片'/></div>
+
+(i) Plot the results for newton meter B.
+
+(ii) Draw the line of best fit for newton meter B.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404400.png' alt='OCR图片'/></div>
+
+(iii) Describe the relationships shown by the graph.
+
+(c) Using ideas about moments, explain why the reading on newton meter A decreases as the mass hanger is moved towards newton meter B.
+
+(Total for Question 5 = 13 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404405.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404410.png' alt='OCR图片'/></div>
+
+6 This question is about electromagnetism.
+
+(a) Diagram 1 shows the construction of an electromagnet.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404423.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Diagram 1
+
+</div>
+
+(i) Name a suitable metal for the core.
+
+(ii) State what must be done to the coil of wire to produce a magnetic field.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404429.png' alt='OCR图片'/></div>
+
+(b) Electromagnets are used in transformers to change the size of a voltage.
+
+Diagram 2 shows the construction of a simple transformer.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404445.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Diagram 2
+
+</div>
+
+(i) State the formula linking the input (primary) voltage, output (secondary) voltage and the turns ratio for a transformer.
+
+(ii) The input voltage to the transformer is 115V. Show that the output voltage is approximately 20V.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404450.png' alt='OCR图片'/></div>
+
+(iii) The input current to the transformer is 1.2 A.
+
+Calculate the output current.
+
+Assume that the transformer is 100% efficient.
+
+## output current=
+
+(iv) State two factors that would increase the output current of the transformer.
+
+(Total for Question 6 = 11 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404456.png' alt='OCR图片'/></div>
+
+7 An electrostatic paint sprayer is used to paint an object.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404460.png' alt='OCR图片'/></div>
+
+(a) The nozzle of the paint sprayer is positively charged. Explain the advantage of using a charged nozzle.
+
+<div align="center">
+
+(3) 
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404465.png' alt='OCR图片'/></div>
+
+(b) The object is an electrical conductor and is initially uncharged.
+
+Explain why the painting process would be more effective if the object were earthed.
+
+(Total for Question 7 = 6 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404471.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404480.png' alt='OCR图片'/></div>
+
+8 The photograph shows an oscilloscope.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404499.png' alt='OCR图片'/></div>
+
+© dny3d/Shutterstock
+
+An oscilloscope can be used to determine the frequency of a sound wave.
+
+(a) (i) Name the piece of equipment that should be used with an oscilloscope to detect a sound wave.
+
+(ii) Describe how an oscilloscope can be used to measure the time period of a sound wave.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404511.png' alt='OCR图片'/></div>
+
+(b) Diagram 1 shows an oscilloscope screen when a sound wave is detected.
+
+It also shows the settings of the oscilloscope.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404519.png' alt='OCR图片'/></div>
+
+## Oscilloscope settings
+
+y direction:1 square=2V x direction:1 square=5 $ \times10^{-6} $ s
+
+<div align="center">
+
+Diagram 1
+
+</div>
+
+(i) Determine whether the sound can be heard by humans.
+
+Include a calculation of frequency in your answer.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789737404524.png' alt='OCR图片'/></div>
+
+(ii) The oscilloscope settings are changed, as shown in Diagram 2.
+
+## Oscilloscope settings
+
+y direction: 1 square=1 V
+
+x direction: 1 square $ = 1\times 10^{-5} $ s
+
+<div align="center">
+
+Diagram 2
+
+</div>
+
+On Diagram 2, draw the wave that would be displayed on the oscilloscope screen if the same sound wave is detected using these new settings.
+
+(2) 
+
+(Total for Question 8 = 9 marks)
+
+TOTAL FOR PAPER = 70 MARKS
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404537.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404543.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404547.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789737404551.png' alt='OCR图片'/></div>

@@ -1,0 +1,503 @@
+<div style='text-align: center;'><img src='assets/crop_1_1789724477687.png' alt='OCR图片'/></div>
+
+## Instructions
+
+- Use black ink or ball-point pen.
+
+- Fill in the boxes at the top of this page with your name, centre number and candidate number.
+
+- Answer all questions.
+
+- Answer the questions in the spaces provided - there may be more space than you need.
+
+- Show all the steps in any calculations and state the units.
+
+- Some questions must be answered with a cross in a box . If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
+
+## Information
+
+- The total mark for this paper is 110.
+
+- The marks for each question are shown in brackets
+
+- use this as a guide as to how much time to spend on each question.
+
+## Advice
+
+- Read each question carefully before you start to answer it.
+
+- Write your answers neatly and in good English.
+
+- Try to answer every question.
+
+- Check your answers if you have time at the end.
+
+- Good luck with your examination.
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724477744.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789724477751.png' alt='OCR图片'/></div>
+
+## FORMULAE
+
+You may find the following formulae useful.
+
+$$
+\mathrm {e n e r g y t r a n s f e r r e d} = \mathrm {c u r r e n t} \times \mathrm {v o l t a g e} \times \mathrm {t i m e}
+$$
+
+$$
+E = I \times V \times t
+$$
+
+$$
+\mathrm {f r e q u e n c y} = \frac {1}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+f = \frac {1}{T}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {w o r k d o n e}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {e n e r g y t r a n s f e r r e d}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {o r b i t a l s p e e d} = \frac {2 \pi \times \mathrm {o r b i t a l r a d i u s}}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+v = \frac {2 \times \pi \times r}{T}
+$$
+
+(final speed) $ ^{2} $ = (initial speed) $ ^{2} $ + (2 $ \times $ acceleration $ \times $ distance moved)
+
+$$
+v ^ {2} = u ^ {2} + (2 \times a \times s)
+$$
+
+$$
+\mathrm {p r e s s u r e} \times \mathrm {v o l u m e} = \mathrm {c o n s t a n t}
+$$
+
+$$
+p _ {1} \times V _ {1} = p _ {2} \times V _ {2}
+$$
+
+$$
+\frac {\mathrm {p r e s s u r e}}{\mathrm {t e m p e r a t u r e}} = \mathrm {c o n s t a n t}
+$$
+
+$$
+\frac {p _ {1}}{T _ {1}} = \frac {p _ {2}}{T _ {2}}
+$$
+
+Where necessary, assume the acceleration of free fall, $ g=1 0 \mathrm{~ m} / \mathrm{s}^{2}. $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477755.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477759.png' alt='OCR图片'/></div>
+
+## Answer ALL questions.
+
+1 (a) (i) Which of these coloured stars has the highest surface temperature?
+
+A orange
+
+B red
+
+C white
+
+D yellow
+
+(ii) Which of these is a stage in the life cycle of the Sun?
+
+A black hole
+
+B neutron star
+
+C supernova
+
+D white dwarf
+
+(iii) Which of these is the stage nearest the end of the life cycle of a star with a mass much greater than the Sun?
+
+A main sequence
+
+B protostar
+
+C supernova
+
+D white dwarf
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477782.png' alt='OCR图片'/></div>
+
+(b) The diagram shows the orbit of a comet around a star.
+
+Draw a labelled arrow to show the force acting on the comet due to the star.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477786.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724477796.png' alt='OCR图片'/></div>
+
+2 A student uses iron filings to investigate the magnetic field pattern around a bar magnet.
+
+(a) Name the apparatus that the student could use to find the direction of the field lines.
+
+(b) The student draws a diagram of the magnetic field pattern of the magnet. The student makes three mistakes.
+
+Draw a circle around each mistake on the diagram.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477823.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724477829.png' alt='OCR图片'/></div>
+
+(c) The magnet is made of a magnetically hard material.
+
+Describe what is meant by the term magnetically hard.
+
+(Total for Question 2 = 6 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477833.png' alt='OCR图片'/></div>
+
+3 The diagram shows a model of a chain reaction in a nuclear fission reactor.
+
+A ball falls through the hole and hits a mousetrap.
+
+This mousetrap then releases another ball.
+
+Each released ball hits a different mousetrap.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477839.png' alt='OCR图片'/></div>
+
+(a) Each mousetrap represents a uranium-235 nucleus.
+
+(i) Name the particle represented by the balls.
+
+<div align="center">
+
+(1) 
+
+</div>
+
+(ii) Describe what is meant by the term nuclear fission.
+
+<div align="center">
+
+(2) 
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724477850.png' alt='OCR图片'/></div>
+
+(iii) Describe what is meant by the term chain reaction.
+
+(b) The walls of a real nuclear reactor are not made of plastic.
+
+Give a suitable material for the walls of a real nuclear reactor.
+
+(c) Use words from the box to complete the sentences about the moderator and control rods in a nuclear reactor.
+
+absorb ionise neutralise reflect slow boron granite graphite paper uranium
+
+The moderator in a nuclear reactor can be made of ...
+
+The moderator is designed to neutrons.
+
+The control rods in a nuclear reactor can be made of ...
+
+The control rods are designed to neutrons.
+
+(Total for Question 3 = 10 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477858.png' alt='OCR图片'/></div>
+
+4 The diagram shows a velocity-time graph for a car from the time the driver sees an obstacle in the road until the car comes to rest.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477865.png' alt='OCR图片'/></div>
+
+(a) (i) Calculate the acceleration of the car between 1.8 and 8.0 seconds.
+
+(ii) Calculate the braking distance of the car.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724477872.png' alt='OCR图片'/></div>
+
+(iii) Explain the effect, if any, of increased driver tiredness on the thinking distance and on the braking distance of the car.
+
+thinking distance
+
+braking distance
+
+(b) Which of these represents the distance-time graph for the car?
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477878.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724477897.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_3_1789724477910.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_4_1789724477915.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+(Total for Question 4 = 11 marks)
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_5_1789724477919.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477934.png' alt='OCR图片'/></div>
+
+5 The diagram shows a circuit used to investigate the relationship between current and voltage for a light-emitting diode (LED).
+
+variable power supply
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477940.png' alt='OCR图片'/></div>
+
+(a) Draw meters on the diagram to measure the voltage of the LED and the current in the LED.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724477977.png' alt='OCR图片'/></div>
+
+(b) The table shows the results of the investigation.
+
+<table border="1"><tr><td>Voltage inV</td><td>Current inmA</td></tr><tr><td>0.00</td><td>0.0</td></tr><tr><td>0.30</td><td>0.5</td></tr><tr><td>0.35</td><td>2.5</td></tr><tr><td>0.40</td><td>1.5</td></tr><tr><td>0.45</td><td>2.0</td></tr><tr><td>0.50</td><td>4.5</td></tr><tr><td>0.55</td><td>9.0</td></tr><tr><td>0.60</td><td>15.0</td></tr></table>
+
+(i) Plot the results on the grid.
+
+(ii) One of the results is anomalous.
+
+On the graph, draw a circle around the anomalous result.
+
+(iii) Draw a curve of best fit.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477984.png' alt='OCR图片'/></div>
+
+(iv) Give a reason why a line graph is the best way of showing these results.
+
+(v) State the formula linking voltage, current and resistance.
+
+(vi) Any current larger than 15 mA will permanently damage the LED.
+
+The resistor in the circuit has a resistance of 270 $ \Omega. $
+
+Use the results from the investigation to determine the maximum voltage of the power supply without damaging the LED.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724477989.png' alt='OCR图片'/></div>
+
+6 The diagram shows a container of water.
+
+The container has a heater in the bottom corner, a temperature sensor and a lid.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478007.png' alt='OCR图片'/></div>
+
+(a) Explain how a convection current is formed in the container.
+
+You may add to the diagram or draw your own diagram to support your answer.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478017.png' alt='OCR图片'/></div>
+
+(b) The graph shows how the temperature sensor reading changes with time.
+
+It shows the change in temperature when the container is full of water and when the container is empty.
+
+Temperature
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478022.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Time
+
+</div>
+
+(i) Describe the relationship between temperature and time when the container is full of water.
+
+(ii) Explain the differences between the two curves on the graph.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478054.png' alt='OCR图片'/></div>
+
+7 (a) The diagram shows tracks produced by radiation in a device called a cloud chamber. The tracks are formed when particles ionise the material in the cloud chamber.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478062.png' alt='OCR图片'/></div>
+
+Alpha particles produce the shorter, thicker tracks.
+
+Beta particles produce the longer, thinner tracks.
+
+Explain why alpha particles produce the shorter, thicker tracks.
+
+(b) Uranium-235 is an isotope of uranium that can decay by emitting an alpha particle.
+
+(i) Describe what is meant by the term isotope.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478067.png' alt='OCR图片'/></div>
+
+(ii) Complete the equation for the decay of uranium-235
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478072.png' alt='OCR图片'/></div>
+
+(iii) Uranium-235 decays to thorium-231 with a half-life of 700 million years.
+
+When a rock was formed, it contained 6400 million uranium-235 nuclei and no thorium-231 nuclei.
+
+Show that after 2100 million years there are seven times more thorium nuclei than uranium nuclei in the rock.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478078.png' alt='OCR图片'/></div>
+
+8 (a) Describe how two magnets can be arranged to produce a uniform magnetic field. You may draw a diagram to support your answer.
+
+(b) The diagram shows a wire in a uniform magnetic field.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478082.png' alt='OCR图片'/></div>
+
+(i) The wire is moved up and down repeatedly in the magnetic field. Explain the effect that this movement has on the ammeter reading.
+
+<div align="center">
+
+(3) 
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478087.png' alt='OCR图片'/></div>
+
+(ii) Explain the effects on the ammeter reading of moving the wire with the same amplitude but at a higher frequency.
+
+(Total for Question 8 = 9 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478092.png' alt='OCR图片'/></div>
+
+9 The photograph shows a whale jumping out of the surface of the sea.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478109.png' alt='OCR图片'/></div>
+
+(Source: $ \textcircled{c} $ Alexander Baumann/Shutterstock)
+
+(a) At the top of the jump, the whale's velocity is 0 m/s.
+
+The whale falls 2.2 m from the top of the jump to the surface of the sea.
+
+Calculate the velocity of the whale when it hits the surface of the sea.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478206.png' alt='OCR图片'/></div>
+
+(b) A resultant force causes the whale to slow down when it hits the surface of the sea.
+
+(i) Draw an arrow to show this resultant force.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478231.png' alt='OCR图片'/></div>
+
+## (Source: $ \textcircled{c} $ Eugenia Petrovskaya/Shutterstock)
+
+(ii) The resultant force acting on the whale is 18000N.
+
+The mass of the whale is 4100 kg.
+
+Calculate the acceleration of the whale.
+
+(Total for Question 9 = 8 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478261.png' alt='OCR图片'/></div>
+
+10 The diagram shows a device called a hydraulic lift.
+
+The hydraulic lift consists of a tube of oil with a piston at each end.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478270.png' alt='OCR图片'/></div>
+
+(a) Calculate the pressure difference between the bottom of piston X and the bottom of the oil.
+
+[density of oil = 820 kg/m $ ^{3} $]
+
+pressure difference=
+
+(b) A 24 kg mass is placed on piston X.
+
+(i) Calculate the weight of the 24kg mass. Give the unit.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478286.png' alt='OCR图片'/></div>
+
+(ii) Calculate the extra pressure on the oil due to the mass.
+
+(iii) The oil transfers the same extra pressure to piston Y.
+
+Calculate the force acting upwards on piston Y due to the extra pressure.
+
+(c) Piston Y starts at rest, rises slowly and then comes to rest.
+
+State how the following energy stores have changed from before the motion to after the motion is complete.
+
+<table border="1"><tr><td>Energy store</td><td>Change</td></tr><tr><td>gravitational potential energy of piston X</td><td></td></tr><tr><td>gravitational potential energy of piston Y</td><td></td></tr><tr><td>chemical energy of piston Y</td><td></td></tr><tr><td>kinetic energy of piston Y</td><td></td></tr></table>
+
+(Total for Question 10 = 15 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478290.png' alt='OCR图片'/></div>
+
+11 Diagram 1 shows what happens when light is incident on a piece of transparent material.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478308.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Diagram 1
+
+</div>
+
+(a) When very bright light shines on this transparent material, a small amount of light is reflected at point X.
+
+(i) On diagram 2, draw the reflected ray from point X.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478317.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Diagram 2
+
+</div>
+
+(ii) Measure the angle of refraction at point X on diagram 2.
+
+<div style='text-align: center;'><img src='assets/crop_3_1789724478322.png' alt='OCR图片'/></div>
+
+(iii) State the formula linking refractive index, angle of incidence and angle of refraction.
+
+(iv) Show that the refractive index of the transparent material is about 1.7
+
+(v) State the formula linking refractive index and critical angle.
+
+(vi) Calculate the critical angle for the transparent material.
+
+## QUESTION 11 CONTINUES ON NEXT PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478327.png' alt='OCR图片'/></div>
+
+(b) Explain the behaviour of the light at points Y and Z.
+
+<div align="center">
+
+(3) 
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_1_1789724478342.png' alt='OCR图片'/></div>
+
+(Total for Question 11 = 12 marks)
+
+TOTAL FOR PAPER=110 MARKS
+
+<div style='text-align: center;'><img src='assets/crop_2_1789724478349.png' alt='OCR图片'/></div>

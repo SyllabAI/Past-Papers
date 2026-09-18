@@ -1,0 +1,488 @@
+<table><tr><td colspan="3">Please check the examination details below before entering your candidate information</td></tr><tr><td>Candidate surname</td><td colspan="2">Other names</td></tr><tr><td colspan="3">Centre Number Candidate Number</td></tr><tr><td colspan="3">Pearson Edexcel International GCSE (9-1)</td></tr><tr><td colspan="3">Thursday 16 January 2020</td></tr><tr><td>Afternoon (Time: 1 hour 15 minutes)</td><td colspan="2">Paper Reference 4PH1/2P</td></tr><tr><td colspan="3">Physics
+Unit: 4PH1
+Paper 2P</td></tr><tr><td colspan="3">You must have:
+Calculator, ruler</td></tr><tr><td colspan="3">Total Marks</td></tr></table>
+
+## Instructions
+
+- Use black ink or ball-point pen.
+
+- Fill in the boxes at the top of this page with your name, centre number and candidate number.
+
+- Answer all questions.
+
+- Answer the questions in the spaces provided
+
+- there may be more space than you need.
+
+- Show all the steps in any calculations and state the units.
+
+- Some questions must be answered with a cross in a box . If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.
+
+## Information
+
+- The total mark for this paper is 70.
+
+- The marks for each question are shown in brackets
+
+- use this as a guide as to how much time to spend on each question.
+
+## Advice
+
+- Read each question carefully before you start to answer it.
+
+- Write your answers neatly and in good English.
+
+- Try to answer every question.
+
+- Check your answers if you have time at the end.
+
+Turn over
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344051.png' alt='OCR图片'/></div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344066.png' alt='OCR图片'/></div>
+
+## FORMULAE
+
+You may find the following formulae useful.
+
+$$
+\mathrm {e n e r g y t r a n s f e r r e d} = \mathrm {c u r r e n t} \times \mathrm {v o l t a g e} \times \mathrm {t i m e}
+$$
+
+$$
+E = I \times V \times t
+$$
+
+$$
+\mathrm {f r e q u e n c y} = \frac {1}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+f = \frac {1}{T}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {w o r k d o n e}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {p o w e r} = \frac {\mathrm {e n e r g y t r a n s f e r r e d}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+P = \frac {W}{t}
+$$
+
+$$
+\mathrm {o r b i t a l s p e e d} = \frac {2 \pi \times \mathrm {o r b i t a l r a d i u s}}{\mathrm {t i m e p e r i o d}}
+$$
+
+$$
+v = \frac {2 \times \pi \times r}{T}
+$$
+
+(final speed) $ ^{2} $ = (initial speed) $ ^{2} $ + (2 $ \times $ acceleration $ \times $ distance moved)
+
+$$
+v ^ {2} = u ^ {2} + (2 \times a \times s)
+$$
+
+$$
+\mathrm {p r e s s u r e} \times \mathrm {v o l u m e} = \mathrm {c o n s t a n t}
+$$
+
+$$
+p _ {1} \times V _ {1} = p _ {2} \times V _ {2}
+$$
+
+$$
+\frac {\mathrm {p r e s s u r e}}{\mathrm {t e m p e r a t u r e}} = \mathrm {c o n s t a n t}
+$$
+
+$$
+\frac {p _ {1}}{T _ {1}} = \frac {p _ {2}}{T _ {2}}
+$$
+
+$$
+\mathrm {f o r c e} = \frac {\mathrm {c h a n g e i n m o m e n t u m}}{\mathrm {t i m e t a k e n}}
+$$
+
+$$
+F = \frac {(m v - m u)}{t}
+$$
+
+$$
+\frac {\mathrm {c h a n g e o f w a v e l e n g t h}}{\mathrm {w a v e l e n g t h}} = \frac {\mathrm {v e l o c i t y o f a g a l a x y}}{\mathrm {s p e e d o f l i g h t}}
+$$
+
+$$
+\frac {\lambda - \lambda_ {0}}{\lambda_ {0}} = \frac {\Delta \lambda}{\lambda_ {0}} = \frac {v}{c}
+$$
+
+change in thermal energy = mass $ \times $ specific heat capacity $ \times $ change in temperature
+
+$$
+\Delta Q = m \times c \times \Delta T
+$$
+
+Where necessary, assume the acceleration of free fall, g=10 m/s $ ^{2} $
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344079.png' alt='OCR图片'/></div>
+
+## Answer ALL questions.
+
+1 This question is about energy resources.
+
+(a) The table lists some methods of generating electricity using energy resources.
+
+Place ticks ( $ \checkmark $ ) in the table to show if each method uses a renewable energy resource. One has been done for you.
+
+<table border="1"><tr><td>Method of generating electricity</td><td>Uses a renewable energy resource</td></tr><tr><td>coal power station</td><td></td></tr><tr><td>diesel generator</td><td></td></tr><tr><td>geothermal power station</td><td></td></tr><tr><td>hydroelectric power station</td><td></td></tr><tr><td>natural gas turbine</td><td></td></tr><tr><td>nuclear power station</td><td></td></tr><tr><td>solar cell</td><td>√</td></tr><tr><td>wind turbine</td><td></td></tr></table>
+
+(b) Solar cells can be used to generate electricity.
+
+(i) How is energy transferred from the Sun to a solar cell?
+
+A by heating
+
+B by radiation
+
+electrically
+
+mechanically
+
+(ii) State one disadvantage of using solar cells to generate electricity.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344130.png' alt='OCR图片'/></div>
+
+2 The photograph shows a brass mass.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344139.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Dudaeva/Shutterstock
+
+</div>
+
+(a) State the formula linking density, mass and volume.
+
+<div align="center">
+
+(1) 
+
+</div>
+
+(b) The brass mass has a mass of 454 g.
+
+The density of brass is $ 8. 4 6 \mathrm{~ g} / \mathrm{c m}^{3} $.
+
+Calculate the volume of the brass mass.
+
+Give the unit.
+
+(Total for Question 2 = 4 marks)
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344144.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344149.png' alt='OCR图片'/></div>
+
+3 Curling is a sport played on ice.
+
+A player slides stone A across the ice towards a scoring zone.
+
+The ice reduces friction so that there is negligible friction when the stone is sliding.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344155.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Corepics VOF/Shutterstock
+
+</div>
+
+(a) Stone A leaves the player's hand with a velocity of 2.90 m/s.
+
+The mass of stone A is 17 kg.
+
+(i) State the formula linking momentum, mass and velocity.
+
+(ii) Show that the momentum of stone A is approximately 50 kg m/s.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344169.png' alt='OCR图片'/></div>
+
+(b) Stone A slides towards the scoring zone.
+
+In the scoring zone, stone A collides with a stationary stone, B.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344182.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Michael715/Shutterstock
+
+</div>
+
+(i) After the collision, both stones move in the same direction as the initial direction of stone A.
+
+The velocity of stone A after the collision is 0.40 m/s.
+
+Calculate the velocity of stone B after the collision.
+
+[mass of stone B=19kg]
+
+(ii) When the stones collided, they were in contact for a time of 25 ms.
+
+Calculate the magnitude of the force stone A exerted on stone B in this collision.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344191.png' alt='OCR图片'/></div>
+
+4 A student uses this apparatus to demonstrate the effect of electric charge.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344223.png' alt='OCR图片'/></div>
+
+He pours some fine powder into a funnel.
+
+The fine powder moves through a length of plastic tubing and falls into a metal can.
+
+The metal can rests on a metal cap.
+
+The metal cap is connected to a thin piece of metal via a metal rod.
+
+When the powder lands in the can, the thin piece of metal moves away from the metal rod.
+
+(a) Explain why the thin piece of metal moves away from the metal rod.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344229.png' alt='OCR图片'/></div>
+
+(b) A coulombmeter measures electric charge.
+
+The student connects a coulombmeter to the metal can.
+
+When all the powder has landed in the can, the coulombmeter shows a reading of $ - 9. 4 \times1 0^{-9} $ C.
+
+(i) Which statement is true for the metal can?
+
+A it gains negatively charged electrons
+
+B it loses negatively charged electrons
+
+C it gains positively charged electrons
+
+(ii) State the formula linking charge, current and time.
+
+D it loses positively charged electrons
+
+(iii) It takes a time of 12s from when the powder starts landing in the metal can until all the powder has landed in the can.
+
+Calculate the mean charging current.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344234.png' alt='OCR图片'/></div>
+
+(c) The student suggests that this demonstration is similar to refuelling an aircraft.
+
+The powder represents the fuel and the metal can represents the fuel tank in the aircraft.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344239.png' alt='OCR图片'/></div>
+
+Explain how the student should modify this apparatus to demonstrate how to minimise the dangers when refuelling an aircraft.
+
+You may add to the diagram to help your answer.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344252.png' alt='OCR图片'/></div>
+
+5 A sonometer is a piece of equipment used to investigate the frequency of waves on a string. The photograph shows a sonometer.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344264.png' alt='OCR图片'/></div>
+
+The string is under tension. When the string is plucked it vibrates to produce a sound wave.
+
+(a) Describe how an oscilloscope should be used to measure the frequency of the sound wave from the sonometer.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344273.png' alt='OCR图片'/></div>
+
+(b) A student investigates how the frequency of sound from the sonometer varies with the length of the string.
+
+This is the student's method.
+
+- apply a constant tension force to the string
+
+- pluck the string and measure the frequency of the sound wave produced
+
+- move the bridge to change the length of the string
+
+- pluck the string and measure the new frequency of the sound wave produced
+
+Repeat the method for different lengths of string.
+
+(i) Give a control variable for the student's investigation.
+
+(ii) The table shows the student's results.
+
+<table border="1"><tr><td rowspan="2">String length in cm</td><td colspan="4">Frequency in Hz</td></tr><tr><td>Test1</td><td>Test2</td><td>Test3</td><td>Mean</td></tr><tr><td>20</td><td>105</td><td>104</td><td>108</td><td>106</td></tr><tr><td>40</td><td>53</td><td>54</td><td>52</td><td>53</td></tr><tr><td>60</td><td>36</td><td>32</td><td>35</td><td></td></tr><tr><td>80</td><td>25</td><td>28</td><td>26</td><td>26</td></tr><tr><td>100</td><td>22</td><td>20</td><td>21</td><td>21</td></tr><tr><td>120</td><td>20</td><td>17</td><td>18</td><td>18</td></tr><tr><td>140</td><td>15</td><td>15</td><td>14</td><td>15</td></tr></table>
+
+Calculate the mean frequency for a string length of 60 cm.
+
+mean frequency =
+
+(iii) Plot a graph of the mean frequency and string length data on the grid.
+
+(iv) Draw the curve of best fit.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344287.png' alt='OCR图片'/></div>
+
+(v) Determine the string length needed to produce a sound wave of frequency 75 Hz.
+
+string length=
+
+(vi) The student cannot hear the sound from the sonometer for some of the string lengths tested.
+
+Explain which of the string lengths produce sounds that humans cannot hear.
+
+(Total for Question 5 = 14 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344293.png' alt='OCR图片'/></div>
+
+6 This question is about stars.
+
+(a) Astronomers measure the absolute magnitude of stars. State what is meant by the term absolute magnitude.
+
+(b) The evolution of stars can be shown on a Hertzsprung-Russell diagram (HR diagram).
+
+Complete the HR diagram by
+
+- labelling the x-axis
+
+- completing the absolute magnitude scale
+
+- drawing the main sequence, red giant and white dwarf regions
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344300.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+(Total for Question 6 = 7 marks)
+
+</div>
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344304.png' alt='OCR图片'/></div>
+
+## BLANK PAGE
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344311.png' alt='OCR图片'/></div>
+
+7 The photograph shows a glass plate made from uranium glass.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344331.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+$ \textcircled{c} $ Laura Healey/Shutterstock
+
+</div>
+
+Uranium oxide is used to give the glass a green colour.
+
+(a) Uranium-238 is the most common isotope of uranium and can be represented using this symbol.
+
+$$
+{ } _ { 9 2 } ^ { 2 3 8 } \mathrm { U }
+$$
+
+(i) State what information the numbers 92 and 238 give about the nucleus of this isotope of uranium.
+
+238. 
+
+(ii) Uranium-238 decays by alpha emission.
+
+Describe how the nucleus of a uranium-238 atom changes as a result of alpha emission.
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344344.png' alt='OCR图片'/></div>
+
+(b) The table gives some information about the uranium glass plate.
+
+<table border="1"><tr><td>mass of plate</td><td>1.1kg</td></tr><tr><td>percentage(%)of plate made of uranium-238(by mass)</td><td>4.5%</td></tr><tr><td>mass of uranium-238atom</td><td>4.0×10-27kg</td></tr></table>
+
+(i) Calculate the number of uranium-238 atoms in the plate.
+
+## number of atoms=
+
+(ii) Uranium-238 is an alpha emitter and has a half-life of 4.5 billion years.
+
+Explain why it is safe to eat food from the uranium glass plate.
+
+(Total for Question 7 = 9 marks)
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344355.png' alt='OCR图片'/></div>
+
+8 This question is about magnetic fields.
+
+(a) Diagram 1 shows a positively charged proton moving downwards in a uniform magnetic field.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344362.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+Diagram 1
+
+</div>
+
+The proton experiences a force to the right.
+
+What is the direction of the magnetic field?
+
+A into the page
+
+B left
+
+C out of the page
+
+D upward
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344367.png' alt='OCR图片'/></div>
+
+(b) When a current passes through a flat circular coil, a magnetic field is produced.
+
+Complete diagram 2 by drawing the magnetic field of the flat circular coil.
+
+(3) 
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344393.png' alt='OCR图片'/></div>
+
+Turn over for the last part of the question
+
+## Diagram 2
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344399.png' alt='OCR图片'/></div>
+
+(c) A wireless charging base uses a magnetic field to charge the battery of a mobile phone.
+
+<div style='text-align: center;'><img src='assets/crop_1_1789736344404.png' alt='OCR图片'/></div>
+
+<div align="center">
+
+BeeBright/Shutterstock
+
+</div>
+
+There is an alternating current in a coil of wire in the charging base.
+
+There is another coil of wire connected to the battery in the mobile phone.
+
+(i) Explain how the wireless charging base charges the battery of the mobile phone.
+
+(ii) Discuss the advantages and disadvantages of using a high current in the wireless charging base.
+
+(Total for Question 8 = 9 marks)
+
+TOTAL FOR PAPER = 70 MARKS
+
+<div style='text-align: center;'><img src='assets/crop_2_1789736344410.png' alt='OCR图片'/></div>
